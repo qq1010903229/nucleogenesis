@@ -1,0 +1,7140 @@
+{
+  "progress_H": {
+    "name": "Hydrogen",
+    "description": "Gather Hydrogen",
+    "goals": [
+      1000000,
+      1000000000,
+      1000000000000,
+      1000000000000000,
+      1000000000000000000,
+      1e+21,
+      1e+24
+    ],
+    "progress": "_a6e39f6466732162012dd24cf010952b",
+    "deps": [
+      "H"
+    ]
+  },
+  "exotic_progress_H": {
+    "name": "Exotic Hydrogen",
+    "description": "Gather exotic Hydrogen",
+    "goals": [
+      100,
+      100000,
+      10000000,
+      1000000000
+    ],
+    "progress": "_def86885f021c58be2324a7c41618f8e",
+    "deps": [
+      "H"
+    ]
+  },
+  "isotopes_H": {
+    "name": "Hydrogen isotopes",
+    "description": "Unlock all Hydrogen isotopes",
+    "goals": [
+      3
+    ],
+    "progress": "_0e91ec1edcd852f8683eb80f9ba2d801",
+    "deps": [
+      "H"
+    ]
+  },
+  "ions_H": {
+    "name": "Hydrogen ions",
+    "description": "Unlock all Hydrogen ions",
+    "goals": [
+      2
+    ],
+    "progress": "_7ae9bc395cce272ee07bae33d4f071cc",
+    "deps": [
+      "H",
+      "ion"
+    ]
+  },
+  "molecules_H": {
+    "name": "Hydrogen molecules",
+    "description": "Unlock all Hydrogen molecules",
+    "goals": [
+      130
+    ],
+    "progress": "_02663bbd75dae63faa58ee631f0175eb",
+    "deps": [
+      "H",
+      "molecule"
+    ]
+  },
+  "progress_He": {
+    "name": "Helium",
+    "description": "Gather Helium",
+    "goals": [
+      1000000,
+      1000000000,
+      1000000000000,
+      1000000000000000,
+      1000000000000000000,
+      1e+21,
+      1e+24
+    ],
+    "progress": "_d961f8e0bad346bf4fecfe072ece6b28",
+    "deps": [
+      "He"
+    ]
+  },
+  "exotic_progress_He": {
+    "name": "Exotic Helium",
+    "description": "Gather exotic Helium",
+    "goals": [
+      100,
+      100000,
+      10000000,
+      1000000000
+    ],
+    "progress": "_9e7546ef2dc144c1c054c389a308d628",
+    "deps": [
+      "He"
+    ]
+  },
+  "isotopes_He": {
+    "name": "Helium isotopes",
+    "description": "Unlock all Helium isotopes",
+    "goals": [
+      3
+    ],
+    "progress": "_2d4565a7009ffe469f007da4702e134a",
+    "deps": [
+      "He"
+    ]
+  },
+  "ions_He": {
+    "name": "Helium ions",
+    "description": "Unlock all Helium ions",
+    "goals": [
+      3
+    ],
+    "progress": "_b0bc68a6a7f96060e3198868b35f9b6d",
+    "deps": [
+      "He",
+      "ion"
+    ]
+  },
+  "progress_Li": {
+    "name": "Lithium",
+    "description": "Gather Lithium",
+    "goals": [
+      1000000,
+      1000000000,
+      1000000000000,
+      1000000000000000,
+      1000000000000000000,
+      1e+21,
+      1e+24
+    ],
+    "progress": "_39e5a713b825dff4a35004c83edbedf7",
+    "deps": [
+      "Li"
+    ]
+  },
+  "exotic_progress_Li": {
+    "name": "Exotic Lithium",
+    "description": "Gather exotic Lithium",
+    "goals": [
+      100,
+      100000,
+      10000000,
+      1000000000
+    ],
+    "progress": "_83da7082c11d9b9f847ed134eadca6bc",
+    "deps": [
+      "Li"
+    ]
+  },
+  "isotopes_Li": {
+    "name": "Lithium isotopes",
+    "description": "Unlock all Lithium isotopes",
+    "goals": [
+      2
+    ],
+    "progress": "_a92140ebe5c286fecce7bc3f1c123b37",
+    "deps": [
+      "Li"
+    ]
+  },
+  "ions_Li": {
+    "name": "Lithium ions",
+    "description": "Unlock all Lithium ions",
+    "goals": [
+      4
+    ],
+    "progress": "_f29e87becc258b81623f17618c260d46",
+    "deps": [
+      "Li",
+      "ion"
+    ]
+  },
+  "molecules_Li": {
+    "name": "Lithium molecules",
+    "description": "Unlock all Lithium molecules",
+    "goals": [
+      5
+    ],
+    "progress": "_8874ba5a21128f92fba08f6dd3fb5a2e",
+    "deps": [
+      "Li",
+      "molecule"
+    ]
+  },
+  "progress_Be": {
+    "name": "Beryllium",
+    "description": "Gather Beryllium",
+    "goals": [
+      1000000,
+      1000000000,
+      1000000000000,
+      1000000000000000,
+      1000000000000000000,
+      1e+21,
+      1e+24
+    ],
+    "progress": "_950c67425a41cf0007fa18cfec8461fb",
+    "deps": [
+      "Be"
+    ]
+  },
+  "exotic_progress_Be": {
+    "name": "Exotic Beryllium",
+    "description": "Gather exotic Beryllium",
+    "goals": [
+      100,
+      100000,
+      10000000,
+      1000000000
+    ],
+    "progress": "_63ee193a584d567a6f8e32c60b9e58b4",
+    "deps": [
+      "Be"
+    ]
+  },
+  "isotopes_Be": {
+    "name": "Beryllium isotopes",
+    "description": "Unlock all Beryllium isotopes",
+    "goals": [
+      3
+    ],
+    "progress": "_c5536b082c0e87c4974acf7dc43d9f79",
+    "deps": [
+      "Be"
+    ]
+  },
+  "ions_Be": {
+    "name": "Beryllium ions",
+    "description": "Unlock all Beryllium ions",
+    "goals": [
+      5
+    ],
+    "progress": "_3fbd21a3bb598adf1efaa92323f4405c",
+    "deps": [
+      "Be",
+      "ion"
+    ]
+  },
+  "molecules_Be": {
+    "name": "Beryllium molecules",
+    "description": "Unlock all Beryllium molecules",
+    "goals": [
+      3
+    ],
+    "progress": "_1c128d16b4d0eca65e88fc809e987b87",
+    "deps": [
+      "Be",
+      "molecule"
+    ]
+  },
+  "progress_B": {
+    "name": "Boron",
+    "description": "Gather Boron",
+    "goals": [
+      1000000,
+      1000000000,
+      1000000000000,
+      1000000000000000,
+      1000000000000000000,
+      1e+21,
+      1e+24
+    ],
+    "progress": "_ac949f5dada24c4e2d179f3c0d6b675a",
+    "deps": [
+      "B"
+    ]
+  },
+  "exotic_progress_B": {
+    "name": "Exotic Boron",
+    "description": "Gather exotic Boron",
+    "goals": [
+      100,
+      100000,
+      10000000,
+      1000000000
+    ],
+    "progress": "_10cded75c823d2f03d056fc7aa4cada5",
+    "deps": [
+      "B"
+    ]
+  },
+  "isotopes_B": {
+    "name": "Boron isotopes",
+    "description": "Unlock all Boron isotopes",
+    "goals": [
+      2
+    ],
+    "progress": "_f1e134c454c1c60dc7eb2eff97423dfd",
+    "deps": [
+      "B"
+    ]
+  },
+  "ions_B": {
+    "name": "Boron ions",
+    "description": "Unlock all Boron ions",
+    "goals": [
+      6
+    ],
+    "progress": "_a33ec912d2de390dff06edaad7e25284",
+    "deps": [
+      "B",
+      "ion"
+    ]
+  },
+  "molecules_B": {
+    "name": "Boron molecules",
+    "description": "Unlock all Boron molecules",
+    "goals": [
+      13
+    ],
+    "progress": "_7360fd0ba1c4f7d7e062f6ea9596581f",
+    "deps": [
+      "B",
+      "molecule"
+    ]
+  },
+  "progress_C": {
+    "name": "Carbon",
+    "description": "Gather Carbon",
+    "goals": [
+      1000000,
+      1000000000,
+      1000000000000,
+      1000000000000000,
+      1000000000000000000,
+      1e+21,
+      1e+24
+    ],
+    "progress": "_4752d1f8c83a82b416f1bb8bc6503e5d",
+    "deps": [
+      "C"
+    ]
+  },
+  "exotic_progress_C": {
+    "name": "Exotic Carbon",
+    "description": "Gather exotic Carbon",
+    "goals": [
+      100,
+      100000,
+      10000000,
+      1000000000
+    ],
+    "progress": "_ba2e750061f4a577eeb3cdd47c400f70",
+    "deps": [
+      "C"
+    ]
+  },
+  "isotopes_C": {
+    "name": "Carbon isotopes",
+    "description": "Unlock all Carbon isotopes",
+    "goals": [
+      5
+    ],
+    "progress": "_c64c67fbdc6243254a9e5df350e1a6c0",
+    "deps": [
+      "C"
+    ]
+  },
+  "ions_C": {
+    "name": "Carbon ions",
+    "description": "Unlock all Carbon ions",
+    "goals": [
+      7
+    ],
+    "progress": "_b8801e2eb4c6fa7fcb0e9d65f32f1e06",
+    "deps": [
+      "C",
+      "ion"
+    ]
+  },
+  "molecules_C": {
+    "name": "Carbon molecules",
+    "description": "Unlock all Carbon molecules",
+    "goals": [
+      90
+    ],
+    "progress": "_55ffa8e18789f109f8917c8be618020f",
+    "deps": [
+      "C",
+      "molecule"
+    ]
+  },
+  "progress_N": {
+    "name": "Nitrogen",
+    "description": "Gather Nitrogen",
+    "goals": [
+      1000000,
+      1000000000,
+      1000000000000,
+      1000000000000000,
+      1000000000000000000,
+      1e+21,
+      1e+24
+    ],
+    "progress": "_2f1277f4438f395d4c1db861b58c6730",
+    "deps": [
+      "N"
+    ]
+  },
+  "exotic_progress_N": {
+    "name": "Exotic Nitrogen",
+    "description": "Gather exotic Nitrogen",
+    "goals": [
+      100,
+      100000,
+      10000000,
+      1000000000
+    ],
+    "progress": "_be3711f8b59547fa949af2f92e931608",
+    "deps": [
+      "N"
+    ]
+  },
+  "isotopes_N": {
+    "name": "Nitrogen isotopes",
+    "description": "Unlock all Nitrogen isotopes",
+    "goals": [
+      4
+    ],
+    "progress": "_9fadeb212c5c3ddb3db86e04f7a1a645",
+    "deps": [
+      "N"
+    ]
+  },
+  "ions_N": {
+    "name": "Nitrogen ions",
+    "description": "Unlock all Nitrogen ions",
+    "goals": [
+      8
+    ],
+    "progress": "_a07fc1a377e99eaa79b89a98c04a8a39",
+    "deps": [
+      "N",
+      "ion"
+    ]
+  },
+  "molecules_N": {
+    "name": "Nitrogen molecules",
+    "description": "Unlock all Nitrogen molecules",
+    "goals": [
+      36
+    ],
+    "progress": "_f71c1a116858bf2e144bbe3afb9dbe2f",
+    "deps": [
+      "N",
+      "molecule"
+    ]
+  },
+  "progress_O": {
+    "name": "Oxygen",
+    "description": "Gather Oxygen",
+    "goals": [
+      1000000,
+      1000000000,
+      1000000000000,
+      1000000000000000,
+      1000000000000000000,
+      1e+21,
+      1e+24
+    ],
+    "progress": "_db882134b9e3aedc7dbe6d0380828fe1",
+    "deps": [
+      "O"
+    ]
+  },
+  "exotic_progress_O": {
+    "name": "Exotic Oxygen",
+    "description": "Gather exotic Oxygen",
+    "goals": [
+      100,
+      100000,
+      10000000,
+      1000000000
+    ],
+    "progress": "_a288b75acb6f436545cb5edd7e3807f8",
+    "deps": [
+      "O"
+    ]
+  },
+  "isotopes_O": {
+    "name": "Oxygen isotopes",
+    "description": "Unlock all Oxygen isotopes",
+    "goals": [
+      6
+    ],
+    "progress": "_6775b5ccd2734abedcd77965c89fee86",
+    "deps": [
+      "O"
+    ]
+  },
+  "ions_O": {
+    "name": "Oxygen ions",
+    "description": "Unlock all Oxygen ions",
+    "goals": [
+      10
+    ],
+    "progress": "_90156a096a0ec354b46d64b15739cf03",
+    "deps": [
+      "O",
+      "ion"
+    ]
+  },
+  "molecules_O": {
+    "name": "Oxygen molecules",
+    "description": "Unlock all Oxygen molecules",
+    "goals": [
+      118
+    ],
+    "progress": "_a17b18ffc11911090e0921166615b3db",
+    "deps": [
+      "O",
+      "molecule"
+    ]
+  },
+  "progress_F": {
+    "name": "Fluorine",
+    "description": "Gather Fluorine",
+    "goals": [
+      1000000,
+      1000000000,
+      1000000000000,
+      1000000000000000,
+      1000000000000000000,
+      1e+21,
+      1e+24
+    ],
+    "progress": "_52dc75276e04094946d4e68f24b9a263",
+    "deps": [
+      "F"
+    ]
+  },
+  "exotic_progress_F": {
+    "name": "Exotic Fluorine",
+    "description": "Gather exotic Fluorine",
+    "goals": [
+      100,
+      100000,
+      10000000,
+      1000000000
+    ],
+    "progress": "_4ba768468657b642c0d8918b0e7daf61",
+    "deps": [
+      "F"
+    ]
+  },
+  "isotopes_F": {
+    "name": "Fluorine isotopes",
+    "description": "Unlock all Fluorine isotopes",
+    "goals": [
+      5
+    ],
+    "progress": "_2bfe3e1755a756634ee0c9ef2cc3949f",
+    "deps": [
+      "F"
+    ]
+  },
+  "ions_F": {
+    "name": "Fluorine ions",
+    "description": "Unlock all Fluorine ions",
+    "goals": [
+      10
+    ],
+    "progress": "_d1080c312dca3db3ebdea34cc8988dc7",
+    "deps": [
+      "F",
+      "ion"
+    ]
+  },
+  "molecules_F": {
+    "name": "Fluorine molecules",
+    "description": "Unlock all Fluorine molecules",
+    "goals": [
+      62
+    ],
+    "progress": "_cc6e2e7fb37699ab9a561cc473ad0ff6",
+    "deps": [
+      "F",
+      "molecule"
+    ]
+  },
+  "progress_Ne": {
+    "name": "Neon",
+    "description": "Gather Neon",
+    "goals": [
+      1000000,
+      1000000000,
+      1000000000000,
+      1000000000000000,
+      1000000000000000000,
+      1e+21,
+      1e+24
+    ],
+    "progress": "_d445ce98e9f44948b3dfc2b37f73eb58",
+    "deps": [
+      "Ne"
+    ]
+  },
+  "exotic_progress_Ne": {
+    "name": "Exotic Neon",
+    "description": "Gather exotic Neon",
+    "goals": [
+      100,
+      100000,
+      10000000,
+      1000000000
+    ],
+    "progress": "_bfdcd4e96cc17ae57679642a2ad4d3ff",
+    "deps": [
+      "Ne"
+    ]
+  },
+  "isotopes_Ne": {
+    "name": "Neon isotopes",
+    "description": "Unlock all Neon isotopes",
+    "goals": [
+      6
+    ],
+    "progress": "_9207f083863f3d442c47bd2a39a55cb8",
+    "deps": [
+      "Ne"
+    ]
+  },
+  "ions_Ne": {
+    "name": "Neon ions",
+    "description": "Unlock all Neon ions",
+    "goals": [
+      10
+    ],
+    "progress": "_e3e0e83c2f666a9dfa5eda81833a92b3",
+    "deps": [
+      "Ne",
+      "ion"
+    ]
+  },
+  "progress_Na": {
+    "name": "Sodium",
+    "description": "Gather Sodium",
+    "goals": [
+      1000000,
+      1000000000,
+      1000000000000,
+      1000000000000000,
+      1000000000000000000,
+      1e+21,
+      1e+24
+    ],
+    "progress": "_c1c9fb53afb899f841163849c5d4ec40",
+    "deps": [
+      "Na"
+    ]
+  },
+  "exotic_progress_Na": {
+    "name": "Exotic Sodium",
+    "description": "Gather exotic Sodium",
+    "goals": [
+      100,
+      100000,
+      10000000,
+      1000000000
+    ],
+    "progress": "_bb90c599e6d7b75798cc8da3232ec0ed",
+    "deps": [
+      "Na"
+    ]
+  },
+  "isotopes_Na": {
+    "name": "Sodium isotopes",
+    "description": "Unlock all Sodium isotopes",
+    "goals": [
+      6
+    ],
+    "progress": "_faf811ac8fec060efba1118a54f18857",
+    "deps": [
+      "Na"
+    ]
+  },
+  "ions_Na": {
+    "name": "Sodium ions",
+    "description": "Unlock all Sodium ions",
+    "goals": [
+      12
+    ],
+    "progress": "_93b53593cc8845dc1933f6b721375f1f",
+    "deps": [
+      "Na",
+      "ion"
+    ]
+  },
+  "molecules_Na": {
+    "name": "Sodium molecules",
+    "description": "Unlock all Sodium molecules",
+    "goals": [
+      7
+    ],
+    "progress": "_51d0443449cd1bbd234a32a905f24ce1",
+    "deps": [
+      "Na",
+      "molecule"
+    ]
+  },
+  "progress_Mg": {
+    "name": "Magnesium",
+    "description": "Gather Magnesium",
+    "goals": [
+      1000000,
+      1000000000,
+      1000000000000,
+      1000000000000000,
+      1000000000000000000,
+      1e+21,
+      1e+24
+    ],
+    "progress": "_58899b648ab4541e8f9dc6891501fcbe",
+    "deps": [
+      "Mg"
+    ]
+  },
+  "exotic_progress_Mg": {
+    "name": "Exotic Magnesium",
+    "description": "Gather exotic Magnesium",
+    "goals": [
+      100,
+      100000,
+      10000000,
+      1000000000
+    ],
+    "progress": "_d87e93e27fda9f48cfd68716ccce4ad4",
+    "deps": [
+      "Mg"
+    ]
+  },
+  "isotopes_Mg": {
+    "name": "Magnesium isotopes",
+    "description": "Unlock all Magnesium isotopes",
+    "goals": [
+      7
+    ],
+    "progress": "_25baf733083eef8edc927bd6a62a41c2",
+    "deps": [
+      "Mg"
+    ]
+  },
+  "ions_Mg": {
+    "name": "Magnesium ions",
+    "description": "Unlock all Magnesium ions",
+    "goals": [
+      12
+    ],
+    "progress": "_8860bd025d7d7232f26e4578d0209ee8",
+    "deps": [
+      "Mg",
+      "ion"
+    ]
+  },
+  "molecules_Mg": {
+    "name": "Magnesium molecules",
+    "description": "Unlock all Magnesium molecules",
+    "goals": [
+      4
+    ],
+    "progress": "_e0d3cb5676c6fc620bf5ded2cfe7289f",
+    "deps": [
+      "Mg",
+      "molecule"
+    ]
+  },
+  "progress_Al": {
+    "name": "Aluminium",
+    "description": "Gather Aluminium",
+    "goals": [
+      1000000,
+      1000000000,
+      1000000000000,
+      1000000000000000,
+      1000000000000000000,
+      1e+21,
+      1e+24
+    ],
+    "progress": "_deb3826f68cd61e94cf9f00fb3f226d4",
+    "deps": [
+      "Al"
+    ]
+  },
+  "exotic_progress_Al": {
+    "name": "Exotic Aluminium",
+    "description": "Gather exotic Aluminium",
+    "goals": [
+      100,
+      100000,
+      10000000,
+      1000000000
+    ],
+    "progress": "_fe109625d3f98d2e9f3d2c530e77cdfd",
+    "deps": [
+      "Al"
+    ]
+  },
+  "isotopes_Al": {
+    "name": "Aluminium isotopes",
+    "description": "Unlock all Aluminium isotopes",
+    "goals": [
+      5
+    ],
+    "progress": "_43c9006f2cda63227d068dfc12996d5c",
+    "deps": [
+      "Al"
+    ]
+  },
+  "ions_Al": {
+    "name": "Aluminium ions",
+    "description": "Unlock all Aluminium ions",
+    "goals": [
+      14
+    ],
+    "progress": "_bd8bf5d094d324d4dd0e1e54a445e43c",
+    "deps": [
+      "Al",
+      "ion"
+    ]
+  },
+  "molecules_Al": {
+    "name": "Aluminium molecules",
+    "description": "Unlock all Aluminium molecules",
+    "goals": [
+      12
+    ],
+    "progress": "_5b4e4d7c6ee3ee68136d73e3ca38cec7",
+    "deps": [
+      "Al",
+      "molecule"
+    ]
+  },
+  "progress_Si": {
+    "name": "Silicon",
+    "description": "Gather Silicon",
+    "goals": [
+      1000000,
+      1000000000,
+      1000000000000,
+      1000000000000000,
+      1000000000000000000,
+      1e+21,
+      1e+24
+    ],
+    "progress": "_e6ddce4ef41eaa3555de0f83ccc9d6fc",
+    "deps": [
+      "Si"
+    ]
+  },
+  "exotic_progress_Si": {
+    "name": "Exotic Silicon",
+    "description": "Gather exotic Silicon",
+    "goals": [
+      100,
+      100000,
+      10000000,
+      1000000000
+    ],
+    "progress": "_a379cf1f94d5e366eda89cca8e8bcc39",
+    "deps": [
+      "Si"
+    ]
+  },
+  "isotopes_Si": {
+    "name": "Silicon isotopes",
+    "description": "Unlock all Silicon isotopes",
+    "goals": [
+      6
+    ],
+    "progress": "_c03c50f75a91545b4401ce8525333ce4",
+    "deps": [
+      "Si"
+    ]
+  },
+  "ions_Si": {
+    "name": "Silicon ions",
+    "description": "Unlock all Silicon ions",
+    "goals": [
+      15
+    ],
+    "progress": "_a0a24e7d83aeec1ee06981b2eb14677c",
+    "deps": [
+      "Si",
+      "ion"
+    ]
+  },
+  "molecules_Si": {
+    "name": "Silicon molecules",
+    "description": "Unlock all Silicon molecules",
+    "goals": [
+      28
+    ],
+    "progress": "_0e699e763af69bd3fc199a33cb9a63c7",
+    "deps": [
+      "Si",
+      "molecule"
+    ]
+  },
+  "progress_P": {
+    "name": "Phosphorus",
+    "description": "Gather Phosphorus",
+    "goals": [
+      1000000,
+      1000000000,
+      1000000000000,
+      1000000000000000,
+      1000000000000000000,
+      1e+21,
+      1e+24
+    ],
+    "progress": "_375dde77459331e173e60f86271717bd",
+    "deps": [
+      "P"
+    ]
+  },
+  "exotic_progress_P": {
+    "name": "Exotic Phosphorus",
+    "description": "Gather exotic Phosphorus",
+    "goals": [
+      100,
+      100000,
+      10000000,
+      1000000000
+    ],
+    "progress": "_cf57e62eb1d9c0229a6ab9470208c642",
+    "deps": [
+      "P"
+    ]
+  },
+  "isotopes_P": {
+    "name": "Phosphorus isotopes",
+    "description": "Unlock all Phosphorus isotopes",
+    "goals": [
+      7
+    ],
+    "progress": "_20fab2d956b3c1a965dc59207c369d15",
+    "deps": [
+      "P"
+    ]
+  },
+  "ions_P": {
+    "name": "Phosphorus ions",
+    "description": "Unlock all Phosphorus ions",
+    "goals": [
+      16
+    ],
+    "progress": "_49d3b05dcaa147e6276d8cc7c05c4fe1",
+    "deps": [
+      "P",
+      "ion"
+    ]
+  },
+  "molecules_P": {
+    "name": "Phosphorus molecules",
+    "description": "Unlock all Phosphorus molecules",
+    "goals": [
+      11
+    ],
+    "progress": "_d9ec0f6b92ff2f6c5fdbfcccbb05d2de",
+    "deps": [
+      "P",
+      "molecule"
+    ]
+  },
+  "progress_S": {
+    "name": "Sulfur",
+    "description": "Gather Sulfur",
+    "goals": [
+      1000000,
+      1000000000,
+      1000000000000,
+      1000000000000000,
+      1000000000000000000,
+      1e+21,
+      1e+24
+    ],
+    "progress": "_8928d34eeff1dd63ebdb68a24df8e472",
+    "deps": [
+      "S"
+    ]
+  },
+  "exotic_progress_S": {
+    "name": "Exotic Sulfur",
+    "description": "Gather exotic Sulfur",
+    "goals": [
+      100,
+      100000,
+      10000000,
+      1000000000
+    ],
+    "progress": "_cbf7ac75e6d80900a18da8e7b8229e10",
+    "deps": [
+      "S"
+    ]
+  },
+  "isotopes_S": {
+    "name": "Sulfur isotopes",
+    "description": "Unlock all Sulfur isotopes",
+    "goals": [
+      7
+    ],
+    "progress": "_c01bac631093ace29a5b4e4afbd13c08",
+    "deps": [
+      "S"
+    ]
+  },
+  "ions_S": {
+    "name": "Sulfur ions",
+    "description": "Unlock all Sulfur ions",
+    "goals": [
+      18
+    ],
+    "progress": "_5f5c352b1bebe357583f308797ad56bd",
+    "deps": [
+      "S",
+      "ion"
+    ]
+  },
+  "molecules_S": {
+    "name": "Sulfur molecules",
+    "description": "Unlock all Sulfur molecules",
+    "goals": [
+      29
+    ],
+    "progress": "_661f899e15e7906afeb29aa2e7ca935a",
+    "deps": [
+      "S",
+      "molecule"
+    ]
+  },
+  "progress_Cl": {
+    "name": "Chlorine",
+    "description": "Gather Chlorine",
+    "goals": [
+      1000000,
+      1000000000,
+      1000000000000,
+      1000000000000000,
+      1000000000000000000,
+      1e+21,
+      1e+24
+    ],
+    "progress": "_47e3d4bfdcd57770faf52e3f22b6ec31",
+    "deps": [
+      "Cl"
+    ]
+  },
+  "exotic_progress_Cl": {
+    "name": "Exotic Chlorine",
+    "description": "Gather exotic Chlorine",
+    "goals": [
+      100,
+      100000,
+      10000000,
+      1000000000
+    ],
+    "progress": "_93ff5d11520a5d1f8003579d8e971363",
+    "deps": [
+      "Cl"
+    ]
+  },
+  "isotopes_Cl": {
+    "name": "Chlorine isotopes",
+    "description": "Unlock all Chlorine isotopes",
+    "goals": [
+      7
+    ],
+    "progress": "_7b8656cbc516dc9d88d360c5df34d928",
+    "deps": [
+      "Cl"
+    ]
+  },
+  "ions_Cl": {
+    "name": "Chlorine ions",
+    "description": "Unlock all Chlorine ions",
+    "goals": [
+      18
+    ],
+    "progress": "_4c5fb191999a283b63c89c1489fd63a9",
+    "deps": [
+      "Cl",
+      "ion"
+    ]
+  },
+  "molecules_Cl": {
+    "name": "Chlorine molecules",
+    "description": "Unlock all Chlorine molecules",
+    "goals": [
+      64
+    ],
+    "progress": "_aa8cbfa27933592fdfef87e4a87be78c",
+    "deps": [
+      "Cl",
+      "molecule"
+    ]
+  },
+  "progress_Ar": {
+    "name": "Argon",
+    "description": "Gather Argon",
+    "goals": [
+      1000000,
+      1000000000,
+      1000000000000,
+      1000000000000000,
+      1000000000000000000,
+      1e+21,
+      1e+24
+    ],
+    "progress": "_351217c6338b12dcfe6135d84a0274cd",
+    "deps": [
+      "Ar"
+    ]
+  },
+  "exotic_progress_Ar": {
+    "name": "Exotic Argon",
+    "description": "Gather exotic Argon",
+    "goals": [
+      100,
+      100000,
+      10000000,
+      1000000000
+    ],
+    "progress": "_3bc5b42eec28f4d6f66974aabd1d4d32",
+    "deps": [
+      "Ar"
+    ]
+  },
+  "isotopes_Ar": {
+    "name": "Argon isotopes",
+    "description": "Unlock all Argon isotopes",
+    "goals": [
+      9
+    ],
+    "progress": "_799d54db01879ba5487b4fb37eaaa46b",
+    "deps": [
+      "Ar"
+    ]
+  },
+  "ions_Ar": {
+    "name": "Argon ions",
+    "description": "Unlock all Argon ions",
+    "goals": [
+      19
+    ],
+    "progress": "_1d8283786bebd77a7555b41a6104c6ad",
+    "deps": [
+      "Ar",
+      "ion"
+    ]
+  },
+  "progress_K": {
+    "name": "Potassium",
+    "description": "Gather Potassium",
+    "goals": [
+      1000000,
+      1000000000,
+      1000000000000,
+      1000000000000000,
+      1000000000000000000,
+      1e+21,
+      1e+24
+    ],
+    "progress": "_2619cf7bf8fe22de314527124c3bda31",
+    "deps": [
+      "K"
+    ]
+  },
+  "exotic_progress_K": {
+    "name": "Exotic Potassium",
+    "description": "Gather exotic Potassium",
+    "goals": [
+      100,
+      100000,
+      10000000,
+      1000000000
+    ],
+    "progress": "_9ac84fd786271a7590c29c113ec6a78b",
+    "deps": [
+      "K"
+    ]
+  },
+  "isotopes_K": {
+    "name": "Potassium isotopes",
+    "description": "Unlock all Potassium isotopes",
+    "goals": [
+      10
+    ],
+    "progress": "_2ff3bcd44b65bee764646fac35975779",
+    "deps": [
+      "K"
+    ]
+  },
+  "ions_K": {
+    "name": "Potassium ions",
+    "description": "Unlock all Potassium ions",
+    "goals": [
+      20
+    ],
+    "progress": "_60e9d4b1dcfb6799fa2604bb1ac05871",
+    "deps": [
+      "K",
+      "ion"
+    ]
+  },
+  "molecules_K": {
+    "name": "Potassium molecules",
+    "description": "Unlock all Potassium molecules",
+    "goals": [
+      7
+    ],
+    "progress": "_a5a7371aa1398dfa75777f897437eafa",
+    "deps": [
+      "K",
+      "molecule"
+    ]
+  },
+  "progress_Ca": {
+    "name": "Calcium",
+    "description": "Gather Calcium",
+    "goals": [
+      1000000,
+      1000000000,
+      1000000000000,
+      1000000000000000,
+      1000000000000000000,
+      1e+21,
+      1e+24
+    ],
+    "progress": "_d11c4a8642cd4e4505493f98083e9f04",
+    "deps": [
+      "Ca"
+    ]
+  },
+  "exotic_progress_Ca": {
+    "name": "Exotic Calcium",
+    "description": "Gather exotic Calcium",
+    "goals": [
+      100,
+      100000,
+      10000000,
+      1000000000
+    ],
+    "progress": "_4abb5e9615e942bdfa5432152bdab97f",
+    "deps": [
+      "Ca"
+    ]
+  },
+  "isotopes_Ca": {
+    "name": "Calcium isotopes",
+    "description": "Unlock all Calcium isotopes",
+    "goals": [
+      11
+    ],
+    "progress": "_10e348ff18f645848182f324435d0ec0",
+    "deps": [
+      "Ca"
+    ]
+  },
+  "ions_Ca": {
+    "name": "Calcium ions",
+    "description": "Unlock all Calcium ions",
+    "goals": [
+      21
+    ],
+    "progress": "_2091e5c89745beb84c51ab49d9fb2441",
+    "deps": [
+      "Ca",
+      "ion"
+    ]
+  },
+  "molecules_Ca": {
+    "name": "Calcium molecules",
+    "description": "Unlock all Calcium molecules",
+    "goals": [
+      6
+    ],
+    "progress": "_a139ef8633bb16e89e21af2cad0e22ab",
+    "deps": [
+      "Ca",
+      "molecule"
+    ]
+  },
+  "progress_Sc": {
+    "name": "Scandium",
+    "description": "Gather Scandium",
+    "goals": [
+      1000000,
+      1000000000,
+      1000000000000,
+      1000000000000000,
+      1000000000000000000,
+      1e+21,
+      1e+24
+    ],
+    "progress": "_fb287d3fec5a5dfdfc115815b89b372e",
+    "deps": [
+      "Sc"
+    ]
+  },
+  "exotic_progress_Sc": {
+    "name": "Exotic Scandium",
+    "description": "Gather exotic Scandium",
+    "goals": [
+      100,
+      100000,
+      10000000,
+      1000000000
+    ],
+    "progress": "_018d81b171bf95e51d5db6555be82543",
+    "deps": [
+      "Sc"
+    ]
+  },
+  "isotopes_Sc": {
+    "name": "Scandium isotopes",
+    "description": "Unlock all Scandium isotopes",
+    "goals": [
+      9
+    ],
+    "progress": "_28888f5dfb14fb05379b31c2bbc90f52",
+    "deps": [
+      "Sc"
+    ]
+  },
+  "ions_Sc": {
+    "name": "Scandium ions",
+    "description": "Unlock all Scandium ions",
+    "goals": [
+      22
+    ],
+    "progress": "_aa4f3802be36d93638cbf55b71f633d3",
+    "deps": [
+      "Sc",
+      "ion"
+    ]
+  },
+  "molecules_Sc": {
+    "name": "Scandium molecules",
+    "description": "Unlock all Scandium molecules",
+    "goals": [
+      1
+    ],
+    "progress": "_3f1c06d97f414a1656af81cc42b5f250",
+    "deps": [
+      "Sc",
+      "molecule"
+    ]
+  },
+  "progress_Ti": {
+    "name": "Titanium",
+    "description": "Gather Titanium",
+    "goals": [
+      1000000,
+      1000000000,
+      1000000000000,
+      1000000000000000,
+      1000000000000000000,
+      1e+21,
+      1e+24
+    ],
+    "progress": "_1f77e119182d233f08ff06d5f3ed4745",
+    "deps": [
+      "Ti"
+    ]
+  },
+  "exotic_progress_Ti": {
+    "name": "Exotic Titanium",
+    "description": "Gather exotic Titanium",
+    "goals": [
+      100,
+      100000,
+      10000000,
+      1000000000
+    ],
+    "progress": "_f75ed61833a4702ec4d3a1ad300a8a37",
+    "deps": [
+      "Ti"
+    ]
+  },
+  "isotopes_Ti": {
+    "name": "Titanium isotopes",
+    "description": "Unlock all Titanium isotopes",
+    "goals": [
+      10
+    ],
+    "progress": "_f8ea3a54397a290ab22c3d0eef260ffa",
+    "deps": [
+      "Ti"
+    ]
+  },
+  "ions_Ti": {
+    "name": "Titanium ions",
+    "description": "Unlock all Titanium ions",
+    "goals": [
+      23
+    ],
+    "progress": "_126550989efe16c90e581e3c69768d81",
+    "deps": [
+      "Ti",
+      "ion"
+    ]
+  },
+  "molecules_Ti": {
+    "name": "Titanium molecules",
+    "description": "Unlock all Titanium molecules",
+    "goals": [
+      3
+    ],
+    "progress": "_4671fc61208bf6097373ee5f6c3f55cd",
+    "deps": [
+      "Ti",
+      "molecule"
+    ]
+  },
+  "progress_V": {
+    "name": "Vanadium",
+    "description": "Gather Vanadium",
+    "goals": [
+      1000000,
+      1000000000,
+      1000000000000,
+      1000000000000000,
+      1000000000000000000,
+      1e+21,
+      1e+24
+    ],
+    "progress": "_51769a6862a436aeeb35072d0292e31e",
+    "deps": [
+      "V"
+    ]
+  },
+  "exotic_progress_V": {
+    "name": "Exotic Vanadium",
+    "description": "Gather exotic Vanadium",
+    "goals": [
+      100,
+      100000,
+      10000000,
+      1000000000
+    ],
+    "progress": "_1b1a1cded7855e45de667f42fd4f08f5",
+    "deps": [
+      "V"
+    ]
+  },
+  "isotopes_V": {
+    "name": "Vanadium isotopes",
+    "description": "Unlock all Vanadium isotopes",
+    "goals": [
+      8
+    ],
+    "progress": "_3abd0cabccc0d467d8101c98fceabe23",
+    "deps": [
+      "V"
+    ]
+  },
+  "ions_V": {
+    "name": "Vanadium ions",
+    "description": "Unlock all Vanadium ions",
+    "goals": [
+      24
+    ],
+    "progress": "_f655f032294e65e730d467b6f946ee0c",
+    "deps": [
+      "V",
+      "ion"
+    ]
+  },
+  "molecules_V": {
+    "name": "Vanadium molecules",
+    "description": "Unlock all Vanadium molecules",
+    "goals": [
+      2
+    ],
+    "progress": "_0ce12fd4fbc9e20acb83fac30318f975",
+    "deps": [
+      "V",
+      "molecule"
+    ]
+  },
+  "progress_Cr": {
+    "name": "Chromium",
+    "description": "Gather Chromium",
+    "goals": [
+      1000000,
+      1000000000,
+      1000000000000,
+      1000000000000000,
+      1000000000000000000,
+      1e+21,
+      1e+24
+    ],
+    "progress": "_93f1c9ab30841bee73524bc83cc7f38b",
+    "deps": [
+      "Cr"
+    ]
+  },
+  "exotic_progress_Cr": {
+    "name": "Exotic Chromium",
+    "description": "Gather exotic Chromium",
+    "goals": [
+      100,
+      100000,
+      10000000,
+      1000000000
+    ],
+    "progress": "_361d2c0282e95bf49fc1ececae76f9d8",
+    "deps": [
+      "Cr"
+    ]
+  },
+  "isotopes_Cr": {
+    "name": "Chromium isotopes",
+    "description": "Unlock all Chromium isotopes",
+    "goals": [
+      10
+    ],
+    "progress": "_9145ca367556c643ea17497596c9483d",
+    "deps": [
+      "Cr"
+    ]
+  },
+  "ions_Cr": {
+    "name": "Chromium ions",
+    "description": "Unlock all Chromium ions",
+    "goals": [
+      25
+    ],
+    "progress": "_eb6755c8a544dcdb778b3f138c55a47c",
+    "deps": [
+      "Cr",
+      "ion"
+    ]
+  },
+  "molecules_Cr": {
+    "name": "Chromium molecules",
+    "description": "Unlock all Chromium molecules",
+    "goals": [
+      2
+    ],
+    "progress": "_62cd0b9a62a71c7cead1fe041e482e0b",
+    "deps": [
+      "Cr",
+      "molecule"
+    ]
+  },
+  "progress_Mn": {
+    "name": "Manganese",
+    "description": "Gather Manganese",
+    "goals": [
+      1000000,
+      1000000000,
+      1000000000000,
+      1000000000000000,
+      1000000000000000000,
+      1e+21,
+      1e+24
+    ],
+    "progress": "_f2aa1880246bb52b852cc33c39d2d7df",
+    "deps": [
+      "Mn"
+    ]
+  },
+  "exotic_progress_Mn": {
+    "name": "Exotic Manganese",
+    "description": "Gather exotic Manganese",
+    "goals": [
+      100,
+      100000,
+      10000000,
+      1000000000
+    ],
+    "progress": "_d790154212aa308844d105f137654363",
+    "deps": [
+      "Mn"
+    ]
+  },
+  "isotopes_Mn": {
+    "name": "Manganese isotopes",
+    "description": "Unlock all Manganese isotopes",
+    "goals": [
+      8
+    ],
+    "progress": "_2d72f0ba96490f506aaef816edf87c9a",
+    "deps": [
+      "Mn"
+    ]
+  },
+  "ions_Mn": {
+    "name": "Manganese ions",
+    "description": "Unlock all Manganese ions",
+    "goals": [
+      26
+    ],
+    "progress": "_5048c7b679ddf284e33fc0b577d4d1b8",
+    "deps": [
+      "Mn",
+      "ion"
+    ]
+  },
+  "molecules_Mn": {
+    "name": "Manganese molecules",
+    "description": "Unlock all Manganese molecules",
+    "goals": [
+      1
+    ],
+    "progress": "_6a28b0a081e6f67a19efe7d9cab67bcf",
+    "deps": [
+      "Mn",
+      "molecule"
+    ]
+  },
+  "progress_Fe": {
+    "name": "Iron",
+    "description": "Gather Iron",
+    "goals": [
+      1000000,
+      1000000000,
+      1000000000000,
+      1000000000000000,
+      1000000000000000000,
+      1e+21,
+      1e+24
+    ],
+    "progress": "_8b931676948bc8438351ca790cd859cc",
+    "deps": [
+      "Fe"
+    ]
+  },
+  "exotic_progress_Fe": {
+    "name": "Exotic Iron",
+    "description": "Gather exotic Iron",
+    "goals": [
+      100,
+      100000,
+      10000000,
+      1000000000
+    ],
+    "progress": "_04877cfb764a08fd68868836f46a37f8",
+    "deps": [
+      "Fe"
+    ]
+  },
+  "isotopes_Fe": {
+    "name": "Iron isotopes",
+    "description": "Unlock all Iron isotopes",
+    "goals": [
+      11
+    ],
+    "progress": "_ba6ac2222cbebe7385d0c63b3dcf0b78",
+    "deps": [
+      "Fe"
+    ]
+  },
+  "ions_Fe": {
+    "name": "Iron ions",
+    "description": "Unlock all Iron ions",
+    "goals": [
+      27
+    ],
+    "progress": "_6e3714c81b9d98a18751a8fdcb26824d",
+    "deps": [
+      "Fe",
+      "ion"
+    ]
+  },
+  "molecules_Fe": {
+    "name": "Iron molecules",
+    "description": "Unlock all Iron molecules",
+    "goals": [
+      4
+    ],
+    "progress": "_edf5e70dfaf753e6b3e21696cfa3d7a4",
+    "deps": [
+      "Fe",
+      "molecule"
+    ]
+  },
+  "progress_Co": {
+    "name": "Cobalt",
+    "description": "Gather Cobalt",
+    "goals": [
+      1000000,
+      1000000000,
+      1000000000000,
+      1000000000000000,
+      1000000000000000000,
+      1e+21,
+      1e+24
+    ],
+    "progress": "_6615d6c1dfee6bcb317c5b153d4383f0",
+    "deps": [
+      "Co"
+    ]
+  },
+  "exotic_progress_Co": {
+    "name": "Exotic Cobalt",
+    "description": "Gather exotic Cobalt",
+    "goals": [
+      100,
+      100000,
+      10000000,
+      1000000000
+    ],
+    "progress": "_ed52f3dd2ce1155cf9603b579010d223",
+    "deps": [
+      "Co"
+    ]
+  },
+  "isotopes_Co": {
+    "name": "Cobalt isotopes",
+    "description": "Unlock all Cobalt isotopes",
+    "goals": [
+      9
+    ],
+    "progress": "_a9742884737dc94001e0dafdfbf342ee",
+    "deps": [
+      "Co"
+    ]
+  },
+  "ions_Co": {
+    "name": "Cobalt ions",
+    "description": "Unlock all Cobalt ions",
+    "goals": [
+      28
+    ],
+    "progress": "_d08d4e764e32248ced0cedd886b7f91a",
+    "deps": [
+      "Co",
+      "ion"
+    ]
+  },
+  "molecules_Co": {
+    "name": "Cobalt molecules",
+    "description": "Unlock all Cobalt molecules",
+    "goals": [
+      1
+    ],
+    "progress": "_9a151686b8bbbadfa6b2e7ffb415866f",
+    "deps": [
+      "Co",
+      "molecule"
+    ]
+  },
+  "progress_Ni": {
+    "name": "Nickel",
+    "description": "Gather Nickel",
+    "goals": [
+      1000000,
+      1000000000,
+      1000000000000,
+      1000000000000000,
+      1000000000000000000,
+      1e+21,
+      1e+24
+    ],
+    "progress": "_ce2c5fca90a3c8ffccaebb6464a8a3ff",
+    "deps": [
+      "Ni"
+    ]
+  },
+  "exotic_progress_Ni": {
+    "name": "Exotic Nickel",
+    "description": "Gather exotic Nickel",
+    "goals": [
+      100,
+      100000,
+      10000000,
+      1000000000
+    ],
+    "progress": "_835764a7a33440951b8ecdf4ca93c870",
+    "deps": [
+      "Ni"
+    ]
+  },
+  "isotopes_Ni": {
+    "name": "Nickel isotopes",
+    "description": "Unlock all Nickel isotopes",
+    "goals": [
+      14
+    ],
+    "progress": "_5d9d6b1ca2deeb4564927e1939aac510",
+    "deps": [
+      "Ni"
+    ]
+  },
+  "ions_Ni": {
+    "name": "Nickel ions",
+    "description": "Unlock all Nickel ions",
+    "goals": [
+      29
+    ],
+    "progress": "_b8ceac2873a2dce8217052817167854e",
+    "deps": [
+      "Ni",
+      "ion"
+    ]
+  },
+  "molecules_Ni": {
+    "name": "Nickel molecules",
+    "description": "Unlock all Nickel molecules",
+    "goals": [
+      4
+    ],
+    "progress": "_ea0b872043dd11d843eb7254c10d8b82",
+    "deps": [
+      "Ni",
+      "molecule"
+    ]
+  },
+  "progress_Cu": {
+    "name": "Copper",
+    "description": "Gather Copper",
+    "goals": [
+      1000000,
+      1000000000,
+      1000000000000,
+      1000000000000000,
+      1000000000000000000,
+      1e+21,
+      1e+24
+    ],
+    "progress": "_99f42d52a726ee888d621b593cd7e1be",
+    "deps": [
+      "Cu"
+    ]
+  },
+  "exotic_progress_Cu": {
+    "name": "Exotic Copper",
+    "description": "Gather exotic Copper",
+    "goals": [
+      100,
+      100000,
+      10000000,
+      1000000000
+    ],
+    "progress": "_3e9d72515647cea4743a32d3c8aec3a8",
+    "deps": [
+      "Cu"
+    ]
+  },
+  "isotopes_Cu": {
+    "name": "Copper isotopes",
+    "description": "Unlock all Copper isotopes",
+    "goals": [
+      13
+    ],
+    "progress": "_59c09d623040ea19a0f03ba111189b6b",
+    "deps": [
+      "Cu"
+    ]
+  },
+  "ions_Cu": {
+    "name": "Copper ions",
+    "description": "Unlock all Copper ions",
+    "goals": [
+      30
+    ],
+    "progress": "_b7b043a8c0cda784f734ed95fed1ea4a",
+    "deps": [
+      "Cu",
+      "ion"
+    ]
+  },
+  "molecules_Cu": {
+    "name": "Copper molecules",
+    "description": "Unlock all Copper molecules",
+    "goals": [
+      6
+    ],
+    "progress": "_cff4fe8964994d8b1b1df898f807eecf",
+    "deps": [
+      "Cu",
+      "molecule"
+    ]
+  },
+  "progress_Zn": {
+    "name": "Zinc",
+    "description": "Gather Zinc",
+    "goals": [
+      1000000,
+      1000000000,
+      1000000000000,
+      1000000000000000,
+      1000000000000000000,
+      1e+21,
+      1e+24
+    ],
+    "progress": "_5a9d7bd3ee6fa836da70566a99c6b576",
+    "deps": [
+      "Zn"
+    ]
+  },
+  "exotic_progress_Zn": {
+    "name": "Exotic Zinc",
+    "description": "Gather exotic Zinc",
+    "goals": [
+      100,
+      100000,
+      10000000,
+      1000000000
+    ],
+    "progress": "_16583f290d8b1553779912ae8d25c681",
+    "deps": [
+      "Zn"
+    ]
+  },
+  "isotopes_Zn": {
+    "name": "Zinc isotopes",
+    "description": "Unlock all Zinc isotopes",
+    "goals": [
+      15
+    ],
+    "progress": "_e1a6d98964a4d6647eea2d809cea42b3",
+    "deps": [
+      "Zn"
+    ]
+  },
+  "ions_Zn": {
+    "name": "Zinc ions",
+    "description": "Unlock all Zinc ions",
+    "goals": [
+      21
+    ],
+    "progress": "_274fd15dd57e0213b6a55a4cc3cbc1da",
+    "deps": [
+      "Zn",
+      "ion"
+    ]
+  },
+  "molecules_Zn": {
+    "name": "Zinc molecules",
+    "description": "Unlock all Zinc molecules",
+    "goals": [
+      1
+    ],
+    "progress": "_6564efc0e57dbd77f0ee3255977edd67",
+    "deps": [
+      "Zn",
+      "molecule"
+    ]
+  },
+  "progress_Ga": {
+    "name": "Gallium",
+    "description": "Gather Gallium",
+    "goals": [
+      1000000,
+      1000000000,
+      1000000000000,
+      1000000000000000,
+      1000000000000000000,
+      1e+21,
+      1e+24
+    ],
+    "progress": "_e9eeffec848fa7a48f717af04054d606",
+    "deps": [
+      "Ga"
+    ]
+  },
+  "exotic_progress_Ga": {
+    "name": "Exotic Gallium",
+    "description": "Gather exotic Gallium",
+    "goals": [
+      100,
+      100000,
+      10000000,
+      1000000000
+    ],
+    "progress": "_11d45c9c8a6dd2f4e54dc9309cac014b",
+    "deps": [
+      "Ga"
+    ]
+  },
+  "isotopes_Ga": {
+    "name": "Gallium isotopes",
+    "description": "Unlock all Gallium isotopes",
+    "goals": [
+      15
+    ],
+    "progress": "_9f12b0b392756221a541fcea2572d197",
+    "deps": [
+      "Ga"
+    ]
+  },
+  "ions_Ga": {
+    "name": "Gallium ions",
+    "description": "Unlock all Gallium ions",
+    "goals": [
+      5
+    ],
+    "progress": "_049175193b1737530e0b476bc22a0107",
+    "deps": [
+      "Ga",
+      "ion"
+    ]
+  },
+  "molecules_Ga": {
+    "name": "Gallium molecules",
+    "description": "Unlock all Gallium molecules",
+    "goals": [
+      4
+    ],
+    "progress": "_bfb7e6eb503279b3d6f5fad515d1389e",
+    "deps": [
+      "Ga",
+      "molecule"
+    ]
+  },
+  "progress_Ge": {
+    "name": "Germanium",
+    "description": "Gather Germanium",
+    "goals": [
+      1000000,
+      1000000000,
+      1000000000000,
+      1000000000000000,
+      1000000000000000000,
+      1e+21,
+      1e+24
+    ],
+    "progress": "_72e3535a66fb53464e2e8ea7cc27a828",
+    "deps": [
+      "Ge"
+    ]
+  },
+  "exotic_progress_Ge": {
+    "name": "Exotic Germanium",
+    "description": "Gather exotic Germanium",
+    "goals": [
+      100,
+      100000,
+      10000000,
+      1000000000
+    ],
+    "progress": "_54226e915e6842d891c73bcf3132a97b",
+    "deps": [
+      "Ge"
+    ]
+  },
+  "isotopes_Ge": {
+    "name": "Germanium isotopes",
+    "description": "Unlock all Germanium isotopes",
+    "goals": [
+      17
+    ],
+    "progress": "_07f8a919f97a6f6ec18a261744ed7f5f",
+    "deps": [
+      "Ge"
+    ]
+  },
+  "ions_Ge": {
+    "name": "Germanium ions",
+    "description": "Unlock all Germanium ions",
+    "goals": [
+      6
+    ],
+    "progress": "_650bf96383f6ee4500768bc19e8b129f",
+    "deps": [
+      "Ge",
+      "ion"
+    ]
+  },
+  "molecules_Ge": {
+    "name": "Germanium molecules",
+    "description": "Unlock all Germanium molecules",
+    "goals": [
+      8
+    ],
+    "progress": "_0ad38d3ab10b7c50dbcb793601d02f3f",
+    "deps": [
+      "Ge",
+      "molecule"
+    ]
+  },
+  "progress_As": {
+    "name": "Arsenic",
+    "description": "Gather Arsenic",
+    "goals": [
+      1000000,
+      1000000000,
+      1000000000000,
+      1000000000000000,
+      1000000000000000000,
+      1e+21,
+      1e+24
+    ],
+    "progress": "_386fcd1a87112b7fc88c5ffd9d95dd8b",
+    "deps": [
+      "As"
+    ]
+  },
+  "exotic_progress_As": {
+    "name": "Exotic Arsenic",
+    "description": "Gather exotic Arsenic",
+    "goals": [
+      100,
+      100000,
+      10000000,
+      1000000000
+    ],
+    "progress": "_5738ff48426fa2cb68c8fdd7cf9fc578",
+    "deps": [
+      "As"
+    ]
+  },
+  "isotopes_As": {
+    "name": "Arsenic isotopes",
+    "description": "Unlock all Arsenic isotopes",
+    "goals": [
+      17
+    ],
+    "progress": "_890f3bb8247bc3843c7f4a9bf5a1088f",
+    "deps": [
+      "As"
+    ]
+  },
+  "ions_As": {
+    "name": "Arsenic ions",
+    "description": "Unlock all Arsenic ions",
+    "goals": [
+      7
+    ],
+    "progress": "_c803d83f8670d1b7daed1eb1e7e8cbd9",
+    "deps": [
+      "As",
+      "ion"
+    ]
+  },
+  "molecules_As": {
+    "name": "Arsenic molecules",
+    "description": "Unlock all Arsenic molecules",
+    "goals": [
+      3
+    ],
+    "progress": "_65c01754841b5cfe6f16b9f1365c9179",
+    "deps": [
+      "As",
+      "molecule"
+    ]
+  },
+  "progress_Se": {
+    "name": "Selenium",
+    "description": "Gather Selenium",
+    "goals": [
+      1000000,
+      1000000000,
+      1000000000000,
+      1000000000000000,
+      1000000000000000000,
+      1e+21,
+      1e+24
+    ],
+    "progress": "_8c31050e450d64bbccf83d9f07536abf",
+    "deps": [
+      "Se"
+    ]
+  },
+  "exotic_progress_Se": {
+    "name": "Exotic Selenium",
+    "description": "Gather exotic Selenium",
+    "goals": [
+      100,
+      100000,
+      10000000,
+      1000000000
+    ],
+    "progress": "_8bdf8fb40e71d9c4b084a8166c2c8345",
+    "deps": [
+      "Se"
+    ]
+  },
+  "isotopes_Se": {
+    "name": "Selenium isotopes",
+    "description": "Unlock all Selenium isotopes",
+    "goals": [
+      19
+    ],
+    "progress": "_e8905a91db2a6a9e30adf90d02f553be",
+    "deps": [
+      "Se"
+    ]
+  },
+  "ions_Se": {
+    "name": "Selenium ions",
+    "description": "Unlock all Selenium ions",
+    "goals": [
+      8
+    ],
+    "progress": "_1cae286eb7b71e422d2bdcff7f1d4b18",
+    "deps": [
+      "Se",
+      "ion"
+    ]
+  },
+  "molecules_Se": {
+    "name": "Selenium molecules",
+    "description": "Unlock all Selenium molecules",
+    "goals": [
+      5
+    ],
+    "progress": "_61a3e514728efafc86a9a3a6e94f8252",
+    "deps": [
+      "Se",
+      "molecule"
+    ]
+  },
+  "progress_Br": {
+    "name": "Bromine",
+    "description": "Gather Bromine",
+    "goals": [
+      1000000,
+      1000000000,
+      1000000000000,
+      1000000000000000,
+      1000000000000000000,
+      1e+21,
+      1e+24
+    ],
+    "progress": "_59146b05425b6f5c0087c05ee1133104",
+    "deps": [
+      "Br"
+    ]
+  },
+  "exotic_progress_Br": {
+    "name": "Exotic Bromine",
+    "description": "Gather exotic Bromine",
+    "goals": [
+      100,
+      100000,
+      10000000,
+      1000000000
+    ],
+    "progress": "_c57298f0f8fc5fe302332a2e2cd76c52",
+    "deps": [
+      "Br"
+    ]
+  },
+  "isotopes_Br": {
+    "name": "Bromine isotopes",
+    "description": "Unlock all Bromine isotopes",
+    "goals": [
+      18
+    ],
+    "progress": "_45bc4667d3907f4665b7cb378224b752",
+    "deps": [
+      "Br"
+    ]
+  },
+  "ions_Br": {
+    "name": "Bromine ions",
+    "description": "Unlock all Bromine ions",
+    "goals": [
+      9
+    ],
+    "progress": "_a9c83552bb3ef866ce6c14ad38f36124",
+    "deps": [
+      "Br",
+      "ion"
+    ]
+  },
+  "molecules_Br": {
+    "name": "Bromine molecules",
+    "description": "Unlock all Bromine molecules",
+    "goals": [
+      22
+    ],
+    "progress": "_815af353df01855904e7937828077bd8",
+    "deps": [
+      "Br",
+      "molecule"
+    ]
+  },
+  "progress_Kr": {
+    "name": "Krypton",
+    "description": "Gather Krypton",
+    "goals": [
+      1000000,
+      1000000000,
+      1000000000000,
+      1000000000000000,
+      1000000000000000000,
+      1e+21,
+      1e+24
+    ],
+    "progress": "_2c06e9f5eb295459346231a3f7682678",
+    "deps": [
+      "Kr"
+    ]
+  },
+  "exotic_progress_Kr": {
+    "name": "Exotic Krypton",
+    "description": "Gather exotic Krypton",
+    "goals": [
+      100,
+      100000,
+      10000000,
+      1000000000
+    ],
+    "progress": "_f453968fd0993ae2c17f880dada2efca",
+    "deps": [
+      "Kr"
+    ]
+  },
+  "isotopes_Kr": {
+    "name": "Krypton isotopes",
+    "description": "Unlock all Krypton isotopes",
+    "goals": [
+      19
+    ],
+    "progress": "_cf7aa60d78c8b15f8e1b86f36cfcac2e",
+    "deps": [
+      "Kr"
+    ]
+  },
+  "ions_Kr": {
+    "name": "Krypton ions",
+    "description": "Unlock all Krypton ions",
+    "goals": [
+      30
+    ],
+    "progress": "_271682a7232fcff4aeeed7a8d67acef4",
+    "deps": [
+      "Kr",
+      "ion"
+    ]
+  },
+  "progress_Rb": {
+    "name": "Rubidium",
+    "description": "Gather Rubidium",
+    "goals": [
+      1000000,
+      1000000000,
+      1000000000000,
+      1000000000000000,
+      1000000000000000000,
+      1e+21,
+      1e+24
+    ],
+    "progress": "_f7158e91bc405cdffbedc89ea72e598c",
+    "deps": [
+      "Rb"
+    ]
+  },
+  "exotic_progress_Rb": {
+    "name": "Exotic Rubidium",
+    "description": "Gather exotic Rubidium",
+    "goals": [
+      100,
+      100000,
+      10000000,
+      1000000000
+    ],
+    "progress": "_b50ca09184c6f90a135bd6c20215e962",
+    "deps": [
+      "Rb"
+    ]
+  },
+  "isotopes_Rb": {
+    "name": "Rubidium isotopes",
+    "description": "Unlock all Rubidium isotopes",
+    "goals": [
+      5
+    ],
+    "progress": "_4d3404e26295a24f38c361aba8031591",
+    "deps": [
+      "Rb"
+    ]
+  },
+  "ions_Rb": {
+    "name": "Rubidium ions",
+    "description": "Unlock all Rubidium ions",
+    "goals": [
+      11
+    ],
+    "progress": "_97ad4a10b4ef252e9a5bf096d0229aed",
+    "deps": [
+      "Rb",
+      "ion"
+    ]
+  },
+  "molecules_Rb": {
+    "name": "Rubidium molecules",
+    "description": "Unlock all Rubidium molecules",
+    "goals": [
+      5
+    ],
+    "progress": "_9904293af3dfbbda6c0fd5a529cfb715",
+    "deps": [
+      "Rb",
+      "molecule"
+    ]
+  },
+  "progress_Sr": {
+    "name": "Strontium",
+    "description": "Gather Strontium",
+    "goals": [
+      1000000,
+      1000000000,
+      1000000000000,
+      1000000000000000,
+      1000000000000000000,
+      1e+21,
+      1e+24
+    ],
+    "progress": "_df3190aa129a8721f305cc5e0ebb7bc0",
+    "deps": [
+      "Sr"
+    ]
+  },
+  "exotic_progress_Sr": {
+    "name": "Exotic Strontium",
+    "description": "Gather exotic Strontium",
+    "goals": [
+      100,
+      100000,
+      10000000,
+      1000000000
+    ],
+    "progress": "_285205b5839d40a7f0491b7317da6286",
+    "deps": [
+      "Sr"
+    ]
+  },
+  "isotopes_Sr": {
+    "name": "Strontium isotopes",
+    "description": "Unlock all Strontium isotopes",
+    "goals": [
+      9
+    ],
+    "progress": "_fd2036815d32e3fa21a5e79efa1683cf",
+    "deps": [
+      "Sr"
+    ]
+  },
+  "ions_Sr": {
+    "name": "Strontium ions",
+    "description": "Unlock all Strontium ions",
+    "goals": [
+      12
+    ],
+    "progress": "_8ea55a7da376beb99a11a551b4fbc1dc",
+    "deps": [
+      "Sr",
+      "ion"
+    ]
+  },
+  "molecules_Sr": {
+    "name": "Strontium molecules",
+    "description": "Unlock all Strontium molecules",
+    "goals": [
+      4
+    ],
+    "progress": "_6a9e9401cd75af2992a30424f9582ef3",
+    "deps": [
+      "Sr",
+      "molecule"
+    ]
+  },
+  "progress_Y": {
+    "name": "Yttrium",
+    "description": "Gather Yttrium",
+    "goals": [
+      1000000,
+      1000000000,
+      1000000000000,
+      1000000000000000,
+      1000000000000000000,
+      1e+21,
+      1e+24
+    ],
+    "progress": "_ccc1b2939603ddc320bbe639aded19b3",
+    "deps": [
+      "Y"
+    ]
+  },
+  "exotic_progress_Y": {
+    "name": "Exotic Yttrium",
+    "description": "Gather exotic Yttrium",
+    "goals": [
+      100,
+      100000,
+      10000000,
+      1000000000
+    ],
+    "progress": "_d20e0193c988c24a111f8c1afe9bf97b",
+    "deps": [
+      "Y"
+    ]
+  },
+  "isotopes_Y": {
+    "name": "Yttrium isotopes",
+    "description": "Unlock all Yttrium isotopes",
+    "goals": [
+      5
+    ],
+    "progress": "_967f332d12d831a28c4cf1f9170230e4",
+    "deps": [
+      "Y"
+    ]
+  },
+  "ions_Y": {
+    "name": "Yttrium ions",
+    "description": "Unlock all Yttrium ions",
+    "goals": [
+      13
+    ],
+    "progress": "_59a8ace0b3464d077ea2f63b36d15249",
+    "deps": [
+      "Y",
+      "ion"
+    ]
+  },
+  "molecules_Y": {
+    "name": "Yttrium molecules",
+    "description": "Unlock all Yttrium molecules",
+    "goals": [
+      2
+    ],
+    "progress": "_59180810559d3359301fda44ed6dbb8c",
+    "deps": [
+      "Y",
+      "molecule"
+    ]
+  },
+  "progress_Zr": {
+    "name": "Zirconium",
+    "description": "Gather Zirconium",
+    "goals": [
+      1000000,
+      1000000000,
+      1000000000000,
+      1000000000000000,
+      1000000000000000000,
+      1e+21,
+      1e+24
+    ],
+    "progress": "_03713ddb57f28b27efb909aa0ca27722",
+    "deps": [
+      "Zr"
+    ]
+  },
+  "exotic_progress_Zr": {
+    "name": "Exotic Zirconium",
+    "description": "Gather exotic Zirconium",
+    "goals": [
+      100,
+      100000,
+      10000000,
+      1000000000
+    ],
+    "progress": "_2c59db341743e0ba36742ccc7e26fea2",
+    "deps": [
+      "Zr"
+    ]
+  },
+  "isotopes_Zr": {
+    "name": "Zirconium isotopes",
+    "description": "Unlock all Zirconium isotopes",
+    "goals": [
+      8
+    ],
+    "progress": "_bc505fce3849991d9256d32adeac7cd6",
+    "deps": [
+      "Zr"
+    ]
+  },
+  "ions_Zr": {
+    "name": "Zirconium ions",
+    "description": "Unlock all Zirconium ions",
+    "goals": [
+      7
+    ],
+    "progress": "_0552335d1b8876cfcdc1f4cdd2e46d1f",
+    "deps": [
+      "Zr",
+      "ion"
+    ]
+  },
+  "progress_Nb": {
+    "name": "Niobium",
+    "description": "Gather Niobium",
+    "goals": [
+      1000000,
+      1000000000,
+      1000000000000,
+      1000000000000000,
+      1000000000000000000,
+      1e+21,
+      1e+24
+    ],
+    "progress": "_c85efa40a56c9066d64d13ad8583e5cf",
+    "deps": [
+      "Nb"
+    ]
+  },
+  "exotic_progress_Nb": {
+    "name": "Exotic Niobium",
+    "description": "Gather exotic Niobium",
+    "goals": [
+      100,
+      100000,
+      10000000,
+      1000000000
+    ],
+    "progress": "_f47f5f5c478719841754424c3c246b95",
+    "deps": [
+      "Nb"
+    ]
+  },
+  "isotopes_Nb": {
+    "name": "Niobium isotopes",
+    "description": "Unlock all Niobium isotopes",
+    "goals": [
+      7
+    ],
+    "progress": "_515e41345261ef5d405b5281ed94b504",
+    "deps": [
+      "Nb"
+    ]
+  },
+  "ions_Nb": {
+    "name": "Niobium ions",
+    "description": "Unlock all Niobium ions",
+    "goals": [
+      8
+    ],
+    "progress": "_f5602c6429a0b48f6443ac714fdca6ba",
+    "deps": [
+      "Nb",
+      "ion"
+    ]
+  },
+  "progress_Mo": {
+    "name": "Molybdenum",
+    "description": "Gather Molybdenum",
+    "goals": [
+      1000000,
+      1000000000,
+      1000000000000,
+      1000000000000000,
+      1000000000000000000,
+      1e+21,
+      1e+24
+    ],
+    "progress": "_649c0e523b2aa22c2cef8517d3378f40",
+    "deps": [
+      "Mo"
+    ]
+  },
+  "exotic_progress_Mo": {
+    "name": "Exotic Molybdenum",
+    "description": "Gather exotic Molybdenum",
+    "goals": [
+      100,
+      100000,
+      10000000,
+      1000000000
+    ],
+    "progress": "_21443945c80772a71c1e34255746e2d7",
+    "deps": [
+      "Mo"
+    ]
+  },
+  "isotopes_Mo": {
+    "name": "Molybdenum isotopes",
+    "description": "Unlock all Molybdenum isotopes",
+    "goals": [
+      9
+    ],
+    "progress": "_e917f45ab502c672869834259a3ff0b4",
+    "deps": [
+      "Mo"
+    ]
+  },
+  "ions_Mo": {
+    "name": "Molybdenum ions",
+    "description": "Unlock all Molybdenum ions",
+    "goals": [
+      31
+    ],
+    "progress": "_c66dd1bf8e026e079aadd4759ee41868",
+    "deps": [
+      "Mo",
+      "ion"
+    ]
+  },
+  "molecules_Mo": {
+    "name": "Molybdenum molecules",
+    "description": "Unlock all Molybdenum molecules",
+    "goals": [
+      1
+    ],
+    "progress": "_63f6c54ee7769693b145c4fcccd6181c",
+    "deps": [
+      "Mo",
+      "molecule"
+    ]
+  },
+  "progress_Tc": {
+    "name": "Technetium",
+    "description": "Gather Technetium",
+    "goals": [
+      1000000,
+      1000000000,
+      1000000000000,
+      1000000000000000,
+      1000000000000000000,
+      1e+21,
+      1e+24
+    ],
+    "progress": "_e3dbb644ba02698026685b6d31a68753",
+    "deps": [
+      "Tc"
+    ]
+  },
+  "exotic_progress_Tc": {
+    "name": "Exotic Technetium",
+    "description": "Gather exotic Technetium",
+    "goals": [
+      100,
+      100000,
+      10000000,
+      1000000000
+    ],
+    "progress": "_116a6811cc449b48f276870df4877f7d",
+    "deps": [
+      "Tc"
+    ]
+  },
+  "isotopes_Tc": {
+    "name": "Technetium isotopes",
+    "description": "Unlock all Technetium isotopes",
+    "goals": [
+      4
+    ],
+    "progress": "_1c461bd3ea8c14f7a66162a90b33ec27",
+    "deps": [
+      "Tc"
+    ]
+  },
+  "ions_Tc": {
+    "name": "Technetium ions",
+    "description": "Unlock all Technetium ions",
+    "goals": [
+      4
+    ],
+    "progress": "_f751fdb13fbcd36424c142e17546320f",
+    "deps": [
+      "Tc",
+      "ion"
+    ]
+  },
+  "progress_Ru": {
+    "name": "Ruthenium",
+    "description": "Gather Ruthenium",
+    "goals": [
+      1000000,
+      1000000000,
+      1000000000000,
+      1000000000000000,
+      1000000000000000000,
+      1e+21,
+      1e+24
+    ],
+    "progress": "_282ea5bdfec019d593464e05fcac15be",
+    "deps": [
+      "Ru"
+    ]
+  },
+  "exotic_progress_Ru": {
+    "name": "Exotic Ruthenium",
+    "description": "Gather exotic Ruthenium",
+    "goals": [
+      100,
+      100000,
+      10000000,
+      1000000000
+    ],
+    "progress": "_c049b8c39c2972f3f75223448b489999",
+    "deps": [
+      "Ru"
+    ]
+  },
+  "isotopes_Ru": {
+    "name": "Ruthenium isotopes",
+    "description": "Unlock all Ruthenium isotopes",
+    "goals": [
+      10
+    ],
+    "progress": "_285bf02ce77e7bf4aa892b4b8b11efc0",
+    "deps": [
+      "Ru"
+    ]
+  },
+  "ions_Ru": {
+    "name": "Ruthenium ions",
+    "description": "Unlock all Ruthenium ions",
+    "goals": [
+      4
+    ],
+    "progress": "_80d75aeffe92092769464df0eec470ec",
+    "deps": [
+      "Ru",
+      "ion"
+    ]
+  },
+  "molecules_Ru": {
+    "name": "Ruthenium molecules",
+    "description": "Unlock all Ruthenium molecules",
+    "goals": [
+      1
+    ],
+    "progress": "_f5b56dba1691e7461abd5132133cf452",
+    "deps": [
+      "Ru",
+      "molecule"
+    ]
+  },
+  "progress_Rh": {
+    "name": "Rhodium",
+    "description": "Gather Rhodium",
+    "goals": [
+      1000000,
+      1000000000,
+      1000000000000,
+      1000000000000000,
+      1000000000000000000,
+      1e+21,
+      1e+24
+    ],
+    "progress": "_3aebcb201dbe3b70d1bb4444df132394",
+    "deps": [
+      "Rh"
+    ]
+  },
+  "exotic_progress_Rh": {
+    "name": "Exotic Rhodium",
+    "description": "Gather exotic Rhodium",
+    "goals": [
+      100,
+      100000,
+      10000000,
+      1000000000
+    ],
+    "progress": "_e02a14e167e11bb06da4cc0d914d96c0",
+    "deps": [
+      "Rh"
+    ]
+  },
+  "isotopes_Rh": {
+    "name": "Rhodium isotopes",
+    "description": "Unlock all Rhodium isotopes",
+    "goals": [
+      5
+    ],
+    "progress": "_2eb89779c177f8ae2a4ec4a0c973e733",
+    "deps": [
+      "Rh"
+    ]
+  },
+  "ions_Rh": {
+    "name": "Rhodium ions",
+    "description": "Unlock all Rhodium ions",
+    "goals": [
+      4
+    ],
+    "progress": "_ecffd734235b9d306a4a0e2f2bb77409",
+    "deps": [
+      "Rh",
+      "ion"
+    ]
+  },
+  "progress_Pd": {
+    "name": "Palladium",
+    "description": "Gather Palladium",
+    "goals": [
+      1000000,
+      1000000000,
+      1000000000000,
+      1000000000000000,
+      1000000000000000000,
+      1e+21,
+      1e+24
+    ],
+    "progress": "_d8bfe7e5092f0ddbf8c747c605e2aac7",
+    "deps": [
+      "Pd"
+    ]
+  },
+  "exotic_progress_Pd": {
+    "name": "Exotic Palladium",
+    "description": "Gather exotic Palladium",
+    "goals": [
+      100,
+      100000,
+      10000000,
+      1000000000
+    ],
+    "progress": "_7319fd46691486734ed8f93569fce714",
+    "deps": [
+      "Pd"
+    ]
+  },
+  "isotopes_Pd": {
+    "name": "Palladium isotopes",
+    "description": "Unlock all Palladium isotopes",
+    "goals": [
+      9
+    ],
+    "progress": "_63189493db9198628b8f8d33148ac64e",
+    "deps": [
+      "Pd"
+    ]
+  },
+  "ions_Pd": {
+    "name": "Palladium ions",
+    "description": "Unlock all Palladium ions",
+    "goals": [
+      4
+    ],
+    "progress": "_3a25fb03a0a11a4a9098f6ac6a2bec92",
+    "deps": [
+      "Pd",
+      "ion"
+    ]
+  },
+  "molecules_Pd": {
+    "name": "Palladium molecules",
+    "description": "Unlock all Palladium molecules",
+    "goals": [
+      4
+    ],
+    "progress": "_2006abcb3c797e0df5cac94a3a4632a5",
+    "deps": [
+      "Pd",
+      "molecule"
+    ]
+  },
+  "progress_Ag": {
+    "name": "Silver",
+    "description": "Gather Silver",
+    "goals": [
+      1000000,
+      1000000000,
+      1000000000000,
+      1000000000000000,
+      1000000000000000000,
+      1e+21,
+      1e+24
+    ],
+    "progress": "_d63b13cebf05eb0c76b90d5813156de4",
+    "deps": [
+      "Ag"
+    ]
+  },
+  "exotic_progress_Ag": {
+    "name": "Exotic Silver",
+    "description": "Gather exotic Silver",
+    "goals": [
+      100,
+      100000,
+      10000000,
+      1000000000
+    ],
+    "progress": "_7bb5a665eda29c16237defc42498ef12",
+    "deps": [
+      "Ag"
+    ]
+  },
+  "isotopes_Ag": {
+    "name": "Silver isotopes",
+    "description": "Unlock all Silver isotopes",
+    "goals": [
+      4
+    ],
+    "progress": "_31f76feecfe102312ca90cbf4810d41b",
+    "deps": [
+      "Ag"
+    ]
+  },
+  "ions_Ag": {
+    "name": "Silver ions",
+    "description": "Unlock all Silver ions",
+    "goals": [
+      4
+    ],
+    "progress": "_2bad682a16069cf66036cc6ff257f092",
+    "deps": [
+      "Ag",
+      "ion"
+    ]
+  },
+  "progress_Cd": {
+    "name": "Cadmium",
+    "description": "Gather Cadmium",
+    "goals": [
+      1000000,
+      1000000000,
+      1000000000000,
+      1000000000000000,
+      1000000000000000000,
+      1e+21,
+      1e+24
+    ],
+    "progress": "_4aa5fe1d26b3bf88cdd7af3e6f606c3f",
+    "deps": [
+      "Cd"
+    ]
+  },
+  "exotic_progress_Cd": {
+    "name": "Exotic Cadmium",
+    "description": "Gather exotic Cadmium",
+    "goals": [
+      100,
+      100000,
+      10000000,
+      1000000000
+    ],
+    "progress": "_5c309fc8f2b6dd9d8b803bf4e493f7ba",
+    "deps": [
+      "Cd"
+    ]
+  },
+  "isotopes_Cd": {
+    "name": "Cadmium isotopes",
+    "description": "Unlock all Cadmium isotopes",
+    "goals": [
+      11
+    ],
+    "progress": "_9eefc2f520a8f2a1ed527c15a73b2b4b",
+    "deps": [
+      "Cd"
+    ]
+  },
+  "ions_Cd": {
+    "name": "Cadmium ions",
+    "description": "Unlock all Cadmium ions",
+    "goals": [
+      3
+    ],
+    "progress": "_7d1f87118366cea951c3193b6f7ee8a8",
+    "deps": [
+      "Cd",
+      "ion"
+    ]
+  },
+  "molecules_Cd": {
+    "name": "Cadmium molecules",
+    "description": "Unlock all Cadmium molecules",
+    "goals": [
+      3
+    ],
+    "progress": "_b842f623af1bc4764ff005528558c6e7",
+    "deps": [
+      "Cd",
+      "molecule"
+    ]
+  },
+  "progress_In": {
+    "name": "Indium",
+    "description": "Gather Indium",
+    "goals": [
+      1000000,
+      1000000000,
+      1000000000000,
+      1000000000000000,
+      1000000000000000000,
+      1e+21,
+      1e+24
+    ],
+    "progress": "_f1aed964805163e2ed3b20e73aa05d22",
+    "deps": [
+      "In"
+    ]
+  },
+  "exotic_progress_In": {
+    "name": "Exotic Indium",
+    "description": "Gather exotic Indium",
+    "goals": [
+      100,
+      100000,
+      10000000,
+      1000000000
+    ],
+    "progress": "_54b458af9e2f5cbcb3b4706e8c172bd9",
+    "deps": [
+      "In"
+    ]
+  },
+  "isotopes_In": {
+    "name": "Indium isotopes",
+    "description": "Unlock all Indium isotopes",
+    "goals": [
+      2
+    ],
+    "progress": "_e8e71069471b3c093a4128ccd9dd9d81",
+    "deps": [
+      "In"
+    ]
+  },
+  "ions_In": {
+    "name": "Indium ions",
+    "description": "Unlock all Indium ions",
+    "goals": [
+      5
+    ],
+    "progress": "_398df2b66fbd146b1f3ad72d6a30d9e3",
+    "deps": [
+      "In",
+      "ion"
+    ]
+  },
+  "molecules_In": {
+    "name": "Indium molecules",
+    "description": "Unlock all Indium molecules",
+    "goals": [
+      2
+    ],
+    "progress": "_92418f6494e07fa9fa7d7906871577e6",
+    "deps": [
+      "In",
+      "molecule"
+    ]
+  },
+  "progress_Sn": {
+    "name": "Tin",
+    "description": "Gather Tin",
+    "goals": [
+      1000000,
+      1000000000,
+      1000000000000,
+      1000000000000000,
+      1000000000000000000,
+      1e+21,
+      1e+24
+    ],
+    "progress": "_86c86c913b7e710bf8283447194727c9",
+    "deps": [
+      "Sn"
+    ]
+  },
+  "exotic_progress_Sn": {
+    "name": "Exotic Tin",
+    "description": "Gather exotic Tin",
+    "goals": [
+      100,
+      100000,
+      10000000,
+      1000000000
+    ],
+    "progress": "_e2a52f8dcb3728473b4d48b8e8f79d49",
+    "deps": [
+      "Sn"
+    ]
+  },
+  "isotopes_Sn": {
+    "name": "Tin isotopes",
+    "description": "Unlock all Tin isotopes",
+    "goals": [
+      11
+    ],
+    "progress": "_fa6b25b57f71ec50f2f4268df9210c72",
+    "deps": [
+      "Sn"
+    ]
+  },
+  "ions_Sn": {
+    "name": "Tin ions",
+    "description": "Unlock all Tin ions",
+    "goals": [
+      6
+    ],
+    "progress": "_5fab9a9250592f07b7371b7b2d107cdc",
+    "deps": [
+      "Sn",
+      "ion"
+    ]
+  },
+  "molecules_Sn": {
+    "name": "Tin molecules",
+    "description": "Unlock all Tin molecules",
+    "goals": [
+      10
+    ],
+    "progress": "_3602b1d2ff601bdfcc54edf11fca1e65",
+    "deps": [
+      "Sn",
+      "molecule"
+    ]
+  },
+  "progress_Sb": {
+    "name": "Antimony",
+    "description": "Gather Antimony",
+    "goals": [
+      1000000,
+      1000000000,
+      1000000000000,
+      1000000000000000,
+      1000000000000000000,
+      1e+21,
+      1e+24
+    ],
+    "progress": "_8944f04b438086a0a43f1f15e22cc214",
+    "deps": [
+      "Sb"
+    ]
+  },
+  "exotic_progress_Sb": {
+    "name": "Exotic Antimony",
+    "description": "Gather exotic Antimony",
+    "goals": [
+      100,
+      100000,
+      10000000,
+      1000000000
+    ],
+    "progress": "_3940e33283caefed56998c5d4caeb8ea",
+    "deps": [
+      "Sb"
+    ]
+  },
+  "isotopes_Sb": {
+    "name": "Antimony isotopes",
+    "description": "Unlock all Antimony isotopes",
+    "goals": [
+      3
+    ],
+    "progress": "_457fdb0dd6f58f0039fc2791dce07afc",
+    "deps": [
+      "Sb"
+    ]
+  },
+  "ions_Sb": {
+    "name": "Antimony ions",
+    "description": "Unlock all Antimony ions",
+    "goals": [
+      7
+    ],
+    "progress": "_21b261d155b105a666cca5f894fcdf9f",
+    "deps": [
+      "Sb",
+      "ion"
+    ]
+  },
+  "molecules_Sb": {
+    "name": "Antimony molecules",
+    "description": "Unlock all Antimony molecules",
+    "goals": [
+      3
+    ],
+    "progress": "_baaa65bc2def972ad683e2249748a208",
+    "deps": [
+      "Sb",
+      "molecule"
+    ]
+  },
+  "progress_Te": {
+    "name": "Tellurium",
+    "description": "Gather Tellurium",
+    "goals": [
+      1000000,
+      1000000000,
+      1000000000000,
+      1000000000000000,
+      1000000000000000000,
+      1e+21,
+      1e+24
+    ],
+    "progress": "_72ab311085715491a6d919148d8a7084",
+    "deps": [
+      "Te"
+    ]
+  },
+  "exotic_progress_Te": {
+    "name": "Exotic Tellurium",
+    "description": "Gather exotic Tellurium",
+    "goals": [
+      100,
+      100000,
+      10000000,
+      1000000000
+    ],
+    "progress": "_21ff2054863c748c7b7160673c78c378",
+    "deps": [
+      "Te"
+    ]
+  },
+  "isotopes_Te": {
+    "name": "Tellurium isotopes",
+    "description": "Unlock all Tellurium isotopes",
+    "goals": [
+      11
+    ],
+    "progress": "_7d725a1c2c2bfca9a8e00d9365ada6aa",
+    "deps": [
+      "Te"
+    ]
+  },
+  "ions_Te": {
+    "name": "Tellurium ions",
+    "description": "Unlock all Tellurium ions",
+    "goals": [
+      8
+    ],
+    "progress": "_ad9874070cda09d3ac43fcc97399f868",
+    "deps": [
+      "Te",
+      "ion"
+    ]
+  },
+  "progress_I": {
+    "name": "Iodine",
+    "description": "Gather Iodine",
+    "goals": [
+      1000000,
+      1000000000,
+      1000000000000,
+      1000000000000000,
+      1000000000000000000,
+      1e+21,
+      1e+24
+    ],
+    "progress": "_505fdd023ddc04e6af348685dbf4d25d",
+    "deps": [
+      "I"
+    ]
+  },
+  "exotic_progress_I": {
+    "name": "Exotic Iodine",
+    "description": "Gather exotic Iodine",
+    "goals": [
+      100,
+      100000,
+      10000000,
+      1000000000
+    ],
+    "progress": "_4eb82c32a6ca92c316d44ddc2b274c4a",
+    "deps": [
+      "I"
+    ]
+  },
+  "isotopes_I": {
+    "name": "Iodine isotopes",
+    "description": "Unlock all Iodine isotopes",
+    "goals": [
+      7
+    ],
+    "progress": "_ef37acad0cbc9c4a1a6fb0650acd8948",
+    "deps": [
+      "I"
+    ]
+  },
+  "ions_I": {
+    "name": "Iodine ions",
+    "description": "Unlock all Iodine ions",
+    "goals": [
+      4
+    ],
+    "progress": "_47980a0fbb6d918921844b75cf8cc21a",
+    "deps": [
+      "I",
+      "ion"
+    ]
+  },
+  "molecules_I": {
+    "name": "Iodine molecules",
+    "description": "Unlock all Iodine molecules",
+    "goals": [
+      18
+    ],
+    "progress": "_b64a060b260b0db3980acdf7374690dd",
+    "deps": [
+      "I",
+      "molecule"
+    ]
+  },
+  "progress_Xe": {
+    "name": "Xenon",
+    "description": "Gather Xenon",
+    "goals": [
+      1000000,
+      1000000000,
+      1000000000000,
+      1000000000000000,
+      1000000000000000000,
+      1e+21,
+      1e+24
+    ],
+    "progress": "_e3ffac1cbb393f78a3580359d90ab7f7",
+    "deps": [
+      "Xe"
+    ]
+  },
+  "exotic_progress_Xe": {
+    "name": "Exotic Xenon",
+    "description": "Gather exotic Xenon",
+    "goals": [
+      100,
+      100000,
+      10000000,
+      1000000000
+    ],
+    "progress": "_ce68123e08852c2e9f93597118fff681",
+    "deps": [
+      "Xe"
+    ]
+  },
+  "isotopes_Xe": {
+    "name": "Xenon isotopes",
+    "description": "Unlock all Xenon isotopes",
+    "goals": [
+      13
+    ],
+    "progress": "_c55d90ac4520d9efe433e33a7a15575e",
+    "deps": [
+      "Xe"
+    ]
+  },
+  "ions_Xe": {
+    "name": "Xenon ions",
+    "description": "Unlock all Xenon ions",
+    "goals": [
+      4
+    ],
+    "progress": "_679ebbb853c763351c3b421f4634afd3",
+    "deps": [
+      "Xe",
+      "ion"
+    ]
+  },
+  "molecules_Xe": {
+    "name": "Xenon molecules",
+    "description": "Unlock all Xenon molecules",
+    "goals": [
+      5
+    ],
+    "progress": "_3c2ebe2aec8d93b6b025c5760efd4594",
+    "deps": [
+      "Xe",
+      "molecule"
+    ]
+  },
+  "progress_Cs": {
+    "name": "Caesium",
+    "description": "Gather Caesium",
+    "goals": [
+      1000000,
+      1000000000,
+      1000000000000,
+      1000000000000000,
+      1000000000000000000,
+      1e+21,
+      1e+24
+    ],
+    "progress": "_e90d3ff8409a1e928a8179e1852a6670",
+    "deps": [
+      "Cs"
+    ]
+  },
+  "exotic_progress_Cs": {
+    "name": "Exotic Caesium",
+    "description": "Gather exotic Caesium",
+    "goals": [
+      100,
+      100000,
+      10000000,
+      1000000000
+    ],
+    "progress": "_64503233282ed1e2c5e80ebabffd4e17",
+    "deps": [
+      "Cs"
+    ]
+  },
+  "isotopes_Cs": {
+    "name": "Caesium isotopes",
+    "description": "Unlock all Caesium isotopes",
+    "goals": [
+      4
+    ],
+    "progress": "_01aa21ccc3f692038bc7026ef32cc473",
+    "deps": [
+      "Cs"
+    ]
+  },
+  "ions_Cs": {
+    "name": "Caesium ions",
+    "description": "Unlock all Caesium ions",
+    "goals": [
+      4
+    ],
+    "progress": "_8ec9a0184a63cfcccb87fcf0cfe43dd9",
+    "deps": [
+      "Cs",
+      "ion"
+    ]
+  },
+  "molecules_Cs": {
+    "name": "Caesium molecules",
+    "description": "Unlock all Caesium molecules",
+    "goals": [
+      8
+    ],
+    "progress": "_13547b4815c9a65c93f7eb309cd19bcd",
+    "deps": [
+      "Cs",
+      "molecule"
+    ]
+  },
+  "progress_Ba": {
+    "name": "Barium",
+    "description": "Gather Barium",
+    "goals": [
+      1000000,
+      1000000000,
+      1000000000000,
+      1000000000000000,
+      1000000000000000000,
+      1e+21,
+      1e+24
+    ],
+    "progress": "_b8df16e37cd3cbca8bc2be0cbe9dc718",
+    "deps": [
+      "Ba"
+    ]
+  },
+  "exotic_progress_Ba": {
+    "name": "Exotic Barium",
+    "description": "Gather exotic Barium",
+    "goals": [
+      100,
+      100000,
+      10000000,
+      1000000000
+    ],
+    "progress": "_79c282337bb7aa446690e2692f480d93",
+    "deps": [
+      "Ba"
+    ]
+  },
+  "isotopes_Ba": {
+    "name": "Barium isotopes",
+    "description": "Unlock all Barium isotopes",
+    "goals": [
+      8
+    ],
+    "progress": "_9c4b3d615d306782e7158c69ad05eafa",
+    "deps": [
+      "Ba"
+    ]
+  },
+  "ions_Ba": {
+    "name": "Barium ions",
+    "description": "Unlock all Barium ions",
+    "goals": [
+      4
+    ],
+    "progress": "_4f5b25936c90ffbbf87f1aa51d26beed",
+    "deps": [
+      "Ba",
+      "ion"
+    ]
+  },
+  "molecules_Ba": {
+    "name": "Barium molecules",
+    "description": "Unlock all Barium molecules",
+    "goals": [
+      3
+    ],
+    "progress": "_0955dfd274046179fa22625122700fc7",
+    "deps": [
+      "Ba",
+      "molecule"
+    ]
+  },
+  "progress_La": {
+    "name": "Lanthanum",
+    "description": "Gather Lanthanum",
+    "goals": [
+      1000000,
+      1000000000,
+      1000000000000,
+      1000000000000000,
+      1000000000000000000,
+      1e+21,
+      1e+24
+    ],
+    "progress": "_61c4547e39971331181147b2b7989ff6",
+    "deps": [
+      "La"
+    ]
+  },
+  "exotic_progress_La": {
+    "name": "Exotic Lanthanum",
+    "description": "Gather exotic Lanthanum",
+    "goals": [
+      100,
+      100000,
+      10000000,
+      1000000000
+    ],
+    "progress": "_c5ad52f417f05f8200564e749fbb69d0",
+    "deps": [
+      "La"
+    ]
+  },
+  "isotopes_La": {
+    "name": "Lanthanum isotopes",
+    "description": "Unlock all Lanthanum isotopes",
+    "goals": [
+      3
+    ],
+    "progress": "_2bb53dfb9e7c3de824a3c0c18a977fad",
+    "deps": [
+      "La"
+    ]
+  },
+  "ions_La": {
+    "name": "Lanthanum ions",
+    "description": "Unlock all Lanthanum ions",
+    "goals": [
+      6
+    ],
+    "progress": "_ad29eb0f09e85d07ba18aad119caed43",
+    "deps": [
+      "La",
+      "ion"
+    ]
+  },
+  "progress_Ce": {
+    "name": "Cerium",
+    "description": "Gather Cerium",
+    "goals": [
+      1000000,
+      1000000000,
+      1000000000000,
+      1000000000000000,
+      1000000000000000000,
+      1e+21,
+      1e+24
+    ],
+    "progress": "_53c1ac39f9bfa3a5c3418edcd743e480",
+    "deps": [
+      "Ce"
+    ]
+  },
+  "exotic_progress_Ce": {
+    "name": "Exotic Cerium",
+    "description": "Gather exotic Cerium",
+    "goals": [
+      100,
+      100000,
+      10000000,
+      1000000000
+    ],
+    "progress": "_aaf677083da982205db6428ffd1f7084",
+    "deps": [
+      "Ce"
+    ]
+  },
+  "isotopes_Ce": {
+    "name": "Cerium isotopes",
+    "description": "Unlock all Cerium isotopes",
+    "goals": [
+      9
+    ],
+    "progress": "_9ea05407b7f149029d53d572e025dcf7",
+    "deps": [
+      "Ce"
+    ]
+  },
+  "ions_Ce": {
+    "name": "Cerium ions",
+    "description": "Unlock all Cerium ions",
+    "goals": [
+      7
+    ],
+    "progress": "_b0bf2aa9570677acfb0dbccb56fdcfc3",
+    "deps": [
+      "Ce",
+      "ion"
+    ]
+  },
+  "molecules_Ce": {
+    "name": "Cerium molecules",
+    "description": "Unlock all Cerium molecules",
+    "goals": [
+      1
+    ],
+    "progress": "_edaaa475982688a98f9b5989f0fbe6d8",
+    "deps": [
+      "Ce",
+      "molecule"
+    ]
+  },
+  "progress_Pr": {
+    "name": "Praseodymium",
+    "description": "Gather Praseodymium",
+    "goals": [
+      1000000,
+      1000000000,
+      1000000000000,
+      1000000000000000,
+      1000000000000000000,
+      1e+21,
+      1e+24
+    ],
+    "progress": "_6354b93a407e32d98207fd9c243e6ab5",
+    "deps": [
+      "Pr"
+    ]
+  },
+  "exotic_progress_Pr": {
+    "name": "Exotic Praseodymium",
+    "description": "Gather exotic Praseodymium",
+    "goals": [
+      100,
+      100000,
+      10000000,
+      1000000000
+    ],
+    "progress": "_382655d4f18136b51c8e92b0c1a72a7c",
+    "deps": [
+      "Pr"
+    ]
+  },
+  "isotopes_Pr": {
+    "name": "Praseodymium isotopes",
+    "description": "Unlock all Praseodymium isotopes",
+    "goals": [
+      3
+    ],
+    "progress": "_ddda542bbad7934fcb8c203cdb939c58",
+    "deps": [
+      "Pr"
+    ]
+  },
+  "ions_Pr": {
+    "name": "Praseodymium ions",
+    "description": "Unlock all Praseodymium ions",
+    "goals": [
+      6
+    ],
+    "progress": "_5f719da4190c2b4782c29bb14c8c39af",
+    "deps": [
+      "Pr",
+      "ion"
+    ]
+  },
+  "molecules_Pr": {
+    "name": "Praseodymium molecules",
+    "description": "Unlock all Praseodymium molecules",
+    "goals": [
+      1
+    ],
+    "progress": "_5e3662c23d2d59315ae4bfb129cae84c",
+    "deps": [
+      "Pr",
+      "molecule"
+    ]
+  },
+  "progress_Nd": {
+    "name": "Neodymium",
+    "description": "Gather Neodymium",
+    "goals": [
+      1000000,
+      1000000000,
+      1000000000000,
+      1000000000000000,
+      1000000000000000000,
+      1e+21,
+      1e+24
+    ],
+    "progress": "_a6b6a01fc7da7ea62236fae7dfe401f8",
+    "deps": [
+      "Nd"
+    ]
+  },
+  "exotic_progress_Nd": {
+    "name": "Exotic Neodymium",
+    "description": "Gather exotic Neodymium",
+    "goals": [
+      100,
+      100000,
+      10000000,
+      1000000000
+    ],
+    "progress": "_8beb873fe0f91a32349bc5d4536157dd",
+    "deps": [
+      "Nd"
+    ]
+  },
+  "isotopes_Nd": {
+    "name": "Neodymium isotopes",
+    "description": "Unlock all Neodymium isotopes",
+    "goals": [
+      7
+    ],
+    "progress": "_fc5491897c126257d8ff044105e68230",
+    "deps": [
+      "Nd"
+    ]
+  },
+  "ions_Nd": {
+    "name": "Neodymium ions",
+    "description": "Unlock all Neodymium ions",
+    "goals": [
+      5
+    ],
+    "progress": "_026f2387aa46623c02128d7b56953693",
+    "deps": [
+      "Nd",
+      "ion"
+    ]
+  },
+  "molecules_Nd": {
+    "name": "Neodymium molecules",
+    "description": "Unlock all Neodymium molecules",
+    "goals": [
+      1
+    ],
+    "progress": "_95c3b69d9aaf456f1ff6e0e45bbe13c5",
+    "deps": [
+      "Nd",
+      "molecule"
+    ]
+  },
+  "progress_Pm": {
+    "name": "Promethium",
+    "description": "Gather Promethium",
+    "goals": [
+      1000000,
+      1000000000,
+      1000000000000,
+      1000000000000000,
+      1000000000000000000,
+      1e+21,
+      1e+24
+    ],
+    "progress": "_0db7e4bbe02e034f795ade15422f888d",
+    "deps": [
+      "Pm"
+    ]
+  },
+  "exotic_progress_Pm": {
+    "name": "Exotic Promethium",
+    "description": "Gather exotic Promethium",
+    "goals": [
+      100,
+      100000,
+      10000000,
+      1000000000
+    ],
+    "progress": "_855becb6f782e84c13b4533e216424b3",
+    "deps": [
+      "Pm"
+    ]
+  },
+  "isotopes_Pm": {
+    "name": "Promethium isotopes",
+    "description": "Unlock all Promethium isotopes",
+    "goals": [
+      3
+    ],
+    "progress": "_637b07c5376858faf16325232ea76614",
+    "deps": [
+      "Pm"
+    ]
+  },
+  "ions_Pm": {
+    "name": "Promethium ions",
+    "description": "Unlock all Promethium ions",
+    "goals": [
+      5
+    ],
+    "progress": "_18e6547bbb793830f1ff94bafeaf2f58",
+    "deps": [
+      "Pm",
+      "ion"
+    ]
+  },
+  "progress_Sm": {
+    "name": "Samarium",
+    "description": "Gather Samarium",
+    "goals": [
+      1000000,
+      1000000000,
+      1000000000000,
+      1000000000000000,
+      1000000000000000000,
+      1e+21,
+      1e+24
+    ],
+    "progress": "_1ecffaf534647a3dd6d76590a1bb25c0",
+    "deps": [
+      "Sm"
+    ]
+  },
+  "exotic_progress_Sm": {
+    "name": "Exotic Samarium",
+    "description": "Gather exotic Samarium",
+    "goals": [
+      100,
+      100000,
+      10000000,
+      1000000000
+    ],
+    "progress": "_9837d3f64ca094d91562a4ba1d4726f2",
+    "deps": [
+      "Sm"
+    ]
+  },
+  "isotopes_Sm": {
+    "name": "Samarium isotopes",
+    "description": "Unlock all Samarium isotopes",
+    "goals": [
+      11
+    ],
+    "progress": "_b2f4c80281886b2cb79ca993d01bd8d6",
+    "deps": [
+      "Sm"
+    ]
+  },
+  "ions_Sm": {
+    "name": "Samarium ions",
+    "description": "Unlock all Samarium ions",
+    "goals": [
+      5
+    ],
+    "progress": "_f6031e588d77eb628c58b1517df2fe91",
+    "deps": [
+      "Sm",
+      "ion"
+    ]
+  },
+  "molecules_Sm": {
+    "name": "Samarium molecules",
+    "description": "Unlock all Samarium molecules",
+    "goals": [
+      1
+    ],
+    "progress": "_4465c145df61ed95204ab1bb874f0ece",
+    "deps": [
+      "Sm",
+      "molecule"
+    ]
+  },
+  "progress_Eu": {
+    "name": "Europium",
+    "description": "Gather Europium",
+    "goals": [
+      1000000,
+      1000000000,
+      1000000000000,
+      1000000000000000,
+      1000000000000000000,
+      1e+21,
+      1e+24
+    ],
+    "progress": "_5a274969215d10ebf0bb9b24cd03f6f3",
+    "deps": [
+      "Eu"
+    ]
+  },
+  "exotic_progress_Eu": {
+    "name": "Exotic Europium",
+    "description": "Gather exotic Europium",
+    "goals": [
+      100,
+      100000,
+      10000000,
+      1000000000
+    ],
+    "progress": "_7d8112fff28fa8cc2980117cefe42737",
+    "deps": [
+      "Eu"
+    ]
+  },
+  "isotopes_Eu": {
+    "name": "Europium isotopes",
+    "description": "Unlock all Europium isotopes",
+    "goals": [
+      6
+    ],
+    "progress": "_23bc0fe87799d5a62cf973b1e937ed14",
+    "deps": [
+      "Eu"
+    ]
+  },
+  "ions_Eu": {
+    "name": "Europium ions",
+    "description": "Unlock all Europium ions",
+    "goals": [
+      5
+    ],
+    "progress": "_53fced9244ff59c0182aa4eac97001e8",
+    "deps": [
+      "Eu",
+      "ion"
+    ]
+  },
+  "molecules_Eu": {
+    "name": "Europium molecules",
+    "description": "Unlock all Europium molecules",
+    "goals": [
+      1
+    ],
+    "progress": "_756ecdaff9e7fd9221294602ea17e1b1",
+    "deps": [
+      "Eu",
+      "molecule"
+    ]
+  },
+  "progress_Gd": {
+    "name": "Gadolinium",
+    "description": "Gather Gadolinium",
+    "goals": [
+      1000000,
+      1000000000,
+      1000000000000,
+      1000000000000000,
+      1000000000000000000,
+      1e+21,
+      1e+24
+    ],
+    "progress": "_2d9558e037d9f1b9dbd4438724ea3988",
+    "deps": [
+      "Gd"
+    ]
+  },
+  "exotic_progress_Gd": {
+    "name": "Exotic Gadolinium",
+    "description": "Gather exotic Gadolinium",
+    "goals": [
+      100,
+      100000,
+      10000000,
+      1000000000
+    ],
+    "progress": "_5216c2a50395f777866151cd30ecba42",
+    "deps": [
+      "Gd"
+    ]
+  },
+  "isotopes_Gd": {
+    "name": "Gadolinium isotopes",
+    "description": "Unlock all Gadolinium isotopes",
+    "goals": [
+      9
+    ],
+    "progress": "_d6b0c2b2c46a85c9b6c28559a21142d8",
+    "deps": [
+      "Gd"
+    ]
+  },
+  "ions_Gd": {
+    "name": "Gadolinium ions",
+    "description": "Unlock all Gadolinium ions",
+    "goals": [
+      5
+    ],
+    "progress": "_4dd00bb38c24c6c9b976911fe76c1a9d",
+    "deps": [
+      "Gd",
+      "ion"
+    ]
+  },
+  "molecules_Gd": {
+    "name": "Gadolinium molecules",
+    "description": "Unlock all Gadolinium molecules",
+    "goals": [
+      1
+    ],
+    "progress": "_e3f960acef3dbacb77036bb369df69f1",
+    "deps": [
+      "Gd",
+      "molecule"
+    ]
+  },
+  "progress_Tb": {
+    "name": "Terbium",
+    "description": "Gather Terbium",
+    "goals": [
+      1000000,
+      1000000000,
+      1000000000000,
+      1000000000000000,
+      1000000000000000000,
+      1e+21,
+      1e+24
+    ],
+    "progress": "_d8941926f36114f3020af36e1d094d49",
+    "deps": [
+      "Tb"
+    ]
+  },
+  "exotic_progress_Tb": {
+    "name": "Exotic Terbium",
+    "description": "Gather exotic Terbium",
+    "goals": [
+      100,
+      100000,
+      10000000,
+      1000000000
+    ],
+    "progress": "_ccb56d0a6031c7ae87640608adf40d59",
+    "deps": [
+      "Tb"
+    ]
+  },
+  "isotopes_Tb": {
+    "name": "Terbium isotopes",
+    "description": "Unlock all Terbium isotopes",
+    "goals": [
+      3
+    ],
+    "progress": "_476999ed0f044f7fde658bdb946f3a0a",
+    "deps": [
+      "Tb"
+    ]
+  },
+  "ions_Tb": {
+    "name": "Terbium ions",
+    "description": "Unlock all Terbium ions",
+    "goals": [
+      5
+    ],
+    "progress": "_d49cbb0b3dfa6ea1f533bbb646f780f7",
+    "deps": [
+      "Tb",
+      "ion"
+    ]
+  },
+  "molecules_Tb": {
+    "name": "Terbium molecules",
+    "description": "Unlock all Terbium molecules",
+    "goals": [
+      1
+    ],
+    "progress": "_a4071deeec09c59e9d6f6b8000494ab1",
+    "deps": [
+      "Tb",
+      "molecule"
+    ]
+  },
+  "progress_Dy": {
+    "name": "Dysprosium",
+    "description": "Gather Dysprosium",
+    "goals": [
+      1000000,
+      1000000000,
+      1000000000000,
+      1000000000000000,
+      1000000000000000000,
+      1e+21,
+      1e+24
+    ],
+    "progress": "_1148f6ed78ab4ad130a6d484ce155436",
+    "deps": [
+      "Dy"
+    ]
+  },
+  "exotic_progress_Dy": {
+    "name": "Exotic Dysprosium",
+    "description": "Gather exotic Dysprosium",
+    "goals": [
+      100,
+      100000,
+      10000000,
+      1000000000
+    ],
+    "progress": "_ec85b6236ac99099185e277e48c4048c",
+    "deps": [
+      "Dy"
+    ]
+  },
+  "isotopes_Dy": {
+    "name": "Dysprosium isotopes",
+    "description": "Unlock all Dysprosium isotopes",
+    "goals": [
+      8
+    ],
+    "progress": "_54b74ce4a2f8d9431788364ad7202fde",
+    "deps": [
+      "Dy"
+    ]
+  },
+  "ions_Dy": {
+    "name": "Dysprosium ions",
+    "description": "Unlock all Dysprosium ions",
+    "goals": [
+      5
+    ],
+    "progress": "_f99f1e81d5c20007d41bcf5e3d8f90b9",
+    "deps": [
+      "Dy",
+      "ion"
+    ]
+  },
+  "molecules_Dy": {
+    "name": "Dysprosium molecules",
+    "description": "Unlock all Dysprosium molecules",
+    "goals": [
+      1
+    ],
+    "progress": "_5591549c5c9562576fbdf572e0bcb39d",
+    "deps": [
+      "Dy",
+      "molecule"
+    ]
+  },
+  "progress_Ho": {
+    "name": "Holmium",
+    "description": "Gather Holmium",
+    "goals": [
+      1000000,
+      1000000000,
+      1000000000000,
+      1000000000000000,
+      1000000000000000000,
+      1e+21,
+      1e+24
+    ],
+    "progress": "_ce4bee0b536dc377e3c8bc59f00454a2",
+    "deps": [
+      "Ho"
+    ]
+  },
+  "exotic_progress_Ho": {
+    "name": "Exotic Holmium",
+    "description": "Gather exotic Holmium",
+    "goals": [
+      100,
+      100000,
+      10000000,
+      1000000000
+    ],
+    "progress": "_f9ed113badce99ae99fa20c905430563",
+    "deps": [
+      "Ho"
+    ]
+  },
+  "isotopes_Ho": {
+    "name": "Holmium isotopes",
+    "description": "Unlock all Holmium isotopes",
+    "goals": [
+      5
+    ],
+    "progress": "_aebcdb440b38b6cf9cefac8c667f2265",
+    "deps": [
+      "Ho"
+    ]
+  },
+  "ions_Ho": {
+    "name": "Holmium ions",
+    "description": "Unlock all Holmium ions",
+    "goals": [
+      5
+    ],
+    "progress": "_b333e108ff98fee7b03a6bf2b649c222",
+    "deps": [
+      "Ho",
+      "ion"
+    ]
+  },
+  "molecules_Ho": {
+    "name": "Holmium molecules",
+    "description": "Unlock all Holmium molecules",
+    "goals": [
+      1
+    ],
+    "progress": "_0c59240eb21d5f3070f6d3b21f64e4d2",
+    "deps": [
+      "Ho",
+      "molecule"
+    ]
+  },
+  "progress_Er": {
+    "name": "Erbium",
+    "description": "Gather Erbium",
+    "goals": [
+      1000000,
+      1000000000,
+      1000000000000,
+      1000000000000000,
+      1000000000000000000,
+      1e+21,
+      1e+24
+    ],
+    "progress": "_c4e7035d31696ce33ef125e333df2021",
+    "deps": [
+      "Er"
+    ]
+  },
+  "exotic_progress_Er": {
+    "name": "Exotic Erbium",
+    "description": "Gather exotic Erbium",
+    "goals": [
+      100,
+      100000,
+      10000000,
+      1000000000
+    ],
+    "progress": "_38b68ff96051569959278a86c44bb0a7",
+    "deps": [
+      "Er"
+    ]
+  },
+  "isotopes_Er": {
+    "name": "Erbium isotopes",
+    "description": "Unlock all Erbium isotopes",
+    "goals": [
+      9
+    ],
+    "progress": "_c2293c2d7dead6da8fc0e1503bb5a2f1",
+    "deps": [
+      "Er"
+    ]
+  },
+  "ions_Er": {
+    "name": "Erbium ions",
+    "description": "Unlock all Erbium ions",
+    "goals": [
+      5
+    ],
+    "progress": "_8f520abc1e3d40fb66eabd7791c43ac4",
+    "deps": [
+      "Er",
+      "ion"
+    ]
+  },
+  "molecules_Er": {
+    "name": "Erbium molecules",
+    "description": "Unlock all Erbium molecules",
+    "goals": [
+      1
+    ],
+    "progress": "_2e65edd12e0c9fb96372f9d34a1b621c",
+    "deps": [
+      "Er",
+      "molecule"
+    ]
+  },
+  "progress_Tm": {
+    "name": "Thulium",
+    "description": "Gather Thulium",
+    "goals": [
+      1000000,
+      1000000000,
+      1000000000000,
+      1000000000000000,
+      1000000000000000000,
+      1e+21,
+      1e+24
+    ],
+    "progress": "_4cf5a19e53a8dd7e86d912d4652ce327",
+    "deps": [
+      "Tm"
+    ]
+  },
+  "exotic_progress_Tm": {
+    "name": "Exotic Thulium",
+    "description": "Gather exotic Thulium",
+    "goals": [
+      100,
+      100000,
+      10000000,
+      1000000000
+    ],
+    "progress": "_cf1aa5e4131b8d418024ae2dc6652ed8",
+    "deps": [
+      "Tm"
+    ]
+  },
+  "isotopes_Tm": {
+    "name": "Thulium isotopes",
+    "description": "Unlock all Thulium isotopes",
+    "goals": [
+      5
+    ],
+    "progress": "_b2e658d426be7af4b3ff657a88e86e78",
+    "deps": [
+      "Tm"
+    ]
+  },
+  "ions_Tm": {
+    "name": "Thulium ions",
+    "description": "Unlock all Thulium ions",
+    "goals": [
+      5
+    ],
+    "progress": "_fd6a7b69aac1c2a84bf149633ce5ebce",
+    "deps": [
+      "Tm",
+      "ion"
+    ]
+  },
+  "molecules_Tm": {
+    "name": "Thulium molecules",
+    "description": "Unlock all Thulium molecules",
+    "goals": [
+      1
+    ],
+    "progress": "_8534a11b21bd45af1a2f5cb80fce2089",
+    "deps": [
+      "Tm",
+      "molecule"
+    ]
+  },
+  "progress_Yb": {
+    "name": "Ytterbium",
+    "description": "Gather Ytterbium",
+    "goals": [
+      1000000,
+      1000000000,
+      1000000000000,
+      1000000000000000,
+      1000000000000000000,
+      1e+21,
+      1e+24
+    ],
+    "progress": "_6201a87d5a8a7aa59f1191d81617dbc5",
+    "deps": [
+      "Yb"
+    ]
+  },
+  "exotic_progress_Yb": {
+    "name": "Exotic Ytterbium",
+    "description": "Gather exotic Ytterbium",
+    "goals": [
+      100,
+      100000,
+      10000000,
+      1000000000
+    ],
+    "progress": "_6e475eb4703a194f40c36aebd739e976",
+    "deps": [
+      "Yb"
+    ]
+  },
+  "isotopes_Yb": {
+    "name": "Ytterbium isotopes",
+    "description": "Unlock all Ytterbium isotopes",
+    "goals": [
+      9
+    ],
+    "progress": "_29545564cf64388f2d7bf519e476636b",
+    "deps": [
+      "Yb"
+    ]
+  },
+  "ions_Yb": {
+    "name": "Ytterbium ions",
+    "description": "Unlock all Ytterbium ions",
+    "goals": [
+      5
+    ],
+    "progress": "_31abb9c02c335c36d5a090b18d9c2cbd",
+    "deps": [
+      "Yb",
+      "ion"
+    ]
+  },
+  "molecules_Yb": {
+    "name": "Ytterbium molecules",
+    "description": "Unlock all Ytterbium molecules",
+    "goals": [
+      2
+    ],
+    "progress": "_5c99503766df4e3ffed8790b7bf2f2a8",
+    "deps": [
+      "Yb",
+      "molecule"
+    ]
+  },
+  "progress_Lu": {
+    "name": "Lutetium",
+    "description": "Gather Lutetium",
+    "goals": [
+      1000000,
+      1000000000,
+      1000000000000,
+      1000000000000000,
+      1000000000000000000,
+      1e+21,
+      1e+24
+    ],
+    "progress": "_bca8c23d441a25251ceaf3c60c7b3c10",
+    "deps": [
+      "Lu"
+    ]
+  },
+  "exotic_progress_Lu": {
+    "name": "Exotic Lutetium",
+    "description": "Gather exotic Lutetium",
+    "goals": [
+      100,
+      100000,
+      10000000,
+      1000000000
+    ],
+    "progress": "_bb91616fba17fb055c0376145dd3ccd8",
+    "deps": [
+      "Lu"
+    ]
+  },
+  "isotopes_Lu": {
+    "name": "Lutetium isotopes",
+    "description": "Unlock all Lutetium isotopes",
+    "goals": [
+      4
+    ],
+    "progress": "_68a63b99e6560732b451ce7565085626",
+    "deps": [
+      "Lu"
+    ]
+  },
+  "ions_Lu": {
+    "name": "Lutetium ions",
+    "description": "Unlock all Lutetium ions",
+    "goals": [
+      6
+    ],
+    "progress": "_da27d88f17901c5e643c46a6c6dad555",
+    "deps": [
+      "Lu",
+      "ion"
+    ]
+  },
+  "molecules_Lu": {
+    "name": "Lutetium molecules",
+    "description": "Unlock all Lutetium molecules",
+    "goals": [
+      1
+    ],
+    "progress": "_ee602f32e0dc00d5b9ec0d15c617d1e6",
+    "deps": [
+      "Lu",
+      "molecule"
+    ]
+  },
+  "progress_Hf": {
+    "name": "Hafnium",
+    "description": "Gather Hafnium",
+    "goals": [
+      1000000,
+      1000000000,
+      1000000000000,
+      1000000000000000,
+      1000000000000000000,
+      1e+21,
+      1e+24
+    ],
+    "progress": "_491773aaf27c834ef23c2e7e8d0f374c",
+    "deps": [
+      "Hf"
+    ]
+  },
+  "exotic_progress_Hf": {
+    "name": "Exotic Hafnium",
+    "description": "Gather exotic Hafnium",
+    "goals": [
+      100,
+      100000,
+      10000000,
+      1000000000
+    ],
+    "progress": "_ec8e97573b059ead8f17a7e7d7a82c73",
+    "deps": [
+      "Hf"
+    ]
+  },
+  "isotopes_Hf": {
+    "name": "Hafnium isotopes",
+    "description": "Unlock all Hafnium isotopes",
+    "goals": [
+      7
+    ],
+    "progress": "_2b17f10ae928f88526e44471aa2a5639",
+    "deps": [
+      "Hf"
+    ]
+  },
+  "ions_Hf": {
+    "name": "Hafnium ions",
+    "description": "Unlock all Hafnium ions",
+    "goals": [
+      5
+    ],
+    "progress": "_7c2a58a9f3cb420c00ca9b35c0516831",
+    "deps": [
+      "Hf",
+      "ion"
+    ]
+  },
+  "progress_Ta": {
+    "name": "Tantalum",
+    "description": "Gather Tantalum",
+    "goals": [
+      1000000,
+      1000000000,
+      1000000000000,
+      1000000000000000,
+      1000000000000000000,
+      1e+21,
+      1e+24
+    ],
+    "progress": "_71d944626e17b9eb2f2483f92a03bfc9",
+    "deps": [
+      "Ta"
+    ]
+  },
+  "exotic_progress_Ta": {
+    "name": "Exotic Tantalum",
+    "description": "Gather exotic Tantalum",
+    "goals": [
+      100,
+      100000,
+      10000000,
+      1000000000
+    ],
+    "progress": "_7e684bb9e2a29ab9c9b2adfe131a93c0",
+    "deps": [
+      "Ta"
+    ]
+  },
+  "isotopes_Ta": {
+    "name": "Tantalum isotopes",
+    "description": "Unlock all Tantalum isotopes",
+    "goals": [
+      7
+    ],
+    "progress": "_3b382b623a64d2e6c9f745588d6206c7",
+    "deps": [
+      "Ta"
+    ]
+  },
+  "ions_Ta": {
+    "name": "Tantalum ions",
+    "description": "Unlock all Tantalum ions",
+    "goals": [
+      2
+    ],
+    "progress": "_c86ca59d1890fab41ab8a4f83b22d0d7",
+    "deps": [
+      "Ta",
+      "ion"
+    ]
+  },
+  "molecules_Ta": {
+    "name": "Tantalum molecules",
+    "description": "Unlock all Tantalum molecules",
+    "goals": [
+      1
+    ],
+    "progress": "_7b2e157116725151fb20e39a719c9e97",
+    "deps": [
+      "Ta",
+      "molecule"
+    ]
+  },
+  "progress_W": {
+    "name": "Tungsten",
+    "description": "Gather Tungsten",
+    "goals": [
+      1000000,
+      1000000000,
+      1000000000000,
+      1000000000000000,
+      1000000000000000000,
+      1e+21,
+      1e+24
+    ],
+    "progress": "_ecdd438d1e13dd2fc23c0d8a0ecca0c2",
+    "deps": [
+      "W"
+    ]
+  },
+  "exotic_progress_W": {
+    "name": "Exotic Tungsten",
+    "description": "Gather exotic Tungsten",
+    "goals": [
+      100,
+      100000,
+      10000000,
+      1000000000
+    ],
+    "progress": "_0277b97fd343559b756b526a7cf160b2",
+    "deps": [
+      "W"
+    ]
+  },
+  "isotopes_W": {
+    "name": "Tungsten isotopes",
+    "description": "Unlock all Tungsten isotopes",
+    "goals": [
+      7
+    ],
+    "progress": "_8f9536c3d7ee254d933d96d044d96e98",
+    "deps": [
+      "W"
+    ]
+  },
+  "ions_W": {
+    "name": "Tungsten ions",
+    "description": "Unlock all Tungsten ions",
+    "goals": [
+      3
+    ],
+    "progress": "_99f30c9ccfd8ff15e45d042a6828989e",
+    "deps": [
+      "W",
+      "ion"
+    ]
+  },
+  "molecules_W": {
+    "name": "Tungsten molecules",
+    "description": "Unlock all Tungsten molecules",
+    "goals": [
+      2
+    ],
+    "progress": "_f644f18bf8d7e9029a17d934fc056a27",
+    "deps": [
+      "W",
+      "molecule"
+    ]
+  },
+  "progress_Re": {
+    "name": "Rhenium",
+    "description": "Gather Rhenium",
+    "goals": [
+      1000000,
+      1000000000,
+      1000000000000,
+      1000000000000000,
+      1000000000000000000,
+      1e+21,
+      1e+24
+    ],
+    "progress": "_3dc960af22ebb0cd74237fe62c7daa24",
+    "deps": [
+      "Re"
+    ]
+  },
+  "exotic_progress_Re": {
+    "name": "Exotic Rhenium",
+    "description": "Gather exotic Rhenium",
+    "goals": [
+      100,
+      100000,
+      10000000,
+      1000000000
+    ],
+    "progress": "_d774f140533279e87791bbfe1a832197",
+    "deps": [
+      "Re"
+    ]
+  },
+  "isotopes_Re": {
+    "name": "Rhenium isotopes",
+    "description": "Unlock all Rhenium isotopes",
+    "goals": [
+      2
+    ],
+    "progress": "_9c4c3e55d054034ab70c146961c98dda",
+    "deps": [
+      "Re"
+    ]
+  },
+  "ions_Re": {
+    "name": "Rhenium ions",
+    "description": "Unlock all Rhenium ions",
+    "goals": [
+      5
+    ],
+    "progress": "_a6a374ce242537db206bffa1641a9320",
+    "deps": [
+      "Re",
+      "ion"
+    ]
+  },
+  "molecules_Re": {
+    "name": "Rhenium molecules",
+    "description": "Unlock all Rhenium molecules",
+    "goals": [
+      1
+    ],
+    "progress": "_7c7c696e7d4e3ecc0b2b3d139a8a6911",
+    "deps": [
+      "Re",
+      "molecule"
+    ]
+  },
+  "progress_Os": {
+    "name": "Osmium",
+    "description": "Gather Osmium",
+    "goals": [
+      1000000,
+      1000000000,
+      1000000000000,
+      1000000000000000,
+      1000000000000000000,
+      1e+21,
+      1e+24
+    ],
+    "progress": "_aa4d5c2b27e057050cb74d3107066ea6",
+    "deps": [
+      "Os"
+    ]
+  },
+  "exotic_progress_Os": {
+    "name": "Exotic Osmium",
+    "description": "Gather exotic Osmium",
+    "goals": [
+      100,
+      100000,
+      10000000,
+      1000000000
+    ],
+    "progress": "_1a4c1ea6c8ac6846a5ac2a6fdbaf3e04",
+    "deps": [
+      "Os"
+    ]
+  },
+  "isotopes_Os": {
+    "name": "Osmium isotopes",
+    "description": "Unlock all Osmium isotopes",
+    "goals": [
+      8
+    ],
+    "progress": "_0cfa38637b3708bd5b4051dd92187559",
+    "deps": [
+      "Os"
+    ]
+  },
+  "ions_Os": {
+    "name": "Osmium ions",
+    "description": "Unlock all Osmium ions",
+    "goals": [
+      3
+    ],
+    "progress": "_a78414b2357a4d35843fbd029dc7a00b",
+    "deps": [
+      "Os",
+      "ion"
+    ]
+  },
+  "molecules_Os": {
+    "name": "Osmium molecules",
+    "description": "Unlock all Osmium molecules",
+    "goals": [
+      1
+    ],
+    "progress": "_8c5e9a1cfe344bf4d3d80026124e02a3",
+    "deps": [
+      "Os",
+      "molecule"
+    ]
+  },
+  "progress_Ir": {
+    "name": "Iridium",
+    "description": "Gather Iridium",
+    "goals": [
+      1000000,
+      1000000000,
+      1000000000000,
+      1000000000000000,
+      1000000000000000000,
+      1e+21,
+      1e+24
+    ],
+    "progress": "_2ee54e4a3642d9ccf8932a937d302bf7",
+    "deps": [
+      "Ir"
+    ]
+  },
+  "exotic_progress_Ir": {
+    "name": "Exotic Iridium",
+    "description": "Gather exotic Iridium",
+    "goals": [
+      100,
+      100000,
+      10000000,
+      1000000000
+    ],
+    "progress": "_27a2ca1452732f0814799258e16a2cab",
+    "deps": [
+      "Ir"
+    ]
+  },
+  "isotopes_Ir": {
+    "name": "Iridium isotopes",
+    "description": "Unlock all Iridium isotopes",
+    "goals": [
+      7
+    ],
+    "progress": "_dbaf170b37f20bada4f69027ceffbe19",
+    "deps": [
+      "Ir"
+    ]
+  },
+  "ions_Ir": {
+    "name": "Iridium ions",
+    "description": "Unlock all Iridium ions",
+    "goals": [
+      3
+    ],
+    "progress": "_03a9e850fbb9820bd05b11fc3fbf792f",
+    "deps": [
+      "Ir",
+      "ion"
+    ]
+  },
+  "progress_Pt": {
+    "name": "Platinum",
+    "description": "Gather Platinum",
+    "goals": [
+      1000000,
+      1000000000,
+      1000000000000,
+      1000000000000000,
+      1000000000000000000,
+      1e+21,
+      1e+24
+    ],
+    "progress": "_62026bdc1cc697ea42f6daf964bd2744",
+    "deps": [
+      "Pt"
+    ]
+  },
+  "exotic_progress_Pt": {
+    "name": "Exotic Platinum",
+    "description": "Gather exotic Platinum",
+    "goals": [
+      100,
+      100000,
+      10000000,
+      1000000000
+    ],
+    "progress": "_a699754232f8d83294e8d937b5173380",
+    "deps": [
+      "Pt"
+    ]
+  },
+  "isotopes_Pt": {
+    "name": "Platinum isotopes",
+    "description": "Unlock all Platinum isotopes",
+    "goals": [
+      7
+    ],
+    "progress": "_61a7412f8be14df354ee6206341dc7f7",
+    "deps": [
+      "Pt"
+    ]
+  },
+  "ions_Pt": {
+    "name": "Platinum ions",
+    "description": "Unlock all Platinum ions",
+    "goals": [
+      4
+    ],
+    "progress": "_279d010be19b39007d0077d0f6571b4e",
+    "deps": [
+      "Pt",
+      "ion"
+    ]
+  },
+  "molecules_Pt": {
+    "name": "Platinum molecules",
+    "description": "Unlock all Platinum molecules",
+    "goals": [
+      2
+    ],
+    "progress": "_629799ab4e3d89a141badcfcd1497c31",
+    "deps": [
+      "Pt",
+      "molecule"
+    ]
+  },
+  "progress_Au": {
+    "name": "Gold",
+    "description": "Gather Gold",
+    "goals": [
+      1000000,
+      1000000000,
+      1000000000000,
+      1000000000000000,
+      1000000000000000000,
+      1e+21,
+      1e+24
+    ],
+    "progress": "_80aaec4e64fb446674688ceb041ad61e",
+    "deps": [
+      "Au"
+    ]
+  },
+  "exotic_progress_Au": {
+    "name": "Exotic Gold",
+    "description": "Gather exotic Gold",
+    "goals": [
+      100,
+      100000,
+      10000000,
+      1000000000
+    ],
+    "progress": "_c121972c32ec4c704386e16d63228321",
+    "deps": [
+      "Au"
+    ]
+  },
+  "isotopes_Au": {
+    "name": "Gold isotopes",
+    "description": "Unlock all Gold isotopes",
+    "goals": [
+      5
+    ],
+    "progress": "_c4c3f9487a3448b467151a7fb81533a9",
+    "deps": [
+      "Au"
+    ]
+  },
+  "ions_Au": {
+    "name": "Gold ions",
+    "description": "Unlock all Gold ions",
+    "goals": [
+      4
+    ],
+    "progress": "_c765123efb16706e523781109ee139fe",
+    "deps": [
+      "Au",
+      "ion"
+    ]
+  },
+  "molecules_Au": {
+    "name": "Gold molecules",
+    "description": "Unlock all Gold molecules",
+    "goals": [
+      2
+    ],
+    "progress": "_1b0ecc9203ccab5ce2a10fc4e086ef6d",
+    "deps": [
+      "Au",
+      "molecule"
+    ]
+  },
+  "progress_Hg": {
+    "name": "Mercury",
+    "description": "Gather Mercury",
+    "goals": [
+      1000000,
+      1000000000,
+      1000000000000,
+      1000000000000000,
+      1000000000000000000,
+      1e+21,
+      1e+24
+    ],
+    "progress": "_bce213759fccc7b4fb26097c11162b49",
+    "deps": [
+      "Hg"
+    ]
+  },
+  "exotic_progress_Hg": {
+    "name": "Exotic Mercury",
+    "description": "Gather exotic Mercury",
+    "goals": [
+      100,
+      100000,
+      10000000,
+      1000000000
+    ],
+    "progress": "_1597e66a67bc08b06f25a129b9bb399c",
+    "deps": [
+      "Hg"
+    ]
+  },
+  "isotopes_Hg": {
+    "name": "Mercury isotopes",
+    "description": "Unlock all Mercury isotopes",
+    "goals": [
+      10
+    ],
+    "progress": "_d17ad108fc4043708d211b0871e5b953",
+    "deps": [
+      "Hg"
+    ]
+  },
+  "ions_Hg": {
+    "name": "Mercury ions",
+    "description": "Unlock all Mercury ions",
+    "goals": [
+      3
+    ],
+    "progress": "_142252f6feedea0df20cf5c0acc90116",
+    "deps": [
+      "Hg",
+      "ion"
+    ]
+  },
+  "molecules_Hg": {
+    "name": "Mercury molecules",
+    "description": "Unlock all Mercury molecules",
+    "goals": [
+      6
+    ],
+    "progress": "_79fe08d47be4d64c9cd4e8887238c21e",
+    "deps": [
+      "Hg",
+      "molecule"
+    ]
+  },
+  "progress_Tl": {
+    "name": "Thallium",
+    "description": "Gather Thallium",
+    "goals": [
+      1000000,
+      1000000000,
+      1000000000000,
+      1000000000000000,
+      1000000000000000000,
+      1e+21,
+      1e+24
+    ],
+    "progress": "_018b5b52f311bf18c576191a5620ba7e",
+    "deps": [
+      "Tl"
+    ]
+  },
+  "exotic_progress_Tl": {
+    "name": "Exotic Thallium",
+    "description": "Gather exotic Thallium",
+    "goals": [
+      100,
+      100000,
+      10000000,
+      1000000000
+    ],
+    "progress": "_f6d0b278a39e9c325288643a9e4fd9ea",
+    "deps": [
+      "Tl"
+    ]
+  },
+  "isotopes_Tl": {
+    "name": "Thallium isotopes",
+    "description": "Unlock all Thallium isotopes",
+    "goals": [
+      3
+    ],
+    "progress": "_caa0685b9ee3991ebb2471199b2b4513",
+    "deps": [
+      "Tl"
+    ]
+  },
+  "ions_Tl": {
+    "name": "Thallium ions",
+    "description": "Unlock all Thallium ions",
+    "goals": [
+      4
+    ],
+    "progress": "_38cdfcbef8c2ff9ff5fe1e7def2eb102",
+    "deps": [
+      "Tl",
+      "ion"
+    ]
+  },
+  "molecules_Tl": {
+    "name": "Thallium molecules",
+    "description": "Unlock all Thallium molecules",
+    "goals": [
+      2
+    ],
+    "progress": "_2698a5614bec1d3d6ed77a98e9c39ecf",
+    "deps": [
+      "Tl",
+      "molecule"
+    ]
+  },
+  "progress_Pb": {
+    "name": "Lead",
+    "description": "Gather Lead",
+    "goals": [
+      1000000,
+      1000000000,
+      1000000000000,
+      1000000000000000,
+      1000000000000000000,
+      1e+21,
+      1e+24
+    ],
+    "progress": "_47c4396934d82eb2fda0f1b67def32a2",
+    "deps": [
+      "Pb"
+    ]
+  },
+  "exotic_progress_Pb": {
+    "name": "Exotic Lead",
+    "description": "Gather exotic Lead",
+    "goals": [
+      100,
+      100000,
+      10000000,
+      1000000000
+    ],
+    "progress": "_a8851ca530ebcfcef3c2a3636d99b019",
+    "deps": [
+      "Pb"
+    ]
+  },
+  "isotopes_Pb": {
+    "name": "Lead isotopes",
+    "description": "Unlock all Lead isotopes",
+    "goals": [
+      4
+    ],
+    "progress": "_b7f5de3d871b33cbe5c2990e668cb0a9",
+    "deps": [
+      "Pb"
+    ]
+  },
+  "ions_Pb": {
+    "name": "Lead ions",
+    "description": "Unlock all Lead ions",
+    "goals": [
+      6
+    ],
+    "progress": "_fe830af3898deaa5dc845ee84b2f9fa3",
+    "deps": [
+      "Pb",
+      "ion"
+    ]
+  },
+  "molecules_Pb": {
+    "name": "Lead molecules",
+    "description": "Unlock all Lead molecules",
+    "goals": [
+      9
+    ],
+    "progress": "_554cf99b0c30fd369d8f3d109921cbdd",
+    "deps": [
+      "Pb",
+      "molecule"
+    ]
+  },
+  "progress_Bi": {
+    "name": "Bismuth",
+    "description": "Gather Bismuth",
+    "goals": [
+      1000000,
+      1000000000,
+      1000000000000,
+      1000000000000000,
+      1000000000000000000,
+      1e+21,
+      1e+24
+    ],
+    "progress": "_040eb5ea5c1bb0263b198a2047c250d7",
+    "deps": [
+      "Bi"
+    ]
+  },
+  "exotic_progress_Bi": {
+    "name": "Exotic Bismuth",
+    "description": "Gather exotic Bismuth",
+    "goals": [
+      100,
+      100000,
+      10000000,
+      1000000000
+    ],
+    "progress": "_bc73c5288b22e014783db2330e44cc2e",
+    "deps": [
+      "Bi"
+    ]
+  },
+  "isotopes_Bi": {
+    "name": "Bismuth isotopes",
+    "description": "Unlock all Bismuth isotopes",
+    "goals": [
+      4
+    ],
+    "progress": "_cd2fffb72b34029d0437b223f67ef68c",
+    "deps": [
+      "Bi"
+    ]
+  },
+  "ions_Bi": {
+    "name": "Bismuth ions",
+    "description": "Unlock all Bismuth ions",
+    "goals": [
+      7
+    ],
+    "progress": "_9afbe7cc53c914b4f21b0fb17ba08595",
+    "deps": [
+      "Bi",
+      "ion"
+    ]
+  },
+  "progress_Po": {
+    "name": "Polonium",
+    "description": "Gather Polonium",
+    "goals": [
+      1000000,
+      1000000000,
+      1000000000000,
+      1000000000000000,
+      1000000000000000000,
+      1e+21,
+      1e+24
+    ],
+    "progress": "_48d1540f29549cd8da440b52f5b0724a",
+    "deps": [
+      "Po"
+    ]
+  },
+  "exotic_progress_Po": {
+    "name": "Exotic Polonium",
+    "description": "Gather exotic Polonium",
+    "goals": [
+      100,
+      100000,
+      10000000,
+      1000000000
+    ],
+    "progress": "_baa193f20cbddbbed6e962359e1f0b55",
+    "deps": [
+      "Po"
+    ]
+  },
+  "isotopes_Po": {
+    "name": "Polonium isotopes",
+    "description": "Unlock all Polonium isotopes",
+    "goals": [
+      3
+    ],
+    "progress": "_9966b5190cb7900111dcc68209c3d21d",
+    "deps": [
+      "Po"
+    ]
+  },
+  "ions_Po": {
+    "name": "Polonium ions",
+    "description": "Unlock all Polonium ions",
+    "goals": [
+      2
+    ],
+    "progress": "_f0c46ce546e95a3a08f8370350e7146b",
+    "deps": [
+      "Po",
+      "ion"
+    ]
+  },
+  "progress_At": {
+    "name": "Astatine",
+    "description": "Gather Astatine",
+    "goals": [
+      1000000,
+      1000000000,
+      1000000000000,
+      1000000000000000,
+      1000000000000000000,
+      1e+21,
+      1e+24
+    ],
+    "progress": "_aafd0460410da4d513429cb673c477ad",
+    "deps": [
+      "At"
+    ]
+  },
+  "exotic_progress_At": {
+    "name": "Exotic Astatine",
+    "description": "Gather exotic Astatine",
+    "goals": [
+      100,
+      100000,
+      10000000,
+      1000000000
+    ],
+    "progress": "_82a3f949db6396502b77f66081a61166",
+    "deps": [
+      "At"
+    ]
+  },
+  "isotopes_At": {
+    "name": "Astatine isotopes",
+    "description": "Unlock all Astatine isotopes",
+    "goals": [
+      3
+    ],
+    "progress": "_0cfe9d2b9ce19423653d953844ab5e43",
+    "deps": [
+      "At"
+    ]
+  },
+  "ions_At": {
+    "name": "Astatine ions",
+    "description": "Unlock all Astatine ions",
+    "goals": [
+      2
+    ],
+    "progress": "_08cfa7f764249c02319915445b6d77c2",
+    "deps": [
+      "At",
+      "ion"
+    ]
+  },
+  "progress_Rn": {
+    "name": "Radon",
+    "description": "Gather Radon",
+    "goals": [
+      1000000,
+      1000000000,
+      1000000000000,
+      1000000000000000,
+      1000000000000000000,
+      1e+21,
+      1e+24
+    ],
+    "progress": "_641169702af29ba15962ec280324a2e9",
+    "deps": [
+      "Rn"
+    ]
+  },
+  "exotic_progress_Rn": {
+    "name": "Exotic Radon",
+    "description": "Gather exotic Radon",
+    "goals": [
+      100,
+      100000,
+      10000000,
+      1000000000
+    ],
+    "progress": "_81ba5b280795baaaf969330c8e5381ed",
+    "deps": [
+      "Rn"
+    ]
+  },
+  "isotopes_Rn": {
+    "name": "Radon isotopes",
+    "description": "Unlock all Radon isotopes",
+    "goals": [
+      3
+    ],
+    "progress": "_b78080ea6d91e2b297131412fa7ce0c3",
+    "deps": [
+      "Rn"
+    ]
+  },
+  "ions_Rn": {
+    "name": "Radon ions",
+    "description": "Unlock all Radon ions",
+    "goals": [
+      1
+    ],
+    "progress": "_6412a3527dbddf6c68cc86a9a177450b",
+    "deps": [
+      "Rn",
+      "ion"
+    ]
+  },
+  "progress_Fr": {
+    "name": "Francium",
+    "description": "Gather Francium",
+    "goals": [
+      1000000,
+      1000000000,
+      1000000000000,
+      1000000000000000,
+      1000000000000000000,
+      1e+21,
+      1e+24
+    ],
+    "progress": "_6b1fc07a4a1a8eb35558745c01f0cea2",
+    "deps": [
+      "Fr"
+    ]
+  },
+  "exotic_progress_Fr": {
+    "name": "Exotic Francium",
+    "description": "Gather exotic Francium",
+    "goals": [
+      100,
+      100000,
+      10000000,
+      1000000000
+    ],
+    "progress": "_22dc12c47890ed283eb079720d0a3a7b",
+    "deps": [
+      "Fr"
+    ]
+  },
+  "isotopes_Fr": {
+    "name": "Francium isotopes",
+    "description": "Unlock all Francium isotopes",
+    "goals": [
+      2
+    ],
+    "progress": "_044f0c3c5b21e7e0ab320c300ae9e889",
+    "deps": [
+      "Fr"
+    ]
+  },
+  "ions_Fr": {
+    "name": "Francium ions",
+    "description": "Unlock all Francium ions",
+    "goals": [
+      1
+    ],
+    "progress": "_b03eaf266768b47d27966d7710ddb9cb",
+    "deps": [
+      "Fr",
+      "ion"
+    ]
+  },
+  "progress_Ra": {
+    "name": "Radium",
+    "description": "Gather Radium",
+    "goals": [
+      1000000,
+      1000000000,
+      1000000000000,
+      1000000000000000,
+      1000000000000000000,
+      1e+21,
+      1e+24
+    ],
+    "progress": "_7da5d2e2173d1fa4f30f414f8b76f275",
+    "deps": [
+      "Ra"
+    ]
+  },
+  "exotic_progress_Ra": {
+    "name": "Exotic Radium",
+    "description": "Gather exotic Radium",
+    "goals": [
+      100,
+      100000,
+      10000000,
+      1000000000
+    ],
+    "progress": "_8a8ffc5a3a33800856fabe1437999924",
+    "deps": [
+      "Ra"
+    ]
+  },
+  "isotopes_Ra": {
+    "name": "Radium isotopes",
+    "description": "Unlock all Radium isotopes",
+    "goals": [
+      5
+    ],
+    "progress": "_9d9eb6f200eeafc8718e35148bdf1907",
+    "deps": [
+      "Ra"
+    ]
+  },
+  "ions_Ra": {
+    "name": "Radium ions",
+    "description": "Unlock all Radium ions",
+    "goals": [
+      2
+    ],
+    "progress": "_d83e524564ef1e54d3fb9326c3422f4c",
+    "deps": [
+      "Ra",
+      "ion"
+    ]
+  },
+  "progress_Ac": {
+    "name": "Actinium",
+    "description": "Gather Actinium",
+    "goals": [
+      1000000,
+      1000000000,
+      1000000000000,
+      1000000000000000,
+      1000000000000000000,
+      1e+21,
+      1e+24
+    ],
+    "progress": "_a14e6cbb74685fd66a72a9959df644c1",
+    "deps": [
+      "Ac"
+    ]
+  },
+  "exotic_progress_Ac": {
+    "name": "Exotic Actinium",
+    "description": "Gather exotic Actinium",
+    "goals": [
+      100,
+      100000,
+      10000000,
+      1000000000
+    ],
+    "progress": "_80f861bcd13acfa97638fd6c4fef5638",
+    "deps": [
+      "Ac"
+    ]
+  },
+  "isotopes_Ac": {
+    "name": "Actinium isotopes",
+    "description": "Unlock all Actinium isotopes",
+    "goals": [
+      3
+    ],
+    "progress": "_04003cbf0b214e5cf04721a0552404ca",
+    "deps": [
+      "Ac"
+    ]
+  },
+  "ions_Ac": {
+    "name": "Actinium ions",
+    "description": "Unlock all Actinium ions",
+    "goals": [
+      2
+    ],
+    "progress": "_8a97a792469f06c4bfcfcf7dd41bb121",
+    "deps": [
+      "Ac",
+      "ion"
+    ]
+  },
+  "progress_Th": {
+    "name": "Thorium",
+    "description": "Gather Thorium",
+    "goals": [
+      1000000,
+      1000000000,
+      1000000000000,
+      1000000000000000,
+      1000000000000000000,
+      1e+21,
+      1e+24
+    ],
+    "progress": "_c65cefeb6faa3bccd23099a44af5a8e8",
+    "deps": [
+      "Th"
+    ]
+  },
+  "exotic_progress_Th": {
+    "name": "Exotic Thorium",
+    "description": "Gather exotic Thorium",
+    "goals": [
+      100,
+      100000,
+      10000000,
+      1000000000
+    ],
+    "progress": "_f931578c3938cb97d5abca3eef429bd2",
+    "deps": [
+      "Th"
+    ]
+  },
+  "isotopes_Th": {
+    "name": "Thorium isotopes",
+    "description": "Unlock all Thorium isotopes",
+    "goals": [
+      7
+    ],
+    "progress": "_6a3a7a6eb5f9384423bcbb5e2528c4eb",
+    "deps": [
+      "Th"
+    ]
+  },
+  "ions_Th": {
+    "name": "Thorium ions",
+    "description": "Unlock all Thorium ions",
+    "goals": [
+      4
+    ],
+    "progress": "_a389519d4b37f3e4f623411b25d94c0a",
+    "deps": [
+      "Th",
+      "ion"
+    ]
+  },
+  "progress_Pa": {
+    "name": "Protactinium",
+    "description": "Gather Protactinium",
+    "goals": [
+      1000000,
+      1000000000,
+      1000000000000,
+      1000000000000000,
+      1000000000000000000,
+      1e+21,
+      1e+24
+    ],
+    "progress": "_91ee1da94d4a44ef8893443bbb2de287",
+    "deps": [
+      "Pa"
+    ]
+  },
+  "exotic_progress_Pa": {
+    "name": "Exotic Protactinium",
+    "description": "Gather exotic Protactinium",
+    "goals": [
+      100,
+      100000,
+      10000000,
+      1000000000
+    ],
+    "progress": "_8b0405892971cc83f160200f8d6b6040",
+    "deps": [
+      "Pa"
+    ]
+  },
+  "isotopes_Pa": {
+    "name": "Protactinium isotopes",
+    "description": "Unlock all Protactinium isotopes",
+    "goals": [
+      6
+    ],
+    "progress": "_6ef951e82064fbbb36c238cc0c93187d",
+    "deps": [
+      "Pa"
+    ]
+  },
+  "ions_Pa": {
+    "name": "Protactinium ions",
+    "description": "Unlock all Protactinium ions",
+    "goals": [
+      1
+    ],
+    "progress": "_db4c4e3eb1b503b6b82f2fa69d3aabbc",
+    "deps": [
+      "Pa",
+      "ion"
+    ]
+  },
+  "progress_U": {
+    "name": "Uranium",
+    "description": "Gather Uranium",
+    "goals": [
+      1000000,
+      1000000000,
+      1000000000000,
+      1000000000000000,
+      1000000000000000000,
+      1e+21,
+      1e+24
+    ],
+    "progress": "_7f252dbeaae3e2a935a803533bdc081c",
+    "deps": [
+      "U"
+    ]
+  },
+  "exotic_progress_U": {
+    "name": "Exotic Uranium",
+    "description": "Gather exotic Uranium",
+    "goals": [
+      100,
+      100000,
+      10000000,
+      1000000000
+    ],
+    "progress": "_2b685345e1dc84d919368a3292e0c125",
+    "deps": [
+      "U"
+    ]
+  },
+  "isotopes_U": {
+    "name": "Uranium isotopes",
+    "description": "Unlock all Uranium isotopes",
+    "goals": [
+      6
+    ],
+    "progress": "_e8d14d682786488f3fc6a07a757ecbb0",
+    "deps": [
+      "U"
+    ]
+  },
+  "ions_U": {
+    "name": "Uranium ions",
+    "description": "Unlock all Uranium ions",
+    "goals": [
+      2
+    ],
+    "progress": "_deb0ee041889ac87dc9feeb2c1b7b923",
+    "deps": [
+      "U",
+      "ion"
+    ]
+  },
+  "molecules_U": {
+    "name": "Uranium molecules",
+    "description": "Unlock all Uranium molecules",
+    "goals": [
+      3
+    ],
+    "progress": "_5e8dd434efcf76a5090eedff620ced4f",
+    "deps": [
+      "U",
+      "molecule"
+    ]
+  },
+  "progress_Np": {
+    "name": "Neptunium",
+    "description": "Gather Neptunium",
+    "goals": [
+      1000000,
+      1000000000,
+      1000000000000,
+      1000000000000000,
+      1000000000000000000,
+      1e+21,
+      1e+24
+    ],
+    "progress": "_e63c40646a086d3b21bd7be301dac525",
+    "deps": [
+      "Np"
+    ]
+  },
+  "exotic_progress_Np": {
+    "name": "Exotic Neptunium",
+    "description": "Gather exotic Neptunium",
+    "goals": [
+      100,
+      100000,
+      10000000,
+      1000000000
+    ],
+    "progress": "_8503d6d9c7a9af84b3267506b715b840",
+    "deps": [
+      "Np"
+    ]
+  },
+  "isotopes_Np": {
+    "name": "Neptunium isotopes",
+    "description": "Unlock all Neptunium isotopes",
+    "goals": [
+      4
+    ],
+    "progress": "_81c5e657685265a3b4fa56e5412d423e",
+    "deps": [
+      "Np"
+    ]
+  },
+  "ions_Np": {
+    "name": "Neptunium ions",
+    "description": "Unlock all Neptunium ions",
+    "goals": [
+      1
+    ],
+    "progress": "_6e36295f8ee300d5afec1c39252b1fb0",
+    "deps": [
+      "Np",
+      "ion"
+    ]
+  },
+  "progress_Pu": {
+    "name": "Plutonium",
+    "description": "Gather Plutonium",
+    "goals": [
+      1000000,
+      1000000000,
+      1000000000000,
+      1000000000000000,
+      1000000000000000000,
+      1e+21,
+      1e+24
+    ],
+    "progress": "_d553e4277d8545c72b8b881e6715fb32",
+    "deps": [
+      "Pu"
+    ]
+  },
+  "exotic_progress_Pu": {
+    "name": "Exotic Plutonium",
+    "description": "Gather exotic Plutonium",
+    "goals": [
+      100,
+      100000,
+      10000000,
+      1000000000
+    ],
+    "progress": "_84c187964a78303fee629f0ffdc32bc2",
+    "deps": [
+      "Pu"
+    ]
+  },
+  "isotopes_Pu": {
+    "name": "Plutonium isotopes",
+    "description": "Unlock all Plutonium isotopes",
+    "goals": [
+      6
+    ],
+    "progress": "_aad354fcd11f8a1dfca6f1cd79d91774",
+    "deps": [
+      "Pu"
+    ]
+  },
+  "ions_Pu": {
+    "name": "Plutonium ions",
+    "description": "Unlock all Plutonium ions",
+    "goals": [
+      1
+    ],
+    "progress": "_c8fc4537ac71dc73cb10aac754fe79ff",
+    "deps": [
+      "Pu",
+      "ion"
+    ]
+  },
+  "progress_Am": {
+    "name": "Americium",
+    "description": "Gather Americium",
+    "goals": [
+      1000000,
+      1000000000,
+      1000000000000,
+      1000000000000000,
+      1000000000000000000,
+      1e+21,
+      1e+24
+    ],
+    "progress": "_2387af95f055d8f407066ae3337eacfa",
+    "deps": [
+      "Am"
+    ]
+  },
+  "exotic_progress_Am": {
+    "name": "Exotic Americium",
+    "description": "Gather exotic Americium",
+    "goals": [
+      100,
+      100000,
+      10000000,
+      1000000000
+    ],
+    "progress": "_9fd164647f0b2a47948507ee547bfcc6",
+    "deps": [
+      "Am"
+    ]
+  },
+  "isotopes_Am": {
+    "name": "Americium isotopes",
+    "description": "Unlock all Americium isotopes",
+    "goals": [
+      3
+    ],
+    "progress": "_fb08066c156ec144321ec955d17f7842",
+    "deps": [
+      "Am"
+    ]
+  },
+  "ions_Am": {
+    "name": "Americium ions",
+    "description": "Unlock all Americium ions",
+    "goals": [
+      1
+    ],
+    "progress": "_97b7b6e666a4ef10dc98615097ea8885",
+    "deps": [
+      "Am",
+      "ion"
+    ]
+  },
+  "progress_Cm": {
+    "name": "Curium",
+    "description": "Gather Curium",
+    "goals": [
+      1000000,
+      1000000000,
+      1000000000000,
+      1000000000000000,
+      1000000000000000000,
+      1e+21,
+      1e+24
+    ],
+    "progress": "_84a73d340880ac7b2737b9cdf4b79dd3",
+    "deps": [
+      "Cm"
+    ]
+  },
+  "exotic_progress_Cm": {
+    "name": "Exotic Curium",
+    "description": "Gather exotic Curium",
+    "goals": [
+      100,
+      100000,
+      10000000,
+      1000000000
+    ],
+    "progress": "_c5eb6096ed67aa3f87d4c2090da29729",
+    "deps": [
+      "Cm"
+    ]
+  },
+  "isotopes_Cm": {
+    "name": "Curium isotopes",
+    "description": "Unlock all Curium isotopes",
+    "goals": [
+      8
+    ],
+    "progress": "_8f31e46b47dbe0bc95b568daa3440d29",
+    "deps": [
+      "Cm"
+    ]
+  },
+  "ions_Cm": {
+    "name": "Curium ions",
+    "description": "Unlock all Curium ions",
+    "goals": [
+      1
+    ],
+    "progress": "_7008d4fceea4153f722165b61b0eb044",
+    "deps": [
+      "Cm",
+      "ion"
+    ]
+  },
+  "progress_Bk": {
+    "name": "Berkelium",
+    "description": "Gather Berkelium",
+    "goals": [
+      1000000,
+      1000000000,
+      1000000000000,
+      1000000000000000,
+      1000000000000000000,
+      1e+21,
+      1e+24
+    ],
+    "progress": "_e967122dcfdede46ae2f7223e863a4fa",
+    "deps": [
+      "Bk"
+    ]
+  },
+  "exotic_progress_Bk": {
+    "name": "Exotic Berkelium",
+    "description": "Gather exotic Berkelium",
+    "goals": [
+      100,
+      100000,
+      10000000,
+      1000000000
+    ],
+    "progress": "_739766403194c5c9a2d0add7bf940955",
+    "deps": [
+      "Bk"
+    ]
+  },
+  "isotopes_Bk": {
+    "name": "Berkelium isotopes",
+    "description": "Unlock all Berkelium isotopes",
+    "goals": [
+      5
+    ],
+    "progress": "_fcadbc0d7823a77d1a9134e0193f0b54",
+    "deps": [
+      "Bk"
+    ]
+  },
+  "ions_Bk": {
+    "name": "Berkelium ions",
+    "description": "Unlock all Berkelium ions",
+    "goals": [
+      1
+    ],
+    "progress": "_d5cce7a3ca70e4870b7a729fc266be18",
+    "deps": [
+      "Bk",
+      "ion"
+    ]
+  },
+  "progress_Cf": {
+    "name": "Californium",
+    "description": "Gather Californium",
+    "goals": [
+      1000000,
+      1000000000,
+      1000000000000,
+      1000000000000000,
+      1000000000000000000,
+      1e+21,
+      1e+24
+    ],
+    "progress": "_975ac9b9b750740d2977e55c70b72c23",
+    "deps": [
+      "Cf"
+    ]
+  },
+  "exotic_progress_Cf": {
+    "name": "Exotic Californium",
+    "description": "Gather exotic Californium",
+    "goals": [
+      100,
+      100000,
+      10000000,
+      1000000000
+    ],
+    "progress": "_9cdaed607f741ff2d0988b60152c1a05",
+    "deps": [
+      "Cf"
+    ]
+  },
+  "isotopes_Cf": {
+    "name": "Californium isotopes",
+    "description": "Unlock all Californium isotopes",
+    "goals": [
+      7
+    ],
+    "progress": "_6c5a02c415e01d7cb6dc82b608b6659e",
+    "deps": [
+      "Cf"
+    ]
+  },
+  "ions_Cf": {
+    "name": "Californium ions",
+    "description": "Unlock all Californium ions",
+    "goals": [
+      1
+    ],
+    "progress": "_e0d961504805f7386af0431afbde3a40",
+    "deps": [
+      "Cf",
+      "ion"
+    ]
+  },
+  "progress_Es": {
+    "name": "Einsteinium",
+    "description": "Gather Einsteinium",
+    "goals": [
+      1000000,
+      1000000000,
+      1000000000000,
+      1000000000000000,
+      1000000000000000000,
+      1e+21,
+      1e+24
+    ],
+    "progress": "_ee41e1b54d3163b5a540fcac3ff6d37c",
+    "deps": [
+      "Es"
+    ]
+  },
+  "exotic_progress_Es": {
+    "name": "Exotic Einsteinium",
+    "description": "Gather exotic Einsteinium",
+    "goals": [
+      100,
+      100000,
+      10000000,
+      1000000000
+    ],
+    "progress": "_d830840b2d7de6986b84809999c81eb6",
+    "deps": [
+      "Es"
+    ]
+  },
+  "isotopes_Es": {
+    "name": "Einsteinium isotopes",
+    "description": "Unlock all Einsteinium isotopes",
+    "goals": [
+      4
+    ],
+    "progress": "_c00a2ddb6cb9bf68273e8e93b656eabd",
+    "deps": [
+      "Es"
+    ]
+  },
+  "ions_Es": {
+    "name": "Einsteinium ions",
+    "description": "Unlock all Einsteinium ions",
+    "goals": [
+      1
+    ],
+    "progress": "_2d4643c25d779e0d34c70919546a4c8f",
+    "deps": [
+      "Es",
+      "ion"
+    ]
+  },
+  "progress_Fm": {
+    "name": "Fermium",
+    "description": "Gather Fermium",
+    "goals": [
+      1000000,
+      1000000000,
+      1000000000000,
+      1000000000000000,
+      1000000000000000000,
+      1e+21,
+      1e+24
+    ],
+    "progress": "_4aafc37f4ef829be1bf4aa547636dc42",
+    "deps": [
+      "Fm"
+    ]
+  },
+  "exotic_progress_Fm": {
+    "name": "Exotic Fermium",
+    "description": "Gather exotic Fermium",
+    "goals": [
+      100,
+      100000,
+      10000000,
+      1000000000
+    ],
+    "progress": "_6f1baee2ab7a1f22366b03e3bc34964e",
+    "deps": [
+      "Fm"
+    ]
+  },
+  "isotopes_Fm": {
+    "name": "Fermium isotopes",
+    "description": "Unlock all Fermium isotopes",
+    "goals": [
+      4
+    ],
+    "progress": "_5f32977a644871a509ec3a55ff247b9a",
+    "deps": [
+      "Fm"
+    ]
+  },
+  "ions_Fm": {
+    "name": "Fermium ions",
+    "description": "Unlock all Fermium ions",
+    "goals": [
+      1
+    ],
+    "progress": "_acda152fface709d8c7a43102435d513",
+    "deps": [
+      "Fm",
+      "ion"
+    ]
+  },
+  "progress_Md": {
+    "name": "Mendelevium",
+    "description": "Gather Mendelevium",
+    "goals": [
+      1000000,
+      1000000000,
+      1000000000000,
+      1000000000000000,
+      1000000000000000000,
+      1e+21,
+      1e+24
+    ],
+    "progress": "_7f6936bd57b8ec06c2a52b53220c36c4",
+    "deps": [
+      "Md"
+    ]
+  },
+  "exotic_progress_Md": {
+    "name": "Exotic Mendelevium",
+    "description": "Gather exotic Mendelevium",
+    "goals": [
+      100,
+      100000,
+      10000000,
+      1000000000
+    ],
+    "progress": "_faab7858683e0a0695b272e16b9b082a",
+    "deps": [
+      "Md"
+    ]
+  },
+  "isotopes_Md": {
+    "name": "Mendelevium isotopes",
+    "description": "Unlock all Mendelevium isotopes",
+    "goals": [
+      3
+    ],
+    "progress": "_59722d35c0480df733169a70d87de0f3",
+    "deps": [
+      "Md"
+    ]
+  },
+  "ions_Md": {
+    "name": "Mendelevium ions",
+    "description": "Unlock all Mendelevium ions",
+    "goals": [
+      1
+    ],
+    "progress": "_f4ea72011b21a2aba97e3037f4d7d12f",
+    "deps": [
+      "Md",
+      "ion"
+    ]
+  },
+  "progress_No": {
+    "name": "Nobelium",
+    "description": "Gather Nobelium",
+    "goals": [
+      1000000,
+      1000000000,
+      1000000000000,
+      1000000000000000,
+      1000000000000000000,
+      1e+21,
+      1e+24
+    ],
+    "progress": "_6be1dfb2a7758d12f575e0358c14d93b",
+    "deps": [
+      "No"
+    ]
+  },
+  "exotic_progress_No": {
+    "name": "Exotic Nobelium",
+    "description": "Gather exotic Nobelium",
+    "goals": [
+      100,
+      100000,
+      10000000,
+      1000000000
+    ],
+    "progress": "_1c65a9f916dd0a0c938f742e998a3db8",
+    "deps": [
+      "No"
+    ]
+  },
+  "isotopes_No": {
+    "name": "Nobelium isotopes",
+    "description": "Unlock all Nobelium isotopes",
+    "goals": [
+      5
+    ],
+    "progress": "_d37a6b786b3352bfda87d17c2e33fb53",
+    "deps": [
+      "No"
+    ]
+  },
+  "ions_No": {
+    "name": "Nobelium ions",
+    "description": "Unlock all Nobelium ions",
+    "goals": [
+      1
+    ],
+    "progress": "_5596ab7e7e09416f79de00c0ef25af87",
+    "deps": [
+      "No",
+      "ion"
+    ]
+  },
+  "progress_Lr": {
+    "name": "Lawrencium",
+    "description": "Gather Lawrencium",
+    "goals": [
+      1000000,
+      1000000000,
+      1000000000000,
+      1000000000000000,
+      1000000000000000000,
+      1e+21,
+      1e+24
+    ],
+    "progress": "_9186aec90ed36eee6c5b15c33620ebe1",
+    "deps": [
+      "Lr"
+    ]
+  },
+  "exotic_progress_Lr": {
+    "name": "Exotic Lawrencium",
+    "description": "Gather exotic Lawrencium",
+    "goals": [
+      100,
+      100000,
+      10000000,
+      1000000000
+    ],
+    "progress": "_d3a43b975fbfaf42916481e2f11412e3",
+    "deps": [
+      "Lr"
+    ]
+  },
+  "isotopes_Lr": {
+    "name": "Lawrencium isotopes",
+    "description": "Unlock all Lawrencium isotopes",
+    "goals": [
+      8
+    ],
+    "progress": "_986d4fe2015ecf760ddd671e798b62bf",
+    "deps": [
+      "Lr"
+    ]
+  },
+  "ions_Lr": {
+    "name": "Lawrencium ions",
+    "description": "Unlock all Lawrencium ions",
+    "goals": [
+      1
+    ],
+    "progress": "_7880a973340368c59015330fc693a6cd",
+    "deps": [
+      "Lr",
+      "ion"
+    ]
+  },
+  "progress_Rf": {
+    "name": "Rutherfordium",
+    "description": "Gather Rutherfordium",
+    "goals": [
+      1000000,
+      1000000000,
+      1000000000000,
+      1000000000000000,
+      1000000000000000000,
+      1e+21,
+      1e+24
+    ],
+    "progress": "_25074e15ea7562a872fafb96313ae25e",
+    "deps": [
+      "Rf"
+    ]
+  },
+  "exotic_progress_Rf": {
+    "name": "Exotic Rutherfordium",
+    "description": "Gather exotic Rutherfordium",
+    "goals": [
+      100,
+      100000,
+      10000000,
+      1000000000
+    ],
+    "progress": "_c1ca94162f20703928fb1cbfce6d7f93",
+    "deps": [
+      "Rf"
+    ]
+  },
+  "isotopes_Rf": {
+    "name": "Rutherfordium isotopes",
+    "description": "Unlock all Rutherfordium isotopes",
+    "goals": [
+      5
+    ],
+    "progress": "_8d91bd683130ef032a7268229726c977",
+    "deps": [
+      "Rf"
+    ]
+  },
+  "ions_Rf": {
+    "name": "Rutherfordium ions",
+    "description": "Unlock all Rutherfordium ions",
+    "goals": [
+      1
+    ],
+    "progress": "_f68f1365642dbb47ba1af4f4ef500403",
+    "deps": [
+      "Rf",
+      "ion"
+    ]
+  },
+  "progress_Db": {
+    "name": "Dubnium",
+    "description": "Gather Dubnium",
+    "goals": [
+      1000000,
+      1000000000,
+      1000000000000,
+      1000000000000000,
+      1000000000000000000,
+      1e+21,
+      1e+24
+    ],
+    "progress": "_35623ad5f3d7bb4bc6b5f2605a5eb27d",
+    "deps": [
+      "Db"
+    ]
+  },
+  "exotic_progress_Db": {
+    "name": "Exotic Dubnium",
+    "description": "Gather exotic Dubnium",
+    "goals": [
+      100,
+      100000,
+      10000000,
+      1000000000
+    ],
+    "progress": "_09caa6722233756d514799a2e25fc32d",
+    "deps": [
+      "Db"
+    ]
+  },
+  "isotopes_Db": {
+    "name": "Dubnium isotopes",
+    "description": "Unlock all Dubnium isotopes",
+    "goals": [
+      6
+    ],
+    "progress": "_1ef297533805e6a8772db108d2992501",
+    "deps": [
+      "Db"
+    ]
+  },
+  "progress_Sg": {
+    "name": "Seaborgium",
+    "description": "Gather Seaborgium",
+    "goals": [
+      1000000,
+      1000000000,
+      1000000000000,
+      1000000000000000,
+      1000000000000000000,
+      1e+21,
+      1e+24
+    ],
+    "progress": "_8d13b781dabbeae4c8efd06d6803ac1b",
+    "deps": [
+      "Sg"
+    ]
+  },
+  "exotic_progress_Sg": {
+    "name": "Exotic Seaborgium",
+    "description": "Gather exotic Seaborgium",
+    "goals": [
+      100,
+      100000,
+      10000000,
+      1000000000
+    ],
+    "progress": "_8bc3e89a302c614f78d9ade8056fc911",
+    "deps": [
+      "Sg"
+    ]
+  },
+  "isotopes_Sg": {
+    "name": "Seaborgium isotopes",
+    "description": "Unlock all Seaborgium isotopes",
+    "goals": [
+      4
+    ],
+    "progress": "_0600f2c1b0741d066d3898e93219ad81",
+    "deps": [
+      "Sg"
+    ]
+  },
+  "progress_Bh": {
+    "name": "Bohrium",
+    "description": "Gather Bohrium",
+    "goals": [
+      1000000,
+      1000000000,
+      1000000000000,
+      1000000000000000,
+      1000000000000000000,
+      1e+21,
+      1e+24
+    ],
+    "progress": "_b0df933ae79d9342235ea18a06c1d82a",
+    "deps": [
+      "Bh"
+    ]
+  },
+  "exotic_progress_Bh": {
+    "name": "Exotic Bohrium",
+    "description": "Gather exotic Bohrium",
+    "goals": [
+      100,
+      100000,
+      10000000,
+      1000000000
+    ],
+    "progress": "_71bdaa950bb0c2fadbd7066f47591dc6",
+    "deps": [
+      "Bh"
+    ]
+  },
+  "isotopes_Bh": {
+    "name": "Bohrium isotopes",
+    "description": "Unlock all Bohrium isotopes",
+    "goals": [
+      6
+    ],
+    "progress": "_c772fb42306a79aa428bee666cd7d956",
+    "deps": [
+      "Bh"
+    ]
+  },
+  "progress_Hs": {
+    "name": "Hassium",
+    "description": "Gather Hassium",
+    "goals": [
+      1000000,
+      1000000000,
+      1000000000000,
+      1000000000000000,
+      1000000000000000000,
+      1e+21,
+      1e+24
+    ],
+    "progress": "_400a981dffffcd2b15ce8b33a9f76d06",
+    "deps": [
+      "Hs"
+    ]
+  },
+  "exotic_progress_Hs": {
+    "name": "Exotic Hassium",
+    "description": "Gather exotic Hassium",
+    "goals": [
+      100,
+      100000,
+      10000000,
+      1000000000
+    ],
+    "progress": "_7d6dc98f4e1039b5b45b929ed8f6efa7",
+    "deps": [
+      "Hs"
+    ]
+  },
+  "isotopes_Hs": {
+    "name": "Hassium isotopes",
+    "description": "Unlock all Hassium isotopes",
+    "goals": [
+      4
+    ],
+    "progress": "_a4f358aa95735e1d35a21b35f0acc329",
+    "deps": [
+      "Hs"
+    ]
+  },
+  "progress_Mt": {
+    "name": "Meitnerium",
+    "description": "Gather Meitnerium",
+    "goals": [
+      1000000,
+      1000000000,
+      1000000000000,
+      1000000000000000,
+      1000000000000000000,
+      1e+21,
+      1e+24
+    ],
+    "progress": "_f8df3079f989e89292d24da955de9420",
+    "deps": [
+      "Mt"
+    ]
+  },
+  "exotic_progress_Mt": {
+    "name": "Exotic Meitnerium",
+    "description": "Gather exotic Meitnerium",
+    "goals": [
+      100,
+      100000,
+      10000000,
+      1000000000
+    ],
+    "progress": "_ccd3603f205d5191240b21410478af59",
+    "deps": [
+      "Mt"
+    ]
+  },
+  "isotopes_Mt": {
+    "name": "Meitnerium isotopes",
+    "description": "Unlock all Meitnerium isotopes",
+    "goals": [
+      4
+    ],
+    "progress": "_f21866c656622fb0d38eb751fd826388",
+    "deps": [
+      "Mt"
+    ]
+  },
+  "progress_Ds": {
+    "name": "Darmstadtium",
+    "description": "Gather Darmstadtium",
+    "goals": [
+      1000000,
+      1000000000,
+      1000000000000,
+      1000000000000000,
+      1000000000000000000,
+      1e+21,
+      1e+24
+    ],
+    "progress": "_42d719d53e2fdf7b76bf8c9050b62861",
+    "deps": [
+      "Ds"
+    ]
+  },
+  "exotic_progress_Ds": {
+    "name": "Exotic Darmstadtium",
+    "description": "Gather exotic Darmstadtium",
+    "goals": [
+      100,
+      100000,
+      10000000,
+      1000000000
+    ],
+    "progress": "_5f6f3b5f569eaa4da983384d34bf0d58",
+    "deps": [
+      "Ds"
+    ]
+  },
+  "isotopes_Ds": {
+    "name": "Darmstadtium isotopes",
+    "description": "Unlock all Darmstadtium isotopes",
+    "goals": [
+      2
+    ],
+    "progress": "_74d21c731a334d9be96d0ba58f10b6bd",
+    "deps": [
+      "Ds"
+    ]
+  },
+  "progress_Rg": {
+    "name": "Roentgenium",
+    "description": "Gather Roentgenium",
+    "goals": [
+      1000000,
+      1000000000,
+      1000000000000,
+      1000000000000000,
+      1000000000000000000,
+      1e+21,
+      1e+24
+    ],
+    "progress": "_bdd23ba8e0c783c1d5ff34f6f0ba454e",
+    "deps": [
+      "Rg"
+    ]
+  },
+  "exotic_progress_Rg": {
+    "name": "Exotic Roentgenium",
+    "description": "Gather exotic Roentgenium",
+    "goals": [
+      100,
+      100000,
+      10000000,
+      1000000000
+    ],
+    "progress": "_57f3cb46e6bba3d70f3c1bbcabf0f858",
+    "deps": [
+      "Rg"
+    ]
+  },
+  "isotopes_Rg": {
+    "name": "Roentgenium isotopes",
+    "description": "Unlock all Roentgenium isotopes",
+    "goals": [
+      5
+    ],
+    "progress": "_d4a5843f14cd535b81d21f3de49d332b",
+    "deps": [
+      "Rg"
+    ]
+  },
+  "progress_Cn": {
+    "name": "Copernicium",
+    "description": "Gather Copernicium",
+    "goals": [
+      1000000,
+      1000000000,
+      1000000000000,
+      1000000000000000,
+      1000000000000000000,
+      1e+21,
+      1e+24
+    ],
+    "progress": "_f23d77faffe26c1db2824ee62b5d4735",
+    "deps": [
+      "Cn"
+    ]
+  },
+  "exotic_progress_Cn": {
+    "name": "Exotic Copernicium",
+    "description": "Gather exotic Copernicium",
+    "goals": [
+      100,
+      100000,
+      10000000,
+      1000000000
+    ],
+    "progress": "_99f530dcdcb80db8214f6631a07b5a2d",
+    "deps": [
+      "Cn"
+    ]
+  },
+  "isotopes_Cn": {
+    "name": "Copernicium isotopes",
+    "description": "Unlock all Copernicium isotopes",
+    "goals": [
+      3
+    ],
+    "progress": "_094611eece13ba970153a0fb8617a59f",
+    "deps": [
+      "Cn"
+    ]
+  },
+  "progress_Nh": {
+    "name": "Nihonium",
+    "description": "Gather Nihonium",
+    "goals": [
+      1000000,
+      1000000000,
+      1000000000000,
+      1000000000000000,
+      1000000000000000000,
+      1e+21,
+      1e+24
+    ],
+    "progress": "_28b5a81a5917564377bc64592400eded",
+    "deps": [
+      "Nh"
+    ]
+  },
+  "exotic_progress_Nh": {
+    "name": "Exotic Nihonium",
+    "description": "Gather exotic Nihonium",
+    "goals": [
+      100,
+      100000,
+      10000000,
+      1000000000
+    ],
+    "progress": "_13e5a562f8f001da09c4a3fb4cb8cbe0",
+    "deps": [
+      "Nh"
+    ]
+  },
+  "isotopes_Nh": {
+    "name": "Nihonium isotopes",
+    "description": "Unlock all Nihonium isotopes",
+    "goals": [
+      7
+    ],
+    "progress": "_090b5f75659f16d37f271664b58dda7f",
+    "deps": [
+      "Nh"
+    ]
+  },
+  "progress_Fl": {
+    "name": "Flerovium",
+    "description": "Gather Flerovium",
+    "goals": [
+      1000000,
+      1000000000,
+      1000000000000,
+      1000000000000000,
+      1000000000000000000,
+      1e+21,
+      1e+24
+    ],
+    "progress": "_66fa602648cb7b5f1a8c53e93004bd37",
+    "deps": [
+      "Fl"
+    ]
+  },
+  "exotic_progress_Fl": {
+    "name": "Exotic Flerovium",
+    "description": "Gather exotic Flerovium",
+    "goals": [
+      100,
+      100000,
+      10000000,
+      1000000000
+    ],
+    "progress": "_163b01413bbc14d360b9f04cd0fa39a8",
+    "deps": [
+      "Fl"
+    ]
+  },
+  "isotopes_Fl": {
+    "name": "Flerovium isotopes",
+    "description": "Unlock all Flerovium isotopes",
+    "goals": [
+      7
+    ],
+    "progress": "_ea9ba83ebefe3146bf5f37696efc77e8",
+    "deps": [
+      "Fl"
+    ]
+  },
+  "progress_Mc": {
+    "name": "Moscovium",
+    "description": "Gather Moscovium",
+    "goals": [
+      1000000,
+      1000000000,
+      1000000000000,
+      1000000000000000,
+      1000000000000000000,
+      1e+21,
+      1e+24
+    ],
+    "progress": "_d6569c594b980bacbead7f0da482db74",
+    "deps": [
+      "Mc"
+    ]
+  },
+  "exotic_progress_Mc": {
+    "name": "Exotic Moscovium",
+    "description": "Gather exotic Moscovium",
+    "goals": [
+      100,
+      100000,
+      10000000,
+      1000000000
+    ],
+    "progress": "_c35cfeacb5bc51de11fa9c55d70631f8",
+    "deps": [
+      "Mc"
+    ]
+  },
+  "isotopes_Mc": {
+    "name": "Moscovium isotopes",
+    "description": "Unlock all Moscovium isotopes",
+    "goals": [
+      4
+    ],
+    "progress": "_5ff41954671f74e6f391f60750f246fd",
+    "deps": [
+      "Mc"
+    ]
+  },
+  "progress_Lv": {
+    "name": "Livermorium",
+    "description": "Gather Livermorium",
+    "goals": [
+      1000000,
+      1000000000,
+      1000000000000,
+      1000000000000000,
+      1000000000000000000,
+      1e+21,
+      1e+24
+    ],
+    "progress": "_ca1476adca38d023385940b8fef5ac19",
+    "deps": [
+      "Lv"
+    ]
+  },
+  "exotic_progress_Lv": {
+    "name": "Exotic Livermorium",
+    "description": "Gather exotic Livermorium",
+    "goals": [
+      100,
+      100000,
+      10000000,
+      1000000000
+    ],
+    "progress": "_086fed9b14bd07d2c2799c7149802059",
+    "deps": [
+      "Lv"
+    ]
+  },
+  "isotopes_Lv": {
+    "name": "Livermorium isotopes",
+    "description": "Unlock all Livermorium isotopes",
+    "goals": [
+      5
+    ],
+    "progress": "_dfaa789c18234c9a356493abcddf3cb3",
+    "deps": [
+      "Lv"
+    ]
+  },
+  "progress_Ts": {
+    "name": "Tennessine",
+    "description": "Gather Tennessine",
+    "goals": [
+      1000000,
+      1000000000,
+      1000000000000,
+      1000000000000000,
+      1000000000000000000,
+      1e+21,
+      1e+24
+    ],
+    "progress": "_82cd3867e99efa75f29bf0a49e205986",
+    "deps": [
+      "Ts"
+    ]
+  },
+  "exotic_progress_Ts": {
+    "name": "Exotic Tennessine",
+    "description": "Gather exotic Tennessine",
+    "goals": [
+      100,
+      100000,
+      10000000,
+      1000000000
+    ],
+    "progress": "_58543595268bed26cd2b1341b268249e",
+    "deps": [
+      "Ts"
+    ]
+  },
+  "isotopes_Ts": {
+    "name": "Tennessine isotopes",
+    "description": "Unlock all Tennessine isotopes",
+    "goals": [
+      2
+    ],
+    "progress": "_6d55a110d28b5b17e5e8117f494b2873",
+    "deps": [
+      "Ts"
+    ]
+  },
+  "progress_Og": {
+    "name": "Oganesson",
+    "description": "Gather Oganesson",
+    "goals": [
+      1000000,
+      1000000000,
+      1000000000000,
+      1000000000000000,
+      1000000000000000000,
+      1e+21,
+      1e+24
+    ],
+    "progress": "_41841cfbf97d5a4b876ba813dfdf1d64",
+    "deps": [
+      "Og"
+    ]
+  },
+  "exotic_progress_Og": {
+    "name": "Exotic Oganesson",
+    "description": "Gather exotic Oganesson",
+    "goals": [
+      100,
+      100000,
+      10000000,
+      1000000000
+    ],
+    "progress": "_0f160b270800bb91e39d3e39fcc4594d",
+    "deps": [
+      "Og"
+    ]
+  },
+  "isotopes_Og": {
+    "name": "Oganesson isotopes",
+    "description": "Unlock all Oganesson isotopes",
+    "goals": [
+      1
+    ],
+    "progress": "_eba3ac5e46f20727008cd1c4f5073df4",
+    "deps": [
+      "Og"
+    ]
+  },
+  "total_elements": {
+    "name": "Elements",
+    "description": "Unlock all elements",
+    "goals": [
+      92
+    ],
+    "progress": "_d785b578a95bb284be8063b3a7b58e2f",
+    "deps": [
+      "dark_gate"
+    ]
+  },
+  "total_isotopes": {
+    "name": "Isotopes",
+    "description": "Unlock all isotopes",
+    "goals": [
+      796
+    ],
+    "progress": "_f9c54dd562890b126307ae60260a71cb",
+    "deps": []
+  },
+  "total_ions": {
+    "name": "Ions",
+    "description": "Unlock all ions",
+    "goals": [
+      855
+    ],
+    "progress": "_713250f896a228e4d40f5b3de13be29c",
+    "deps": [
+      "ion"
+    ]
+  },
+  "total_molecules": {
+    "name": "Molecules",
+    "description": "Unlock all molecules",
+    "goals": [
+      415
+    ],
+    "progress": "_5ec848e406127ca0f450a433507dde69",
+    "deps": [
+      "molecule"
+    ]
+  },
+  "total_misc": {
+    "name": "Misc",
+    "description": "Unlock all meta resources",
+    "goals": [
+      6
+    ],
+    "progress": "_ba9ce2bbc748a31e360d2b3a4118eb09",
+    "deps": [
+      "misc"
+    ]
+  },
+  "total_radioisotopes": {
+    "name": "Radioisotopes",
+    "description": "Unlock all radioactive isotopes",
+    "goals": [
+      544
+    ],
+    "progress": "_adf6cfcc0cfb083f52a83e7b669915eb",
+    "deps": [
+      "radioactive"
+    ]
+  },
+  "most_unstable": {
+    "name": "Most unstable",
+    "description": "Unlock the shortest lived isotope",
+    "goals": [
+      1
+    ],
+    "deps": [],
+    "progress": "_84fcec2c071fe7b0c3b80e51a9ed9219"
+  },
+  "most_charged": {
+    "name": "Most charged",
+    "description": "Unlock an extremely charged ion",
+    "goals": [
+      1
+    ],
+    "deps": [
+      "ion"
+    ],
+    "progress": "_a80e694593da9e75479b78d8e016526a"
+  },
+  "most_large": {
+    "name": "Largest molecule",
+    "description": "Unlock a gargantuan molecule",
+    "goals": [
+      1
+    ],
+    "deps": [
+      "molecule"
+    ],
+    "progress": "_cc29001c4373a4db4a331b74b5d371a7"
+  },
+  "resources_all": {
+    "name": "All resources",
+    "description": "Unlock every single resource",
+    "goals": [
+      2190
+    ],
+    "progress": "_6aca0333e91afc8111bc999372e938be",
+    "deps": [
+      "isotope"
+    ]
+  }
+}

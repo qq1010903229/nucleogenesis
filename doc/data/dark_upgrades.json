@@ -1,0 +1,62 @@
+{
+  "extra_element_slot_1": {
+    "price": 25,
+    "name": "Extra element slot I",
+    "description": "Unlocks another slot to produce matter",
+    "deps": [],
+    "function": "_7d162e6b61b7426b5ec4d0dfe5936ddf",
+    "tags": [
+      "once"
+    ]
+  },
+  "extra_element_slot_2": {
+    "price": 100,
+    "name": "Extra element slot II",
+    "description": "Unlocks another slot to produce matter",
+    "deps": [],
+    "function": "_7d162e6b61b7426b5ec4d0dfe5936ddf",
+    "tags": [
+      "once"
+    ]
+  },
+  "extra_element_slot_3": {
+    "price": 1000,
+    "name": "Extra element slot III",
+    "description": "Unlocks another slot to produce matter",
+    "deps": [],
+    "function": "_7d162e6b61b7426b5ec4d0dfe5936ddf",
+    "tags": [
+      "once"
+    ]
+  },
+  "automation_1": {
+    "price": 50,
+    "name": "Automation I",
+    "description": "Automatically buy upgrades",
+    "deps": [],
+    "function": "_7cfb6844c2bf7d14cc2cb7e3c8e9af2b",
+    "tags": [
+      "cycle"
+    ]
+  },
+  "automation_2": {
+    "price": 500,
+    "name": "Automation II",
+    "description": "Automatically buy generators",
+    "deps": [],
+    "function": "_8c71b44e432952f92a7a158f15c0818c",
+    "tags": [
+      "cycle"
+    ]
+  },
+  "automation_3": {
+    "price": 2500,
+    "name": "Automation III",
+    "description": "Automatically generate exotic matter",
+    "deps": [],
+    "function": "_ca5c561eaff092a63275ef0555ec1b77",
+    "tags": [
+      "cycle"
+    ]
+  }
+}

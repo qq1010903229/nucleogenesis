@@ -1,0 +1,245 @@
+{
+  "x-3": {
+    "price": 250,
+    "name": "Extra prod 1",
+    "description": "Unlocks x3 multipliers",
+    "exotic_deps": [],
+    "dark_deps": []
+  },
+  "boosts-1": {
+    "price": 100,
+    "name": "Boost 1",
+    "description": "Unlocks boosts for every 10 generators",
+    "exotic_deps": [],
+    "dark_deps": []
+  },
+  "isotopes-2": {
+    "price": 500,
+    "name": "Isotopes x2",
+    "description": "Isotopes produce x2 exotic matter",
+    "exotic_deps": [],
+    "dark_deps": [],
+    "function": "_1b2fd50c18f642f1eb4249978db5e286",
+    "tags": [
+      "production",
+      "exotic",
+      "isotope"
+    ]
+  },
+  "readioactive-2": {
+    "price": 5000,
+    "name": "Radioactive bonus",
+    "description": "Radioactive isotopes produce +10% exotic matter per order of magnitude of its half life",
+    "exotic_deps": [],
+    "dark_deps": [],
+    "function": "_994239c27ff733a5feb53ded2f3c0a00",
+    "tags": [
+      "production",
+      "exotic",
+      "isotope"
+    ]
+  },
+  "ions-2": {
+    "price": 5000,
+    "name": "Ions x2",
+    "description": "Ions produce x2 exotic matter",
+    "exotic_deps": [],
+    "dark_deps": [],
+    "function": "_505c99b8f9b8506abaeb96d65207fa6e",
+    "tags": [
+      "production",
+      "exotic",
+      "ion"
+    ]
+  },
+  "ions-charge": {
+    "price": 5000,
+    "name": "Ions charge bonus",
+    "description": "Ions produce +10% exotic matter per charge",
+    "exotic_deps": [],
+    "dark_deps": [],
+    "function": "_74dd48b24879be9492959a083a11e1be",
+    "tags": [
+      "production",
+      "exotic",
+      "ion"
+    ]
+  },
+  "molecules-2": {
+    "price": 5000,
+    "name": "Molecules x2",
+    "description": "Molecules produce x2 exotic matter",
+    "exotic_deps": [],
+    "dark_deps": [],
+    "function": "_f281af54ad13d425173a67c54b58a9bf",
+    "tags": [
+      "production",
+      "exotic",
+      "molecule"
+    ]
+  },
+  "molecules-size": {
+    "price": 5000,
+    "name": "Molecules size bonus",
+    "description": "Molecules produce +5% exotic matter per atom",
+    "exotic_deps": [],
+    "dark_deps": [],
+    "function": "_5e412cb9f41c9ed5f77a2300ca669c71",
+    "tags": [
+      "production",
+      "exotic",
+      "molecule"
+    ]
+  },
+  "x-4": {
+    "name": "Extra prod 2",
+    "description": "Unlocks x4 multipliers",
+    "exotic_deps": [
+      "x-3"
+    ],
+    "dark_deps": [],
+    "price": 5000
+  },
+  "x-5": {
+    "name": "Extra prod 3",
+    "description": "Unlocks x5 multipliers",
+    "exotic_deps": [
+      "x-4"
+    ],
+    "dark_deps": [],
+    "price": 50000
+  },
+  "x-6": {
+    "name": "Extra prod 4",
+    "description": "Unlocks x6 multipliers",
+    "exotic_deps": [
+      "x-5"
+    ],
+    "dark_deps": [],
+    "price": 5000000
+  },
+  "x-7": {
+    "name": "Extra prod 5",
+    "description": "Unlocks x7 multipliers",
+    "exotic_deps": [
+      "x-6"
+    ],
+    "dark_deps": [],
+    "price": 1000000000
+  },
+  "x-8": {
+    "name": "Extra prod 6",
+    "description": "Unlocks x8 multipliers",
+    "exotic_deps": [
+      "x-7"
+    ],
+    "dark_deps": [],
+    "price": 10000000000000
+  },
+  "x-9": {
+    "name": "Extra prod 7",
+    "description": "Unlocks x9 multipliers",
+    "exotic_deps": [
+      "x-8"
+    ],
+    "dark_deps": [],
+    "price": 50000000000000000
+  },
+  "boosts-2": {
+    "name": "Boost 2",
+    "description": "Unlocks boosts for every 25 generators",
+    "exotic_deps": [
+      "boosts-1"
+    ],
+    "dark_deps": [],
+    "price": 1000
+  },
+  "boosts-3": {
+    "name": "Boost 3",
+    "description": "Unlocks boosts for every 50 generators",
+    "exotic_deps": [
+      "boosts-2"
+    ],
+    "dark_deps": [],
+    "price": 100000
+  },
+  "boosts-4": {
+    "name": "Boost 4",
+    "description": "Unlocks boosts for every 100 generators",
+    "exotic_deps": [
+      "boosts-3"
+    ],
+    "dark_deps": [],
+    "price": 10000000
+  },
+  "synergy-1": {
+    "name": "Synergy 1",
+    "description": "Unlocks synergy ugrades for Tier I",
+    "exotic_deps": [],
+    "dark_deps": [],
+    "price": 1000
+  },
+  "synergy-2": {
+    "name": "Synergy 2",
+    "description": "Unlocks synergy ugrades for Tier II",
+    "exotic_deps": [],
+    "dark_deps": [],
+    "price": 500000
+  },
+  "synergy-3": {
+    "name": "Synergy 3",
+    "description": "Unlocks synergy ugrades for Tier III",
+    "exotic_deps": [],
+    "dark_deps": [],
+    "price": 100000000
+  },
+  "synergy-4": {
+    "name": "Synergy 4",
+    "description": "Unlocks synergy ugrades for Tier IV",
+    "exotic_deps": [],
+    "dark_deps": [],
+    "price": 500000000000
+  },
+  "synergy-5": {
+    "name": "Synergy 5",
+    "description": "Unlocks synergy ugrades for Tier V",
+    "exotic_deps": [],
+    "dark_deps": [],
+    "price": 100000000000000
+  },
+  "synergy-6": {
+    "name": "Synergy 6",
+    "description": "Unlocks synergy ugrades for Tier VI",
+    "exotic_deps": [],
+    "dark_deps": [],
+    "price": 500000000000000000
+  },
+  "synergy-7": {
+    "name": "Synergy 7",
+    "description": "Unlocks synergy ugrades for Tier VII",
+    "exotic_deps": [],
+    "dark_deps": [],
+    "price": 100000000000000000000
+  },
+  "synergy-8": {
+    "name": "Synergy 8",
+    "description": "Unlocks synergy ugrades for Tier VIII",
+    "exotic_deps": [],
+    "dark_deps": [],
+    "price": 5e+22
+  },
+  "synergy-9": {
+    "name": "Synergy 9",
+    "description": "Unlocks synergy ugrades for Tier IX",
+    "exotic_deps": [],
+    "dark_deps": [],
+    "price": 1e+24
+  },
+  "synergy-10": {
+    "name": "Synergy 10",
+    "description": "Unlocks synergy ugrades for Tier X",
+    "exotic_deps": [],
+    "dark_deps": [],
+    "price": 5e+29
+  }
+}

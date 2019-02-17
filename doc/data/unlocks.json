@@ -1,0 +1,770 @@
+{
+  "exotic_gate": {
+    "progress": "_4768e0416189b66129de98a95d8b3f76",
+    "goals": [
+      1
+    ]
+  },
+  "isotope": {
+    "progress": "_8d66a9276e2a40a593252c2a38b4ca6f",
+    "goals": [
+      1
+    ]
+  },
+  "molecule": {
+    "progress": "_8b799dbca14e5575a06657159ed4f903",
+    "goals": [
+      1
+    ]
+  },
+  "ion": {
+    "progress": "_d58d6e75fdbad485d16e791f59875f14",
+    "goals": [
+      1
+    ]
+  },
+  "dark_gate": {
+    "progress": "_bd4f7ad2979f57c51b932a8fbc6d2c57",
+    "goals": [
+      1
+    ]
+  },
+  "reaction_gate": {
+    "progress": "_02d336ac72d8979bd6dbf3f0041d90c8",
+    "goals": [
+      1
+    ]
+  },
+  "fusion_gate": {
+    "progress": "_e1b3068f7f60dbaef4a458e8c1aa3507",
+    "goals": [
+      1
+    ]
+  },
+  "table_gate": {
+    "progress": "_2603de63521826dc0bd1336885a63834",
+    "goals": [
+      1
+    ]
+  },
+  "radioactive": {
+    "progress": "_f9e775dde01c6c618e3b263561e84894",
+    "goals": [
+      1
+    ]
+  },
+  "misc": {
+    "progress": "_73070489a59840701098f8eaa7d15ca1",
+    "goals": [
+      1
+    ]
+  },
+  "H": {
+    "progress": "_7d231852acf06e99a5929887b73c74b4",
+    "goals": [
+      1
+    ]
+  },
+  "He": {
+    "progress": "_d727269f15df380a84843d8cf3caddcc",
+    "goals": [
+      1
+    ]
+  },
+  "Li": {
+    "progress": "_3d34db2838162bde2bf459370c077abc",
+    "goals": [
+      1
+    ]
+  },
+  "Be": {
+    "progress": "_928b0b9797759d4d62cb418538d25254",
+    "goals": [
+      1
+    ]
+  },
+  "B": {
+    "progress": "_c2f2e48ec023dcf0eeacaac90cde4818",
+    "goals": [
+      1
+    ]
+  },
+  "C": {
+    "progress": "_e56ac0423f1ff627569a63d1e3174824",
+    "goals": [
+      1
+    ]
+  },
+  "N": {
+    "progress": "_6e56890c333034f46cfda692db977e7d",
+    "goals": [
+      1
+    ]
+  },
+  "O": {
+    "progress": "_cf87bccece7c8db99fd79de34c6ffc9c",
+    "goals": [
+      1
+    ]
+  },
+  "F": {
+    "progress": "_119ce603f5b7c67390adebd757077576",
+    "goals": [
+      1
+    ]
+  },
+  "Ne": {
+    "progress": "_4efcee5e5620897e87ec8f36e609ba50",
+    "goals": [
+      1
+    ]
+  },
+  "Na": {
+    "progress": "_06bc4753d91c99b1d7c6e8d7f08756de",
+    "goals": [
+      1
+    ]
+  },
+  "Mg": {
+    "progress": "_3a744fc7567d98ac444801921191ac2e",
+    "goals": [
+      1
+    ]
+  },
+  "Al": {
+    "progress": "_97e669d0968425202b54169c4b9cc3fd",
+    "goals": [
+      1
+    ]
+  },
+  "Si": {
+    "progress": "_db062c9a202e19cabdb9502e0a20dc12",
+    "goals": [
+      1
+    ]
+  },
+  "P": {
+    "progress": "_666ddc5c6c15186e477d856ef36e1124",
+    "goals": [
+      1
+    ]
+  },
+  "S": {
+    "progress": "_2cc1bf4d80d3ebd00237c7d0b1eb7f00",
+    "goals": [
+      1
+    ]
+  },
+  "Cl": {
+    "progress": "_cd90731e8d910b7a4b4dec42ce6c191c",
+    "goals": [
+      1
+    ]
+  },
+  "Ar": {
+    "progress": "_bf075188131d582852a5263188e98dae",
+    "goals": [
+      1
+    ]
+  },
+  "K": {
+    "progress": "_dc458659b588d9ca70372d89adf53a0b",
+    "goals": [
+      1
+    ]
+  },
+  "Ca": {
+    "progress": "_be3381923926b1ac3bb4266b183d2fd7",
+    "goals": [
+      1
+    ]
+  },
+  "Sc": {
+    "progress": "_272b9729cc7a1b31a1c0047d7ae4b6d8",
+    "goals": [
+      1
+    ]
+  },
+  "Ti": {
+    "progress": "_8b63494bbf44ef2d4a98576f09b0e3f5",
+    "goals": [
+      1
+    ]
+  },
+  "V": {
+    "progress": "_b5ff5ac4805948dfd1fcae86b1987a93",
+    "goals": [
+      1
+    ]
+  },
+  "Cr": {
+    "progress": "_57ba2792ea7461d27458b560dc8d7964",
+    "goals": [
+      1
+    ]
+  },
+  "Mn": {
+    "progress": "_4ca8fde582222487fb03a930d5754b10",
+    "goals": [
+      1
+    ]
+  },
+  "Fe": {
+    "progress": "_166587f5489da0f6d34ab1b3d4b4ab0b",
+    "goals": [
+      1
+    ]
+  },
+  "Co": {
+    "progress": "_a702610cc2634cec29d1429341cd81f4",
+    "goals": [
+      1
+    ]
+  },
+  "Ni": {
+    "progress": "_3226ba0258676ac3e5c13499695bb25d",
+    "goals": [
+      1
+    ]
+  },
+  "Cu": {
+    "progress": "_7a6552a1bbb58d1b17f0bd6473a952e6",
+    "goals": [
+      1
+    ]
+  },
+  "Zn": {
+    "progress": "_0d3c13b084200ac813426f5d096f62a8",
+    "goals": [
+      1
+    ]
+  },
+  "Ga": {
+    "progress": "_623217575cb63340e2e4daf7253f1a4a",
+    "goals": [
+      1
+    ]
+  },
+  "Ge": {
+    "progress": "_4d1116c2d2612ca980fe574af67a1a94",
+    "goals": [
+      1
+    ]
+  },
+  "As": {
+    "progress": "_f085fe2df3c4d3bbdf3218d07bf2e64d",
+    "goals": [
+      1
+    ]
+  },
+  "Se": {
+    "progress": "_d2a39c90ab135784e301f053947929fa",
+    "goals": [
+      1
+    ]
+  },
+  "Br": {
+    "progress": "_315f70bc3e0862293835b9e2562c82eb",
+    "goals": [
+      1
+    ]
+  },
+  "Kr": {
+    "progress": "_1715831d61f153036d2c6bd166faced8",
+    "goals": [
+      1
+    ]
+  },
+  "Rb": {
+    "progress": "_4efe389dd2e5a3e75e21628d303a6a19",
+    "goals": [
+      1
+    ]
+  },
+  "Sr": {
+    "progress": "_272bba71b6b073dd1ddd61978d253efa",
+    "goals": [
+      1
+    ]
+  },
+  "Y": {
+    "progress": "_d09ad43c8d64c2b9f678aafb6ad6a9d5",
+    "goals": [
+      1
+    ]
+  },
+  "Zr": {
+    "progress": "_68f354240ce3ddd153dc9ce3e9365e46",
+    "goals": [
+      1
+    ]
+  },
+  "Nb": {
+    "progress": "_cb345614af70fb347bd45189e470bfe0",
+    "goals": [
+      1
+    ]
+  },
+  "Mo": {
+    "progress": "_1edc38208326688eba96de0c3b9b657b",
+    "goals": [
+      1
+    ]
+  },
+  "Tc": {
+    "progress": "_4c95b60de2bfd3381328086b6bba0525",
+    "goals": [
+      1
+    ]
+  },
+  "Ru": {
+    "progress": "_68dd45f3b88355f432da0f936d0819e2",
+    "goals": [
+      1
+    ]
+  },
+  "Rh": {
+    "progress": "_4df716a918f2421dd3ac7c369604ed0b",
+    "goals": [
+      1
+    ]
+  },
+  "Pd": {
+    "progress": "_d955209b9915b23fbe0b43c1b2a41243",
+    "goals": [
+      1
+    ]
+  },
+  "Ag": {
+    "progress": "_8855f281294e4bfd48ea816c8d9d9d99",
+    "goals": [
+      1
+    ]
+  },
+  "Cd": {
+    "progress": "_df40063966f3a7400ee41448d8294ebc",
+    "goals": [
+      1
+    ]
+  },
+  "In": {
+    "progress": "_47e7602ddccb1f5e31626fbb21b1be5a",
+    "goals": [
+      1
+    ]
+  },
+  "Sn": {
+    "progress": "_1a5cbc47c331635e9e59a3e433f725f7",
+    "goals": [
+      1
+    ]
+  },
+  "Sb": {
+    "progress": "_d5497c400eda17cc4e5c3c38cc9f7a6f",
+    "goals": [
+      1
+    ]
+  },
+  "Te": {
+    "progress": "_2e7d1e5505d31eae957c05736b70ec92",
+    "goals": [
+      1
+    ]
+  },
+  "I": {
+    "progress": "_5901c46a5a2c85d643fe7284b92ce902",
+    "goals": [
+      1
+    ]
+  },
+  "Xe": {
+    "progress": "_0230cae2b75dfffbd9da421ff8fb0844",
+    "goals": [
+      1
+    ]
+  },
+  "Cs": {
+    "progress": "_fd36874e45c7cc614ecb1832a2669c1a",
+    "goals": [
+      1
+    ]
+  },
+  "Ba": {
+    "progress": "_23d2ec3c0567509e2187dae9a3e1256f",
+    "goals": [
+      1
+    ]
+  },
+  "La": {
+    "progress": "_250f493be2f01b974ba488b93e438fe7",
+    "goals": [
+      1
+    ]
+  },
+  "Ce": {
+    "progress": "_8433188c95f33aec25b8cccf05f08ad9",
+    "goals": [
+      1
+    ]
+  },
+  "Pr": {
+    "progress": "_6e41d602f4a3970fd4b42582963ea11f",
+    "goals": [
+      1
+    ]
+  },
+  "Nd": {
+    "progress": "_d4b10b4027d856576533863919467c9b",
+    "goals": [
+      1
+    ]
+  },
+  "Pm": {
+    "progress": "_b355b1f96edbfa5be7cba65152017b16",
+    "goals": [
+      1
+    ]
+  },
+  "Sm": {
+    "progress": "_6686f644d59f08f340509aa9013d19b2",
+    "goals": [
+      1
+    ]
+  },
+  "Eu": {
+    "progress": "_aa2f505591101c74b419b7e7c0c6b478",
+    "goals": [
+      1
+    ]
+  },
+  "Gd": {
+    "progress": "_4a57dfba428775b7bb7e363ba44c39b6",
+    "goals": [
+      1
+    ]
+  },
+  "Tb": {
+    "progress": "_d2b703e38bf4b88929a01d3e32ef8b5c",
+    "goals": [
+      1
+    ]
+  },
+  "Dy": {
+    "progress": "_ad663ea615e035af05874d8773eee602",
+    "goals": [
+      1
+    ]
+  },
+  "Ho": {
+    "progress": "_2cadf76baef41a3698ab07a9a137cf1f",
+    "goals": [
+      1
+    ]
+  },
+  "Er": {
+    "progress": "_9c4ac47598a61b6c51782033eabdc31b",
+    "goals": [
+      1
+    ]
+  },
+  "Tm": {
+    "progress": "_24d4aa293be0a7465d6800a02edd4aa1",
+    "goals": [
+      1
+    ]
+  },
+  "Yb": {
+    "progress": "_c5ebe0a19ccd8dbea25b54cfffbee313",
+    "goals": [
+      1
+    ]
+  },
+  "Lu": {
+    "progress": "_434431f2679849705b4fa01b01be12d4",
+    "goals": [
+      1
+    ]
+  },
+  "Hf": {
+    "progress": "_d2a89489af8e9fe95c332ea78d8759d0",
+    "goals": [
+      1
+    ]
+  },
+  "Ta": {
+    "progress": "_42a521eac628a8cf8ad840f2e18315e1",
+    "goals": [
+      1
+    ]
+  },
+  "W": {
+    "progress": "_df1e8be042f2157ac65ac94c12b25687",
+    "goals": [
+      1
+    ]
+  },
+  "Re": {
+    "progress": "_49fb5f87b7bbc93aa048b08d2b24a18e",
+    "goals": [
+      1
+    ]
+  },
+  "Os": {
+    "progress": "_558a72c3d6d838e49be87af5458282cf",
+    "goals": [
+      1
+    ]
+  },
+  "Ir": {
+    "progress": "_14c276117756692715a678ffb5f2548d",
+    "goals": [
+      1
+    ]
+  },
+  "Pt": {
+    "progress": "_8c28b1668fbed417aafc5106af5624ee",
+    "goals": [
+      1
+    ]
+  },
+  "Au": {
+    "progress": "_64de9c0d6fbc2ba7e25ddfb161fa69c4",
+    "goals": [
+      1
+    ]
+  },
+  "Hg": {
+    "progress": "_3ccd73e44a73005fa32dca85d853e498",
+    "goals": [
+      1
+    ]
+  },
+  "Tl": {
+    "progress": "_275ed3068284eb25a9636f17d07e9d0a",
+    "goals": [
+      1
+    ]
+  },
+  "Pb": {
+    "progress": "_bd44ded6f736491287b5c2238756cf7f",
+    "goals": [
+      1
+    ]
+  },
+  "Bi": {
+    "progress": "_21b128063605bf2881efd9786e0d5abf",
+    "goals": [
+      1
+    ]
+  },
+  "Po": {
+    "progress": "_e38729985893dc1142016e356639570e",
+    "goals": [
+      1
+    ]
+  },
+  "At": {
+    "progress": "_7b95f3d9e0203ee9163a68e8a38b823e",
+    "goals": [
+      1
+    ]
+  },
+  "Rn": {
+    "progress": "_179de4b30384e0ca7459513c54d3ed39",
+    "goals": [
+      1
+    ]
+  },
+  "Fr": {
+    "progress": "_4b3b30312b053622334b3b0643df912c",
+    "goals": [
+      1
+    ]
+  },
+  "Ra": {
+    "progress": "_fa6c1d8ffc504475f65831fee50a927a",
+    "goals": [
+      1
+    ]
+  },
+  "Ac": {
+    "progress": "_b3b90fd4f8e02005f2c8e47d4f0cc702",
+    "goals": [
+      1
+    ]
+  },
+  "Th": {
+    "progress": "_46b4755fb41a937485f3f230b0ec6768",
+    "goals": [
+      1
+    ]
+  },
+  "Pa": {
+    "progress": "_78d26b5fb02cb6b297edad4db9e17705",
+    "goals": [
+      1
+    ]
+  },
+  "U": {
+    "progress": "_3ad80553c40b3acb451993bcd22df581",
+    "goals": [
+      1
+    ]
+  },
+  "Np": {
+    "progress": "_164e21e0ab7cf148cd209903ad82bc95",
+    "goals": [
+      1
+    ]
+  },
+  "Pu": {
+    "progress": "_1d7b9d150313b336e2b8ac7e9b899da8",
+    "goals": [
+      1
+    ]
+  },
+  "Am": {
+    "progress": "_d414e63f4aeb20d5ddcbd7f63aaa93b9",
+    "goals": [
+      1
+    ]
+  },
+  "Cm": {
+    "progress": "_c7e0ea3fcf685bbbc06bb289dbc73fcd",
+    "goals": [
+      1
+    ]
+  },
+  "Bk": {
+    "progress": "_c9ffe00569006bc3b62192e860e7296f",
+    "goals": [
+      1
+    ]
+  },
+  "Cf": {
+    "progress": "_c59a4b29c7dc71f3942135aacc866b3e",
+    "goals": [
+      1
+    ]
+  },
+  "Es": {
+    "progress": "_717a0605ef61be379d2271a06de12842",
+    "goals": [
+      1
+    ]
+  },
+  "Fm": {
+    "progress": "_6cb64b30803a3ae84283548ea4a06f49",
+    "goals": [
+      1
+    ]
+  },
+  "Md": {
+    "progress": "_fa54df57a055228d658ba3223983488c",
+    "goals": [
+      1
+    ]
+  },
+  "No": {
+    "progress": "_368981848fa2af4cb21b936eb285c0a4",
+    "goals": [
+      1
+    ]
+  },
+  "Lr": {
+    "progress": "_f9a2b92fe06158d7a4a89cea90ada0f2",
+    "goals": [
+      1
+    ]
+  },
+  "Rf": {
+    "progress": "_e1b60fd7f401becb2a180db5036be7f0",
+    "goals": [
+      1
+    ]
+  },
+  "Db": {
+    "progress": "_624a33ef5c654bf6e2be01f80fb7c095",
+    "goals": [
+      1
+    ]
+  },
+  "Sg": {
+    "progress": "_134b558194e7decc7e360ad2d9009c3d",
+    "goals": [
+      1
+    ]
+  },
+  "Bh": {
+    "progress": "_121551ad66e5005f028ca5e02acb1c68",
+    "goals": [
+      1
+    ]
+  },
+  "Hs": {
+    "progress": "_a0401b99689c39c91bb6136a7c94770e",
+    "goals": [
+      1
+    ]
+  },
+  "Mt": {
+    "progress": "_22f301b6bc86ea284eb283293fffb6fd",
+    "goals": [
+      1
+    ]
+  },
+  "Ds": {
+    "progress": "_437df06a47c73ad021fb0dec5988e42b",
+    "goals": [
+      1
+    ]
+  },
+  "Rg": {
+    "progress": "_1d2a1e4e25292f9b71440787572bf662",
+    "goals": [
+      1
+    ]
+  },
+  "Cn": {
+    "progress": "_8d4137efa4bebd1b18c5053ee6a1529a",
+    "goals": [
+      1
+    ]
+  },
+  "Nh": {
+    "progress": "_1cf0c7f54f39c345fcd892161fc32fee",
+    "goals": [
+      1
+    ]
+  },
+  "Fl": {
+    "progress": "_e417c86523ae909de836e0e52bec4c59",
+    "goals": [
+      1
+    ]
+  },
+  "Mc": {
+    "progress": "_66bbb7643ac9cb229b4867c3fa7725f7",
+    "goals": [
+      1
+    ]
+  },
+  "Lv": {
+    "progress": "_5f4d5b0acf905173aadab51f1708375b",
+    "goals": [
+      1
+    ]
+  },
+  "Ts": {
+    "progress": "_fd85caebea1c6d3371963b9f169b9032",
+    "goals": [
+      1
+    ]
+  },
+  "Og": {
+    "progress": "_f1222c0e20c2ef6bf09e859e58ea1742",
+    "goals": [
+      1
+    ]
+  }
+}
