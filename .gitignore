@@ -1,6 +1,5 @@
 pretest/
 node_modules/
-bower_components/
 test/unit/coverage
 coverage/
 build/
