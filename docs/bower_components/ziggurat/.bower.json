@@ -1,0 +1,13 @@
+{
+  "name": "ziggurat",
+  "homepage": "https://github.com/angarg12/ziggurat",
+  "_release": "700c8b473a",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "700c8b473a0376fcb3721596a20c497c7c2fa6c5"
+  },
+  "_source": "https://github.com/angarg12/ziggurat.git",
+  "_target": "*",
+  "_originalSource": "angarg12/ziggurat"
+}

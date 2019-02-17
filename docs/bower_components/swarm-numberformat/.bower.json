@@ -1,0 +1,39 @@
+{
+  "name": "swarm-numberformat",
+  "description": "Format very large numbers in several human-readable ways. `format(1e6)` -> `\"1 million\"` or `\"1M\"`",
+  "main": "dist/swarm-numberformat.js",
+  "keywords": [
+    "number",
+    "format",
+    "number format",
+    "format number",
+    "words",
+    "number words",
+    "notation",
+    "swarm",
+    "swarmsim",
+    "swarm simulator"
+  ],
+  "authors": [
+    "Evan <github@erosson.org>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/erosson/swarm-numberformat",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "version": "0.4.0",
+  "_release": "0.4.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.4.0",
+    "commit": "60e6399574961aa05596d20c2172b575d1f5d810"
+  },
+  "_source": "https://github.com/erosson/swarm-numberformat.git",
+  "_target": "^0.4.0",
+  "_originalSource": "swarm-numberformat"
+}
